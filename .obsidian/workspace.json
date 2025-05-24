@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e44ba20cc1bf3815",
+        "id": "decd0dc1f0c36297",
         "type": "tabs",
         "children": [
           {
-            "id": "ece8f80fcdf58b4b",
+            "id": "3d9742e37efcbf39",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d-graph-view-global",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "orbit",
+              "title": "Global 3D Graph"
+            }
+          },
+          {
+            "id": "244fc3f47e6bdb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,9 +158,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ca54e6da705144c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,12 +185,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece8f80fcdf58b4b",
+  "active": "244fc3f47e6bdb20",
   "lastOpenFiles": [
     "README.md",
+    "Lore/Antikal (Jerboa).md",
     "NPC's/Paul Mason.md",
     "NPC's/Palamuda Slim.md",
     "Recap/(Session 7) Ar-gone Silliax.md",
@@ -173,7 +200,6 @@
     "Locations/Mining Town of Jerboa.md",
     "Locations/Living City of Kali.md",
     "Lore/Train Heist.md",
-    "Lore/Antikal (Jerboa).md",
     "NPC's/Rosa.md",
     "NPC's/Crazy Pete.md",
     "NPC's/Mary Jane Woodstock.md",
