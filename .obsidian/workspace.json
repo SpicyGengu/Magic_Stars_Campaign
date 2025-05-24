@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d9742e37efcbf39",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
-            }
-          },
-          {
             "id": "244fc3f47e6bdb20",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
