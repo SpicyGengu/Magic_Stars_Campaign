@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Kali #Location 
+A little plants and vegetables shop in [[Living City of Kali]]. The store is [[Mike Mihaelov]]s passion project. It's not too successful, but it is successful enough to be economically self sufficient. 

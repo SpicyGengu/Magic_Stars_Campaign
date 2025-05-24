@@ -1,0 +1,2 @@
+#Stribor_Forest #Location 
+A little shack in the [[Stribor Forest]], abandoned after the [[Badija-Ophilia civil war]] started. The shack now houses two recovering soldiers. [[Jakov Jurkić]] and [[Bruno Danijelov]]

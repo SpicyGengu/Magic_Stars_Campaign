@@ -1,0 +1,4 @@
+#Silbian_Mountain_Ranges/New_Kali #Magnolian_Sea #NPC 
+One of the few survivors of the [[New Kali]] catastrophe.
+# Post [[(Session 5) Nuke-ali]]
+Together with [[Boon]], Jane was transported by the [[Traveling Carriage (New Kali - Yarrow)]] to the [[Living City of Kali]]. Unfortunately neither her nor [[Boon]] had a proper [[Kali Entrance Certification]]. They bit the bullet and decided to leave for [[Magnolia]]. She always wanted to visit, so now was her chance. Their long journey lead to a lot of bonding. They ended falling for each other and now they live in [[Magnolia]] at [[Jane & Boons House]].

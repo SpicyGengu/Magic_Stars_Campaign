@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Dracona #Location 
+While usually full of life and [[Igni]] culture, ever since [[The Tribal War]] started, the settlement has become a training ground for warriors. Highly guarded and highly weaponised, it would seem that the settlement now only consists of training arenas, sleeping quarters and huge cooking stations. 

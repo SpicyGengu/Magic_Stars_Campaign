@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Kali #Location 
+A part of [[Living City of Kali]] populated mostly by artists. Arguably the poorest area of the city, it is flowing with life. People singing, painting, doing acrobatics. It is as colourful in culture as it is visually. 

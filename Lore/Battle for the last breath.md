@@ -1,0 +1,6 @@
+#Lore 
+If a player hits 0 hit points and is prompted to roll death saves, they instead wake up in the [[Nameless City]]. More specifically in the [[Colosseum of The Damned]]. There the player will be met with [[Sombra de los Muertos]], who will have to be defeated in order for the player to survive and come to a stable state again. The battle can only end one of 3 ways. The player can lose the battle leading to a character death (womp womp). The player can win over [[Sombra de los Muertos]], getting the player into a stable state. And lastly outside interference. If the player gets healed, stabilised or in any way get's rid of the dying condition, [[Sombra de los Muertos]] will stop the battle, and the player will survive. 
+# Notes
+- Each consequent player that gets knocked down will enter the same battle and have the option to battle [[Sombra de los Muertos]] at the same time.
+- Defeating [[Sombra de los Muertos]] does not necessarily mean he has to be defeated physically, one can also try persuading Sombra into letting them go. Similarly to what [[Bonnie]] did to save [[Grimshot]].
+- All conditions applied to the dying player, while dying, get transferred to this battle. (This especially counts for damage and such).

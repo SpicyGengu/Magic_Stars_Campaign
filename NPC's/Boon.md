@@ -1,0 +1,6 @@
+#Silbian_Mountain_Ranges/New_Kali #Magnolian_Sea #NPC 
+Boon is one of two musketeers that can be found atop the [[Entrance to New Kali]] gate. His wife [[Selma]] went missing some 2 weeks ago and no one has seen her. He is convinced that someone in the city is responsible. He will give the players his hat, and tell them that if they find out who did it, to give them the hat and lure them to the gate. That is how he will know who to kill. If they do this he will reward them handsomely.
+# Post [[(Session 5) Nuke-ali]]
+Together with [[Jane]], Boon was transported by the [[Traveling Carriage (New Kali - Yarrow)]] to the [[Living City of Kali]]. Unfortunately neither Boon nor [[Jane]] had a proper [[Kali Entrance Certification]]. They bit the bullet and decided to leave for [[Magnolia]]. [[Jane]] always wanted to visit. Their long journey lead to a lot of bonding. They ended falling for each other and now they live in [[Magnolia]] at [[Jane & Boons House]].
+# Notes 
+Wife is a changeling in the [[Golden Barrel]] going by the name [[Helga]].

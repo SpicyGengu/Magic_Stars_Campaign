@@ -1,0 +1,4 @@
+#Silbian_Mountain_Ranges/New_Kali #NPC #Dead-Gone 
+ Mauna Loa is the largest of [[The Knights of New Kali]]. Short tempered, much like a wild fire, once goes off she doesn't stop until she get's her way. Fighting with two shark toothed clubs. When she rages fire and lava start spewing out of her body. While at first a perfect fit for the [[Living City of Kali]]s arsenal, Mauna Loa has become way to difficult to control when she's angry. She was originally from [[Magnolia]], where she used to be among the [[Magnolian Pirates]].
+# Gambling addict
+Mauna Loa is a very aggressive player since she essentially only plays with [[New Kali]]s tax [[Star fragment]]s. She often spills way to much information when playing, and gets violent and angry when she's losing.

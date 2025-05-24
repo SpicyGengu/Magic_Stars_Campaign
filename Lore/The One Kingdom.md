@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Dracona #Lore 
+400 years ago [[The Mountain Tribes]] were united under one kingdom called The One Kingdom. This kingdom was ruled by one man alone, going by the name [[Antesillax]].

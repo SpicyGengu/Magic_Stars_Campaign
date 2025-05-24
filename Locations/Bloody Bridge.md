@@ -1,0 +1,2 @@
+#Stribor_Forest #Location 
+A bridge in [[Badija and Ophilia]] that just recently got it's name due to the constant killing that's happening on it. A strategic choke hold in the [[Badija-Ophilia civil war]]. Taking over the bridge would be a huge strategic advantage. As of now the territory is no ones land since no side seems to be able to capture it successfully.  So much blood has been spilt on it that it started to colour the river under it in blood. The blood can be seen pretty far into the [[Stribor Forest]].

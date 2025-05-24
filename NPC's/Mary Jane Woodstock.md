@@ -1,0 +1,4 @@
+#Yarrow_Dessert #NPC 
+A woman living in the [[Mining Town of Jerboa]] with her husband [[Timothy Woodstock]]. Together they take care of the cattle in the town.
+# Helping Mary Jane
+The [[Woodstock Family]]s cows have recently started disappearing in the middle of the night. Whilst [[Timothy Woodstock]] blames it on the stars, Mary Jane isn't fooled as easily. Her instinct tells her it has something to do with [[Paul Mason]]. It's mighty convenient how the whole situation subscribes very tightly to his religious preaching's. Yet still, she has no evidence. Only thing she has noticed has been some weird singing in the night.

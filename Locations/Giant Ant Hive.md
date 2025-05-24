@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges #Location 
+A tunnel system, home to one of the [[Giant Ant Colonies]]. This is where the players will be taken to at the start of the campaign. [[Đorđe Balašević]] can be found here trapped.

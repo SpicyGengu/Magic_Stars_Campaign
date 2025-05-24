@@ -1,0 +1,6 @@
+#Silbian_Mountain_Ranges/Dracona  #Lore 
+A figure of legends who many years ago united and ruled over [[The Mountain Tribes]]. Antesillax went down in history as the most powerful [[Dracona]] to ever live. His rule span over a 100 years, greatly surpassing the expected lifespan of an average [[Dracona]]. To date, Antesillax has been the only person to ever unite [[The Mountain Tribes]] under one kingdom, at the time called [[The One Kingdom]]. Antesillax was the last [[Dracona]] to ever wield lightning. With his death, lightning wielding [[Dracona]] were not to be seen for the next 400 years.
+
+He was a mighty ruler not only due to his strength alone, but due to the weight his words held. Antesillax's word was worth more than anything money could buy. Antesillax was a fierce negotiator, planer, and a force not to be reckoned with. 
+# Death
+At the end of his life Antesilliax met with [[Sombra de los Muertos]]. Given his life's legendary status, [[Sombra de los Muertos]] offered him a deal. Instead of dying, he got to choose to get reincarnated as whatever he wanted. He chose to get reincarnated as [[The Lightning Bolt]]. A magical bow infused with the soul of a fierce leader.

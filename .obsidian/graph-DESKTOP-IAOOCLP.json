@@ -1,0 +1,149 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Recap  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711842
+      }
+    },
+    {
+      "query": "tag:#Player  ",
+      "color": {
+        "a": 1,
+        "rgb": 8716288
+      }
+    },
+    {
+      "query": "tag:#Yarrow_Dessert path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "tag:#Yarrow_Dessert path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758328
+      }
+    },
+    {
+      "query": "tag:#Yarrow_Dessert path:NPC's  ",
+      "color": {
+        "a": 1,
+        "rgb": 13341477
+      }
+    },
+    {
+      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6184150
+      }
+    },
+    {
+      "query": "tag:#Silbian_Mountain_Ranges path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 4144568
+      }
+    },
+    {
+      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
+      "color": {
+        "a": 1,
+        "rgb": 3420643
+      }
+    },
+    {
+      "query": "tag:#Magnolian_Sea path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 8768711
+      }
+    },
+    {
+      "query": "tag:#Magnolian_Sea path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 3735548
+      }
+    },
+    {
+      "query": "tag:#Magnolian_Sea path:NPC's  ",
+      "color": {
+        "a": 1,
+        "rgb": 1359282
+      }
+    },
+    {
+      "query": "tag:#Stribor_Forest  path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#Stribor_Forest path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 3471671
+      }
+    },
+    {
+      "query": "tag:#Stribor_Forest path:NPC's  ",
+      "color": {
+        "a": 1,
+        "rgb": 1682971
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 9717448
+      }
+    },
+    {
+      "query": "path:Lore",
+      "color": {
+        "a": 1,
+        "rgb": 9122228
+      }
+    },
+    {
+      "query": "path:NPC's  ",
+      "color": {
+        "a": 1,
+        "rgb": 4861032
+      }
+    },
+    {
+      "query": "tag:#louise",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1.00709342560554,
+  "collapse-forces": false,
+  "centerStrength": 0.0709342560553633,
+  "repelStrength": 7.16262975778547,
+  "linkStrength": 0.669550173010381,
+  "linkDistance": 100,
+  "scale": 0.2035820273819012,
+  "close": false
+}

@@ -1,0 +1,2 @@
+#Yarrow_Dessert #NPC #Dead-Gone 
+[[Grimshot]]'s now deceased wife. She died of sickness, gave her soul to [[Sombra de los Muertos]] and in doing so gave [[Grimshot]] a few more years to live. Bonnie is now buried in [[Crows Point]]. [[Jenny]] is there almost every day to mourn her and bring flowers to [[Bonnie's Grave]].

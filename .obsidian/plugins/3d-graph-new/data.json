@@ -1,0 +1,236 @@
+{
+  "savedSettings": [
+    {
+      "title": "Default for now",
+      "id": "bdaf0a61-974a-4ee8-a307-e964e1e11871",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "path:Locations",
+            "color": "#9446c8"
+          },
+          {
+            "query": "path:Lore",
+            "color": "#8b31b4"
+          },
+          {
+            "query": "path:NPC's",
+            "color": "#4a2c68"
+          },
+          {
+            "query": "tag:#Silbian_Mountain_Ranges path:Locations",
+            "color": "#5e5cd6"
+          },
+          {
+            "query": "tag:#Silbian_Mountain_Ranges path:Lore",
+            "color": "#3f3db8"
+          },
+          {
+            "query": "tag:#Silbian_Mountain_Ranges path:NPC's",
+            "color": "#3431e3"
+          },
+          {
+            "query": "tag:#Magnolian_Sea path:Locations",
+            "color": "#6eddd6"
+          },
+          {
+            "query": "tag:#Magnolian_Sea path:Lore",
+            "color": "#38fffc"
+          },
+          {
+            "query": "tag:#Magnolian_Sea path:NPC's",
+            "color": "#14bdb2"
+          },
+          {
+            "query": "tag:#Stribor_Forest  path:Locations",
+            "color": "#5cd65c"
+          },
+          {
+            "query": "tag:#Stribor_Forest path:Lore",
+            "color": "#34f937"
+          },
+          {
+            "query": "tag:#Stribor_Forest path:NPC's",
+            "color": "#19ae1b"
+          },
+          {
+            "query": "tag:#Yarrow_Dessert path:NPC's ",
+            "color": "#cb9325"
+          },
+          {
+            "query": "tag:#Yarrow_Dessert path:Lore",
+            "color": "#ffb638"
+          },
+          {
+            "query": "tag:#Yarrow_Dessert path:Locations  ",
+            "color": "#d6c65c"
+          },
+          {
+            "query": "tag:#Player  ",
+            "color": "#850000"
+          },
+          {
+            "query": "tag:#Recap  ",
+            "color": "#ff00a2"
+          },
+          {
+            "query": "tag:#Dead-Gone  ",
+            "color": "#000000"
+          }
+        ],
+        "display": {
+          "nodeSize": 3,
+          "linkThickness": 1.5,
+          "linkDistance": 100,
+          "nodeRepulsion": 3000,
+          "distanceFromFocal": 300,
+          "nodeHoverColor": "#8a2ee5",
+          "nodeHoverNeighbourColor": "#850aff",
+          "linkHoverColor": "#9900ff",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": false,
+          "showLinkArrow": false,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 2,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "path:Locations",
+        "color": "#9446c8"
+      },
+      {
+        "query": "path:Lore",
+        "color": "#8b31b4"
+      },
+      {
+        "query": "path:NPC's",
+        "color": "#4a2c68"
+      },
+      {
+        "query": "tag:#Silbian_Mountain_Ranges path:Locations",
+        "color": "#5e5cd6"
+      },
+      {
+        "query": "tag:#Silbian_Mountain_Ranges path:Lore",
+        "color": "#3f3db8"
+      },
+      {
+        "query": "tag:#Silbian_Mountain_Ranges path:NPC's",
+        "color": "#3431e3"
+      },
+      {
+        "query": "tag:#Magnolian_Sea path:Locations",
+        "color": "#6eddd6"
+      },
+      {
+        "query": "tag:#Magnolian_Sea path:Lore",
+        "color": "#38fffc"
+      },
+      {
+        "query": "tag:#Magnolian_Sea path:NPC's",
+        "color": "#14bdb2"
+      },
+      {
+        "query": "tag:#Stribor_Forest  path:Locations",
+        "color": "#5cd65c"
+      },
+      {
+        "query": "tag:#Stribor_Forest path:Lore",
+        "color": "#34f937"
+      },
+      {
+        "query": "tag:#Stribor_Forest path:NPC's",
+        "color": "#19ae1b"
+      },
+      {
+        "query": "tag:#Yarrow_Dessert path:NPC's ",
+        "color": "#cb9325"
+      },
+      {
+        "query": "tag:#Yarrow_Dessert path:Lore",
+        "color": "#ffb638"
+      },
+      {
+        "query": "tag:#Yarrow_Dessert path:Locations  ",
+        "color": "#d6c65c"
+      },
+      {
+        "query": "tag:#Player  ",
+        "color": "#850000"
+      },
+      {
+        "query": "tag:#Recap  ",
+        "color": "#ff00a2"
+      },
+      {
+        "query": "tag:#Dead-Gone  ",
+        "color": "#000000"
+      }
+    ],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 1.5,
+      "linkDistance": 100,
+      "nodeRepulsion": 3000,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#8a2ee5",
+      "nodeHoverNeighbourColor": "#850aff",
+      "linkHoverColor": "#9900ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": false,
+      "showLinkArrow": false,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Kali #Location 
+It is said that at this spot in [[Living City of Kali]] exactly; long, long time ago; a star fell. It shot through the mountain, and made this crater we can see today. 

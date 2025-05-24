@@ -1,0 +1,2 @@
+#Magnolian_Sea #NPC 
+An inventor in [[Magnolia]]. He offers cheaper alternatives to [[Mato Inovatto]]'s prosthetics. He is a good inventor but not the best. He has specialised in reverse engineering and replicating of mechanisms. This is why he is able to have a fair chance at forging [[Kali Entrance Certification]]. His services can be accessed at [[Fabriccado's Workshop]].

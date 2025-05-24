@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges #Lore 
+The giant ant colonies are colonies of ants spread all around the [[Silbian Mountain Ranges]]. Living in underground tunnels they often find themselves invading the [[Gazul]] tribes. 

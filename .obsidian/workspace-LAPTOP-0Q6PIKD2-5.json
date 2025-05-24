@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4018420561621f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e44ba20cc1bf3815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ab184cb6678762",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "orbit",
+              "title": "Global 3D Graph"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1c7b7836acef5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef25290ca725ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8968c6e38a778df9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c09fb86693a1a98e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Silbian_Mountain_Ranges/Kali",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "957fc92553cde9f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "150c49f990afefdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "144497f6742990d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7ffc7c80fbc8aa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4131eb47a974d0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5a28c743e69de99b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ecfd701fc3263947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 576.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "90ab184cb6678762",
+  "lastOpenFiles": [
+    "NPC's/Chainsaw Man.md",
+    "Lore/Train Heist.md",
+    "Lore/Igni.md",
+    "Recap/(Session 2) New Kali.md",
+    "Recap/(Session 1) The Bininging.md",
+    "Recap/(Session 5) Nuke-ali.md",
+    "Locations/Living City of Kali.md",
+    "Lore/The Mountain Tribes.md",
+    "Locations/Golden Barrel.md",
+    "NPC's/Butch.md",
+    "NPC's/Grimshot.md",
+    "Recap/(Session 4) The Undying.md",
+    "NPC's/Emma.md",
+    "NPC's/Đorđe Balašević.md",
+    "Locations/Magnolia.md",
+    "Locations/Magnolian Bay.md",
+    "Lore/Roar and Thunder.md",
+    "Locations/Star Tomb (New Kali).md",
+    "NPC's/Mauna Loa.md",
+    "Locations/New Kali Store.md",
+    "Locations/Magnolian Colosseum.md",
+    "Locations/Mining Town of Jerboa.md",
+    "Lore/Star fragment.md",
+    "NPC's/Bonnie.md",
+    "Locations/Petra's Hideout.md",
+    "Lore/Sokolov.md",
+    "Assets/cai-wealth-chinese-taoist-symbol.jpg",
+    "Assets/Townscaper 2024-06-15 17-21-59.png",
+    "Assets/Townscaper 2024-06-15 17-24-20.png",
+    "Assets/Townscaper 2025-01-21 10-04-15.png",
+    "Assets/voda_hq.avif",
+    "Assets/voda_outpost_near_dragon_cave.avif",
+    "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
+    "Assets/voda_hq.avif.crdownload",
+    "Assets",
+    "New folder",
+    "Recap",
+    "Locations/Silbian Mountain Ranges",
+    "Locations/Silbian Mountain Ranges",
+    "Locations",
+    "NPC's",
+    "Lore"
+  ]
+}

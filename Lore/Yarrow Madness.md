@@ -1,0 +1,2 @@
+#Yarrow_Dessert #Lore 
+People all around the world can be found obsessing over the [[Yarrow Dessert]]. Some people who meet [[Sombra de los Muertos]] simply can't handle it. Most of the time they try to find him by going to the [[Yarrow Dessert]]. These people go insane and dedicate their whole lives to finding [[Sombra de los Muertos]].

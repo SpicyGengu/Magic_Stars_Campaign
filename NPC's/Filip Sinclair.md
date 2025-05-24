@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Kali #NPC 
+Cold, calculated, vicious. One of the highest ranking members of [[Kali Elites]]. Member of [[Sinclair Family]], Filip started his political carrier as young as 17. He was recently assigned the role of transporting [[Starscourge 0.13.7]] from [[Badija and Ophilia]] to the [[Living City of Kali]]. He isn't the best sorcerous, nor is he the strongest warrior, what he is is a planer. He has a real gift for planning and hiring just the right people for the job. He is the glue holding everything together. 

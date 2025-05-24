@@ -1,0 +1,2 @@
+#Stribor_Forest #NPC 
+An [[Ophilian]] soldier stuck in [[The Safe Shack]] due to the wounds he got from the [[Badija-Ophilia civil war]]. He never wanted to fight in the war, he was recruited under the idea of "It's either us or them".

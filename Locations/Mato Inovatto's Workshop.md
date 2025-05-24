@@ -1,0 +1,2 @@
+#Magnolian_Sea #Location 
+Owned and ran by [[Mato Inovatto]], the workshop is any Magnolian's preferred prosthetics manufacturer. Located in [[Magnolia]] the workshop is world-renowned. If you can imagine it, chances are Ado has already made it. The workshop can make any of your wildest prosthetic dreams possible. 

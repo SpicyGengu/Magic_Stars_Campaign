@@ -1,0 +1,1 @@
+One with a big ass shield, and the other with a big ass spear.

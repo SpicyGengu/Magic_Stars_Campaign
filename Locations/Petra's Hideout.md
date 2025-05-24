@@ -1,0 +1,2 @@
+#Stribor_Forest #Location 
+Hidden somewhere deep in [[Stribor Forest]], outside [[Badija and Ophilia]], [[Petra Oklopska]] has made her hideout. This is where she has her base of operation. Walls filled with papers of her research. Everything from conspiracy theories to experimental spell discoveries. The place is crammed dirty and hardly something one could call home. 

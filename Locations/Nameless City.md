@@ -1,0 +1,2 @@
+#Yarrow_Dessert #Location 
+Traveling a day through the [[Yarrow Dessert]], only following their own shadow, one finds themselves in the long lost city of no name. City otherwise unreachable has existed for seemingly longer than time itself.

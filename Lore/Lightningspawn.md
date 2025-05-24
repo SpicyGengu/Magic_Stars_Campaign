@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Dracona #Lore 
+A legendary lightning dragon that is capable of giving lightning powers much like the ones [[Antesillax]] used to have. Long extinct many [[Dracona]] have tried to find it, though unsuccessfully. Closes thing to a lightningspawn that exists today is [[The Lightning Dragon]] located in [[Magnolia]].

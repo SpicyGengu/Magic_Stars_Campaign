@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/New_Kali #NPC #Dead-Gone 
+Billy is a citizen of [[New Kali]] very dissatisfied with the state of the town. He is running a campaign to be democratically elected as mayor. When ever he can he goes to his box pedestal ([[Billy's Box]]) to inform his citizens of the policies and laws he is going to introduce once he's mayor. 

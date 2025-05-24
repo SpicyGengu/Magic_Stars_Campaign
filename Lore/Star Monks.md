@@ -1,0 +1,2 @@
+#Lore 
+Star monks are a long lost religion, dedicated to discovering the truths about [[The Stars]]. None of them have been seen for quite a while, this is because they have all eventually found their way to the [[Nameless City]]. 

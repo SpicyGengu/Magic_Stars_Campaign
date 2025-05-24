@@ -1,0 +1,2 @@
+#Yarrow_Dessert #Location 
+There is a railway that goes through [[Mining Town of Jerboa]]. The Jerboan people had to make sure the train has somewhere to stop, so that's how the Jerboa Train station came about. At the counter you can usually find [[Sally]]. He is more than willing to sell you some train tickets.

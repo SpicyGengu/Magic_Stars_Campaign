@@ -1,0 +1,2 @@
+#Magnolian_Sea #Lore 
+A ship of great stature. The Grand Beluga, also known as "Ship of [[Theseus]]", is a ginormous cargo ship. It is most often used to transport large cargo from [[Magnolia]] to [[Living City of Kali]]. This is also why it's often found at [[Magnolian Bay]]. 

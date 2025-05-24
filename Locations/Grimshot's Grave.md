@@ -1,0 +1,2 @@
+#Yarrow_Dessert #Location 
+Right next to [[Bonnie's Grave]] there lies [[Grimshot]]'s grave. Erected very recently by the people of [[Crows Point]] under the impression that [[Grimshot]] is dead. [[Grimshot]] left for much longer than usual so the people of [[Crows Point]] proclaimed him dead.

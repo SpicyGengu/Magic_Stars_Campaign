@@ -1,0 +1,2 @@
+#Yarrow_Dessert #NPC #Dead-Gone 
+Poor people of the [[Mining Town of Jerboa]] who get hung. The crime they are convicted of is being culprits behind the [[Missing Cattle of Jerboa Situation]]. They were made to sit out and guard the cattle, but the cattle still disappeared despite. This would only make sense if they were the thieves themselves. Therefor by the word of [[Paul Mason]] they are to be executed. 

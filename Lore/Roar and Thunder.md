@@ -1,0 +1,2 @@
+#Magnolian_Sea #Lore 
+Roar and Thunder is a band of performers usually situated in [[Magnolia]]. The band is most known for their magnum opus [[The Lightning Dragon]]. People all across the lands come to [[Magnolia]] exclusively to see them preform, and more specifically to se the dragon. 

@@ -1,0 +1,2 @@
+#Silbian_Mountain_Ranges/Kali #Location 
+This is one of a few ways to get into [[Living City of Kali]]. It is also the most common way. This is the head entrance to the whole city, which explains the insane security precautions set in place. One cannot enter without handing over their authentic [[Kali Entrance Certification]].

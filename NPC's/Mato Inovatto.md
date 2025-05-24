@@ -1,0 +1,2 @@
+#Magnolian_Sea #NPC 
+[[Magnolia]]'s best prosthetics manufacturer. Lives in [[Mato Inovatto's Workshop]] where he also works. As little Mato started his career by building small mechanical pets. Mice, squirrels, cats, worked his way up to a lion once he did. But the market for robotic animals is small, prosthetics on the other hand. Soon everyone needed one and Mato became a celebrity, working for bigshots like [[Theseus]] and [[Chainsaw Man]].

@@ -1,0 +1,2 @@
+#Stribor_Forest #Location 
+Deep inside the [[Stribor Forest]], lies a city greatly surpassing the size of the [[Living City of Kali]]. The city is in a constant state of civil war. While at the same time a forest, Badija and Ophilia consists of tree-houses, and if big enough house-trees. While very polarised, the population shares cultures that are very different and similar at the same time. 

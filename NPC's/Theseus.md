@@ -1,0 +1,2 @@
+#Magnolian_Sea #NPC 
+Captain of the [[Grand Beluga]], Theseus is only human in soul. The rest of him is about as human as his ship. [[Mato Inovatto]]'s most common customer, Theseus has replaced every single part of his body with a prosthetic, at least once. 

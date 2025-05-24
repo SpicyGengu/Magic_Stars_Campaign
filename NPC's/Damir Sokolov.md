@@ -1,0 +1,2 @@
+#Stribor_Forest #NPC 
+A name that strikes fear into any [[Badija and Ophilia]]n citizen. Head of the [[Sokolov]]s, Damir is a force not to be reckon with. Cold, calm and calculated, Damir is a family man at heart. He has an especially soft spot when it comes to his daughter [[Vijera Sokolova]]. 
