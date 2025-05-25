@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "decd0dc1f0c36297",
+        "id": "64b991b87912bf59",
         "type": "tabs",
         "children": [
           {
-            "id": "244fc3f47e6bdb20",
+            "id": "9206d80a1dfbe4e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "38429933154fab73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Tim Tom.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Tim Tom"
-            }
-          },
-          {
-            "id": "dd6451e0b2cdebee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Crows Postal Office.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crows Postal Office"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "9206d80a1dfbe4e7",
   "lastOpenFiles": [
-    "Locations/Crows Postal Office.md",
+    "NPC's/Jane.md",
+    "Locations/Living City of Kali.md",
     "NPC's/Tim Tom.md",
+    "Locations/Crows Postal Office.md",
     "Locations/Hewie's House.md",
     "NPC's/Hewie One Tusk.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
@@ -224,7 +197,6 @@
     "Recap/(Session 7) Ar-gone Silliax.md",
     "Locations/Bank Of Jerboa.md",
     "Locations/Mining Town of Jerboa.md",
-    "Locations/Living City of Kali.md",
     "Lore/Train Heist.md",
     "NPC's/Rosa.md",
     "NPC's/Crazy Pete.md",
@@ -237,7 +209,6 @@
     "Locations/Jerboa Saloon.md",
     "Lore/Missing Cattle of Jerboa Situation.md",
     "Recap/(Session 6) Destructive Activism.md",
-    "Locations/Kastel.md",
     "Assets/star_tomb_crows_point.png",
     "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
     "Assets/voda_hq.avif.crdownload",
