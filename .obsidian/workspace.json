@@ -18,12 +18,26 @@
             }
           },
           {
+            "id": "b1855b7fbc5c2f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Vampire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vampire"
+            }
+          },
+          {
             "id": "d363df93b6d983c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blood Addiction.md",
+                "file": "Lore/Blood Addiction.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crazy",
+                "query": "dying",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,11 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d363df93b6d983c6",
+  "active": "b1855b7fbc5c2f38",
   "lastOpenFiles": [
+    "Lore/Blood Addiction.md",
+    "Lore/Dying.md",
+    "Lore/Vampire.md",
     "Locations/Living City of Kali.md",
     "NPC's/Fuji.md",
-    "Blood Addiction.md",
     "NPC's/Nameless King.md",
     "Lore/Stribor.md",
     "NPC's/Jane.md",
@@ -222,8 +238,6 @@
     "NPC's/Mary Jane Woodstock.md",
     "NPC's/Groto.md",
     "Locations/Jerboa Mine.md",
-    "Lore/Woodstock Family.md",
-    "Locations/Woodstock Farm.md",
     "Assets/star_tomb_crows_point.png",
     "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
     "Assets/voda_hq.avif.crdownload",
