@@ -18,35 +18,192 @@
             }
           },
           {
-            "id": "b1855b7fbc5c2f38",
+            "id": "67eb513f546620b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Vampire.md",
+                "file": "Lore/Kali Elites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire"
+              "title": "Kali Elites"
             }
           },
           {
-            "id": "d363df93b6d983c6",
+            "id": "4dcfb1458e6642df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Lore/Blood Addiction.md",
-                "mode": "source",
-                "source": false
+                "file": "Lore/Kali Elites.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Dead-Gone",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "path:Recap  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711842
+                      }
+                    },
+                    {
+                      "query": "tag:#Player  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8716288
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14075484
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:Lore  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16758328
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13341477
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6184150
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4144568
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3420643
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7265750
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3735548
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1359282
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest  path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest path:Lore  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3471671
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1682971
+                      }
+                    },
+                    {
+                      "query": "path:Locations",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9717448
+                      }
+                    },
+                    {
+                      "query": "path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9122228
+                      }
+                    },
+                    {
+                      "query": "path:NPC's",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4861032
+                      }
+                    },
+                    {
+                      "query": "tag:#louise",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.993229166666667,
+                  "lineSizeMultiplier": 1.00709342560554,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "Blood Addiction"
+              "icon": "lucide-git-fork",
+              "title": "Graph of Kali Elites"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,11 +360,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1855b7fbc5c2f38",
+  "active": "4dcfb1458e6642df",
   "lastOpenFiles": [
+    "Locations/Kastel.md",
     "Lore/Blood Addiction.md",
-    "Lore/Dying.md",
     "Lore/Vampire.md",
+    "Lore/Dying.md",
     "Locations/Living City of Kali.md",
     "NPC's/Fuji.md",
     "NPC's/Nameless King.md",
@@ -237,7 +395,6 @@
     "NPC's/Crazy Pete.md",
     "NPC's/Mary Jane Woodstock.md",
     "NPC's/Groto.md",
-    "Locations/Jerboa Mine.md",
     "Assets/star_tomb_crows_point.png",
     "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
     "Assets/voda_hq.avif.crdownload",
