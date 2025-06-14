@@ -11,6 +11,6 @@ Coming to the vault the players will find the keyholes, that are supposed to be 
 - Upgrade runs
 - Alchemical recipes
 - Loads of guns
-- [[Bonnie]]'s gun
+- [[Bonnie's Gun]]
 - Prosthetics
 - 
