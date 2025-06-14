@@ -14,3 +14,4 @@ Coming to the vault the players will find the keyholes, that are supposed to be 
 - [[Bonnie's Gun]]
 - https://2e.aonprd.com/Equipment.aspx?ID=1762
 - https://2e.aonprd.com/Weapons.aspx?ID=219
+- Glass finger for a guitar (https://2e.aonprd.com/Equipment.aspx?ID=2269)?
