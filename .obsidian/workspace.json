@@ -129,8 +129,7 @@
               "title": "Star Tomb Bandits"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,9 +286,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "302652c985bb6948",
+  "active": "9206d80a1dfbe4e7",
   "lastOpenFiles": [
     "Sinclair Family.md",
+    "Lore/Reinhart Family.md",
     "NPC's/Sombra (Calaca Sinclair).md",
     "NPC's/Argon Silliax.md",
     "Locations/Star Tomb (Crows Point).md",
@@ -314,7 +314,6 @@
     "Locations/Magnolian Colosseum.md",
     "Recap/(Session 3) Coloseum of the Dead.md",
     "README.md",
-    "Lore/Kali Elites.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
