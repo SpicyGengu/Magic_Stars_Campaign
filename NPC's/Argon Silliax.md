@@ -1,4 +1,4 @@
-#Player 
+#Silbian_Mountain_Ranges/Dracona #NPC 
 Argon is a blue scaled kobold, which means he likely shares lineage with [[Antesillax]] the lightning king.
 
 He lives on a goat farm with his many siblings, parents and crippled grandpa [[Glass]].

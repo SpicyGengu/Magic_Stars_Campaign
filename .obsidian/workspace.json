@@ -18,7 +18,77 @@
             }
           },
           {
-            "id": "4af060686d6dd311",
+            "id": "34388e0e997aa6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sinclair Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sinclair Family"
+            }
+          },
+          {
+            "id": "302652c985bb6948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Reinhart Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinhart Family"
+            }
+          },
+          {
+            "id": "22cf87fca23d856a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Sombra (Calaca Sinclair).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sombra (Calaca Sinclair)"
+            }
+          },
+          {
+            "id": "03221eb931d877aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Argon Silliax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Argon Silliax"
+            }
+          },
+          {
+            "id": "806d1d3209ade2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recap/(Session 7) Ar-gone Silliax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Session 7) Ar-gone Silliax"
+            }
+          },
+          {
+            "id": "a4870a6a73d22d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +99,20 @@
               },
               "icon": "lucide-file",
               "title": "Star Tomb (Crows Point)"
+            }
+          },
+          {
+            "id": "322f0163cfd660ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Sheila.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sheila"
             }
           },
           {
@@ -46,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuji",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +183,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,13 +287,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af060686d6dd311",
+  "active": "302652c985bb6948",
   "lastOpenFiles": [
-    "Lore/Star Tomb Bandits.md",
+    "Sinclair Family.md",
+    "NPC's/Sombra (Calaca Sinclair).md",
+    "NPC's/Argon Silliax.md",
     "Locations/Star Tomb (Crows Point).md",
+    "Recap/(Session 7) Ar-gone Silliax.md",
+    "NPC's/Sheila.md",
+    "Locations/Grimshot's Vault.md",
+    "Lore/Star Tomb Bandits.md",
     "NPC's/Fuji.md",
     "Lore/The Knights of New Kali.md",
-    "NPC's/Sheila.md",
     "Lore/Bonnie's Gun.md",
     "Locations/Crows Point.md",
     "NPC's/Grimshot.md",
@@ -220,7 +308,6 @@
     "Locations/Butch's House.md",
     "Lore/Train Heist.md",
     "NPC's/Fayendel Greenleaf.md",
-    "Locations/Grimshot's Vault.md",
     "Lore/Antikal (Jerboa).md",
     "Locations/Living City of Kali.md",
     "Recap/(Session 1) The Bininging.md",
@@ -228,10 +315,6 @@
     "Recap/(Session 3) Coloseum of the Dead.md",
     "README.md",
     "Lore/Kali Elites.md",
-    "Locations/Kastel.md",
-    "Lore/Blood Addiction.md",
-    "Lore/Vampire.md",
-    "Lore/Dying.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
