@@ -11,108 +11,10 @@
             "id": "9206d80a1dfbe4e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d-graph-view-global",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "34388e0e997aa6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sinclair Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sinclair Family"
-            }
-          },
-          {
-            "id": "302652c985bb6948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Reinhart Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reinhart Family"
-            }
-          },
-          {
-            "id": "22cf87fca23d856a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Sombra (Calaca Sinclair).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sombra (Calaca Sinclair)"
-            }
-          },
-          {
-            "id": "03221eb931d877aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Argon Silliax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Argon Silliax"
-            }
-          },
-          {
-            "id": "806d1d3209ade2f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/(Session 7) Ar-gone Silliax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Session 7) Ar-gone Silliax"
-            }
-          },
-          {
-            "id": "a4870a6a73d22d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Star Tomb (Crows Point).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Star Tomb (Crows Point)"
-            }
-          },
-          {
-            "id": "322f0163cfd660ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Sheila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sheila"
+              "icon": "orbit",
+              "title": "Global 3D Graph"
             }
           },
           {
@@ -128,8 +30,23 @@
               "icon": "lucide-file",
               "title": "Star Tomb Bandits"
             }
+          },
+          {
+            "id": "30c58386b8c4f185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Living City of Kali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Living City of Kali"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9206d80a1dfbe4e7",
+  "active": "30c58386b8c4f185",
   "lastOpenFiles": [
     "Sinclair Family.md",
     "Lore/Reinhart Family.md",
