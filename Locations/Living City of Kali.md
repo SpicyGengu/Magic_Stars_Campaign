@@ -1,4 +1,10 @@
-#Silbian_Mountain_Ranges/Kali #Location 
+---
+aliases:
+  - Kali
+tags:
+  - Silbian_Mountain_Ranges/Kali
+  - Location
+---
 ![[Townscaper 2024-06-15 17-21-59.png]]
 Deep within the [[Silbian Mountain Ranges]] lies a city of the stars going by the name Kali.
 # Housing crisis
