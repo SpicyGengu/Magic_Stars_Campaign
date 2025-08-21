@@ -13,8 +13,8 @@
             "state": {
               "type": "3d-graph-view-global",
               "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
+              "icon": "lucide-ghost",
+              "title": "3d-graph-view-global"
             }
           },
           {
@@ -190,11 +190,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
