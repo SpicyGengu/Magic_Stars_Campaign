@@ -26,3 +26,5 @@ Argon tries to magically heal grandpa [[Glass]] with his newly acquired water ma
 Argon spends a week getting more used to his magic, and digs a grave.
 
 Argon sets off on his journey to find the [[Lightningspawn]].
+
+# Post [[(Session 7) Ar-gone Silliax]]

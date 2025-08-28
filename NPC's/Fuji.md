@@ -4,6 +4,8 @@ Fuji is a vicious warrior and an honorary member of [[The Knights of New Kali]].
 After [[Grimshot]]s slipup back in [[(Session 3) Coloseum of the Dead]], a rumour has spread about there living a [[Dracona]] spy in [[New Kali]]. This rumour has made it's way to Fuji himself, and Fuji remembers a certain group of new comers who had a [[Dracona]] "slave" with them. Now he is on a little mission to get rid of this supposed spy. 
 # Post [[(Session 5) Nuke-ali]]
 Fuji wasn't out of the blast radius when the nuke dropped down on [[New Kali]], yet he did survive. His reflexes were so sharp that he managed to notice the blast just in time to parry it, taking no damage in the process. Although his sword was sacrificed to protect him. Now broken, it's like it got stronger. He is now set on getting revenge on who ever did it, and he has a sneaking suspicion that the culprit might be a certain [[Dracona]].
+# Post [[(Session 7) Ar-gone Silliax]]
+Fuji is close behind the party, he is convinced that [[Argon Silliax]] is still alive. Finding his way over 
 # Notes
 - He can spawn a hurricane on the battlefield that moves anyone inside each turn. Players can make an dex save to decide the way they move themselves. Fuji can use the hurricane to his advantage, running with it to gain speed and do more damage from it. 
 - He can also use parry that takes one action and gives +2 AC until next round.
