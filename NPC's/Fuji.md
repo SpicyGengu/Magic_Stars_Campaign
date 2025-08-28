@@ -5,7 +5,7 @@ After [[Grimshot]]s slipup back in [[(Session 3) Coloseum of the Dead]], a rumou
 # Post [[(Session 5) Nuke-ali]]
 Fuji wasn't out of the blast radius when the nuke dropped down on [[New Kali]], yet he did survive. His reflexes were so sharp that he managed to notice the blast just in time to parry it, taking no damage in the process. Although his sword was sacrificed to protect him. Now broken, it's like it got stronger. He is now set on getting revenge on who ever did it, and he has a sneaking suspicion that the culprit might be a certain [[Dracona]].
 # Post [[(Session 7) Ar-gone Silliax]]
-Fuji is close behind the party, he is convinced that [[Argon Silliax]] is still alive. Finding his way over 
+Fuji is close behind the party, he is convinced that [[Argon Silliax]] is still alive. Finding his way over to [[Mining Town of Jerboa|Jerboa]], Fuji heard of a group of bandits causing ruckus in [[Mining Town of Jerboa|Jerboa]]. These individuals closely matched the traitors he was looking for. Investigating further Fuji managed to find [[Argon Silliax]]. He was all alone, an easy picking. Before killing him, Fuji extracted the information that the rest of the gang was headed for [[Crows Point]]. Before finishing [[Argon Silliax]] off, he cut his tail as a trophy and a proof of his death. Now he is on his way to [[Crows Point]] to finish what he started.
 # Notes
 - He can spawn a hurricane on the battlefield that moves anyone inside each turn. Players can make an dex save to decide the way they move themselves. Fuji can use the hurricane to his advantage, running with it to gain speed and do more damage from it. 
 - He can also use parry that takes one action and gives +2 AC until next round.
