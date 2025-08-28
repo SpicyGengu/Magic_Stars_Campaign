@@ -21,7 +21,7 @@ I have created some 3D towns and models that are only viewable in the game Towns
 ## Functionalities
 - Color coded notes relative to area, sub-area, status and type of note
 - 3D graph of the notes
-- Every note has a mini-map in it's banner
+- Every note has a graph-mini-map in it's banner
 - Notes link to each other just like Wikipedia
 ## Additional info
 I would really hate it if any of this was used for monetary gain. Especially if I wasn't consulted about it first. The world is not fully created I constantly add and change stuff. If you want to run your own "Magic Star Campaign" you should be aware that there's a lot of stuff that needs to be reverted so to speak. But honestly it would make me very happy to know if any of this was helpful to you. Also feel free to write any good ideas or if you have suggestions.

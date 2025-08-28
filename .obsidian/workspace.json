@@ -11,10 +11,14 @@
             "id": "1ac036532533959c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Recap/(Session 7) Ar-gone Silliax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Session 7) Ar-gone Silliax"
             }
           },
           {
@@ -29,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Crows Point"
-            }
-          },
-          {
-            "id": "062ddba292ab5940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Butch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Butch"
             }
           },
           {
@@ -73,8 +63,7 @@
               "title": "Tim Tom"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC's/Butch.md",
+                "file": "Recap/(Session 7) Ar-gone Silliax.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Butch"
+              "title": "Outline of (Session 7) Ar-gone Silliax"
             }
           },
           {
@@ -232,13 +221,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "062ddba292ab5940",
+  "active": "1ac036532533959c",
   "lastOpenFiles": [
-    "Locations/Butch's House.md",
-    "NPC's/Butch.md",
+    "README.md",
     "Locations/Crows Point.md",
-    "NPC's/Tim Tom.md",
     "Locations/Crows Postal Office.md",
+    "NPC's/Butch.md",
+    "Locations/Butch's House.md",
+    "NPC's/Tim Tom.md",
     "Lore/Star Tomb Bandits.md",
     "Locations/Mining Town of Jerboa.md",
     "NPC's/Argon Silliax.md",
@@ -259,7 +249,6 @@
     "Lore/Goldworth Family.md",
     "NPC's/Lothric Goldworth.md",
     "Lore/Train Heist.md",
-    "NPC's/Fayendel Greenleaf.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
