@@ -1,2 +1,4 @@
 #Yarrow_Dessert #NPC 
 A postman. Just a man making sure the people of [[Crows Point]] get their mail. He's just a community man. One could say that [[Crows Postal Office]] is the only official establish in [[Crows Point]].
+# Notes
+- If asked about [[Grimshot]]'s mail he will had him a few dozen expired contracts.
