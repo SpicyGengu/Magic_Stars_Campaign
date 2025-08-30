@@ -1,5 +1,5 @@
 #Yarrow_Dessert #Location 
-Hose of [[Grimshot]] and recently deceased [[Bonnie]]. It is filled with the pictures of the two. Lodes of the two's winning trophies and pictures as well. All in all, a very average looking house. It does look like it hasn't been lived in for a while though. 
+House of [[Grimshot]] and recently deceased [[Bonnie]]. It is filled with the pictures of the two. Lodes of the two's winning trophies and pictures as well. All in all, a very average looking house. It does look like it hasn't been lived in for a while though. 
 # [[Grimshot's Vault]] quest
 In this house there is a compass. This compass is always showing the way to [[Grimshot's Vault]].
 # Old Record Player
