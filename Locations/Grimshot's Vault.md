@@ -8,8 +8,8 @@ Two keys must be used to open the vault. One lies with [[Jenny]] and the other l
 ## Vault is Empty
 Coming to the vault the players will find the keyholes, that are supposed to be covered by sand, uncovered. Entering the vault, the players will find the vault raided. [[Star Tomb Bandits]] have stolen everything and transported it to the [[Star Tomb (Crows Point)]],
 # Vaults Contents
-- Upgrade runes (players get to choose one that is up to their lvl +1)
-- Alchemical recipes (players get to choose one that is up to their lvl +1)
+- Upgrade runes (players get to choose one that is up to half their lvl)
+- Alchemical recipes (players get to choose one that is up to half thair lvl)
 - Loads of guns
 - [[Bonnie's Gun]]
 - https://2e.aonprd.com/Equipment.aspx?ID=1284
