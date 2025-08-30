@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sombra
+---
 #Yarrow_Dessert #NPC 
 An entity of legends, no one knows who or what it is. All that is known is that wherever it's seen trouble follows. 
 # Godhood
