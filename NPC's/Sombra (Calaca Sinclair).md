@@ -1,3 +1,7 @@
+---
+aliases:
+  - Calaca
+---
 #Player 
 Calaca Sinclair was born dead. Stillborn. But she was miraculously reborn shortly after as a [[Vampire]] by [[Sombra de los Muertos]].
 Fast forward 400 years and she is now deeply in love with him, searching for a way for the two to be together.
