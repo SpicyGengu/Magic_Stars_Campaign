@@ -1,0 +1,2 @@
+#Recap #Lore 
+Waking up in the morning our heroes realized that [[Argon Silliax]] was missing. Only thing he left behind, a poorly written note. A little concerned for him the party didn't waste much time before setting their sails for [[Crows Point]]. 

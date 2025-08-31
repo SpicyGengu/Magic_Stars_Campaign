@@ -18,73 +18,17 @@
             }
           },
           {
-            "id": "4221dfb46913330d",
+            "id": "5157f95e9e8f839f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Fuji.md",
+                "file": "Recap/(Session 8) What?!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuji"
-            }
-          },
-          {
-            "id": "b2641cda39271720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Bonnie's Gun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bonnie's Gun"
-            }
-          },
-          {
-            "id": "d30d77a9b0644b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Star Tomb Bandits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Star Tomb Bandits"
-            }
-          },
-          {
-            "id": "e64ebb508306444c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Star Tomb (Crows Point).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Star Tomb (Crows Point)"
-            }
-          },
-          {
-            "id": "5839eb93f78f587d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Sheila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sheila"
+              "title": "(Session 8) What?!"
             }
           }
         ],
@@ -231,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,13 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4221dfb46913330d",
+  "active": "5157f95e9e8f839f",
   "lastOpenFiles": [
-    "NPC's/Argon Silliax.md",
-    "Locations/Star Tomb (Crows Point).md",
+    "Recap/(Session 7) Ar-gone Silliax.md",
+    "Recap/(Session 6) Destructive Activism.md",
+    "Recap/(Session 8) What?!.md",
+    "Lore/Operation Beyond Borders.md",
     "Lore/Star Tomb Bandits.md",
     "NPC's/Sheila.md",
+    "Locations/Star Tomb (Crows Point).md",
     "Lore/Bonnie's Gun.md",
+    "Lore/The Knights of New Kali.md",
+    "NPC's/Fuji.md",
+    "NPC's/Argon Silliax.md",
     "Locations/Grimshot's Vault.md",
     "NPC's/Nameless King.md",
     "Locations/Crows Point.md",
@@ -269,12 +218,6 @@
     "Locations/Grimshot's Grave.md",
     "Lore/Dying.md",
     "NPC's/The Yarrow Breeze.md",
-    "Recap/(Session 7) Ar-gone Silliax.md",
-    "Locations/Crows Postal Office.md",
-    "Lore/Ruzinavi Brod.md",
-    "NPC's/Tim Tom.md",
-    "README.md",
-    "Locations/Butch's House.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
