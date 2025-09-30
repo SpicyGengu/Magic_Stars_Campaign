@@ -8,7 +8,7 @@ The train is planned to be on it's way to [[Entrance to Kali]]. On it's way a sw
 ## Last Wagon
 The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damage (critical fails are doubled). 
 ## Marble Statues Wagon
-At about the midpoint of the wagons there is a strangely unguarded wagon filled with marble statues. The wagon has no walls and barely any guard rails. Once someone walks on the wagon the statues come alive and attack. Most common attack is grabbing a target and chucking themselves off the train with them.
+At about the midpoint of the wagons there is a strangely unguarded wagon filled with marble statues. The wagon has no walls and barely any guard rails. Once someone walks on the wagon the statues come alive and attack. Most common attack is grabbing a target and chucking themselves off the train with them. The statues keep re-spawning seemingly out of thin air. To kill all of them, one needs to disable the [[Star fragment]] located underneath the running wagon.
 https://2e.aonprd.com/Monsters.aspx?ID=3899
 ## Entrance to the Vault Wagon
 Before entering the vault wagon the party will be met with [[Conquest]]. No-one in [[Mining Town of Jerboa]] could have warned them about this. [[Conquest]] will request for them to leave. At the most minimal sign of resistance he will get overjoyed and start the fight. 
