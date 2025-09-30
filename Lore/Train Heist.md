@@ -7,6 +7,7 @@ The train is planned to be on it's way to [[Entrance to Kali]]. On it's way a sw
 # Train Layout
 ## Last Wagon
 The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damage (critical fails are doubled). 
+
 ## Entrance to the Vault Wagon
 Before entering the vault wagon the party will be met with [[Conquest]]. No-one in [[Mining Town of Jerboa]] could have warned them about this. [[Conquest]] will request for them to leave. At the most minimal sign of resistance he will get overjoyed and start the fight. 
 ## Vault Wagon
