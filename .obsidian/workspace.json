@@ -18,6 +18,34 @@
             }
           },
           {
+            "id": "8df4cd26ec93c028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Kali Entrance Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kali Entrance Certification"
+            }
+          },
+          {
+            "id": "a97cf2f2a4243594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Entrance to Kali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entrance to Kali"
+            }
+          },
+          {
             "id": "02f9bf07ee27bf09",
             "type": "leaf",
             "state": {
@@ -30,23 +58,9 @@
               "icon": "lucide-file",
               "title": "Train Heist"
             }
-          },
-          {
-            "id": "19eb600798a097e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Conquest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conquest"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,9 +220,11 @@
   },
   "active": "02f9bf07ee27bf09",
   "lastOpenFiles": [
-    "Lore/Star Tomb Bandits.md",
-    "Lore/Train Heist.md",
     "NPC's/Conquest.md",
+    "Lore/Kali Entrance Certification.md",
+    "Locations/Entrance to Kali.md",
+    "Lore/Train Heist.md",
+    "Lore/Star Tomb Bandits.md",
     "Lore/Reinhart Family.md",
     "Locations/New Kali.md",
     "Recap/(Session 8) What?!.md",
@@ -230,8 +246,6 @@
     "Locations/Crows Point.md",
     "Locations/Grimshot's House (The Grimshed).md",
     "NPC's/Sombra de los Muertos.md",
-    "NPC's/Butch.md",
-    "NPC's/Grimshot.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
