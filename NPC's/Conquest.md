@@ -4,4 +4,4 @@ Domination is an elite Kali soldier. Born and raised in [[Living City of Kali]] 
 - Whispers conquest's speech to the first enemy he knocks out.
 - He is technically of [[Reinhart Family]], but it's a taboo to acknowledge it.
 # Stats
-htt
+https://2e.aonprd.com/Monsters.aspx?ID=455&Elite=true&NoRedirect=1
