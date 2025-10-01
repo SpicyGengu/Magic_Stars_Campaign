@@ -1,9 +1,13 @@
 #Yarrow_Dessert #Lore 
 A shipment was sent from [[Badija and Ophilia]] containing classified items very important to the [[Living City of Kali]]. Among others, the train is planned to stop at the [[Jerboa Train Station]] in the [[Mining Town of Jerboa]]. 
 # Rail Arches
-Along the train-track there are points on the path where the front of the train has a clear view of the very last wagon of the train.
-# Switching Tracks
+Along the train-track there are points on the path where the front of the train has a clear view of the very [[#Last Wagon]] of the train.
+# Track Switch
 The train is planned to be on it's way to [[Entrance to Kali]]. On it's way a switch can be flipped along the tracks that will send the train straight for [[Magnolia]]. At this fork in the road, if manipulated correctly, the train can be derailed.
+# Disconnecting Wagons
+Every wagon but one can be easily detached from the rest of the train. The [[#Vault Wagon]] is the only wagon that is almost impossible to detach from the locomotive.
+# [[Đorđe Balašević]]
+[[Đorđe Balašević]] is hitching a ride to the [[#Track Switch]]. He is planning to get on another train headed for [[Badija and Ophilia]]. 
 # Train Layout
 ## Last Wagon
 The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damage (critical fails are doubled). 
