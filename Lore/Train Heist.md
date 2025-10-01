@@ -8,6 +8,8 @@ The train is planned to be on it's way to [[Entrance to Kali]]. On it's way a sw
 Every wagon but one can be easily detached from the rest of the train. The [[#Vault Wagon]] is the only wagon that is almost impossible to detach from the locomotive.
 # [[Đorđe Balašević]]
 [[Đorđe Balašević]] is hitching a ride to the [[#Track Switch]]. He is planning to get on another train headed for [[Badija and Ophilia]]. 
+# [[Antikal (Jerboa)]]
+[[Antikal (Jerboa)]] wants whatever is in that [[#Vault Wagon]]. They believe that whatever [[Living City of Kali|Kali]] is protecting in there can be used as a very powerful bargaining chip. They have a pretty elaborate plan on how to get into the [[#Vault Wagon]]. One of their men will take control of the turret that is located on the [[#Last Wagon]]. 
 # Train Layout
 ## Last Wagon
 The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damage (critical fails are doubled). 
