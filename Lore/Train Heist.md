@@ -8,6 +8,8 @@ The train is planned to be on it's way to [[Entrance to Kali]]. On it's way a sw
 Every wagon but one can be easily detached from the rest of the train. The [[#Vault Wagon]] is the only wagon that is almost impossible to detach from the locomotive.
 # [[Đorđe Balašević]]
 [[Đorđe Balašević]] is hitching a ride to the [[#Track Switch]]. He is planning to get on another train headed for [[Badija and Ophilia]]. 
+# [[Zina]]
+Aboard this train a very particular NPC will be introduced. [[Zina]] will appear seemingly out of nowhere. They will just be curious and happy to be there. They are on their way to where ever the train takes them. 
 # [[Antikal (Jerboa)]]
 [[Antikal (Jerboa)]] wants whatever is in that [[#Vault Wagon]]. They believe that whatever [[Living City of Kali|Kali]] is protecting in there can be used as a very powerful bargaining chip. They have a pretty elaborate plan on how to get into the [[#Vault Wagon]]. One of their men will take control of the turret that is located on the [[#Last Wagon]]. 
 # Train Layout
