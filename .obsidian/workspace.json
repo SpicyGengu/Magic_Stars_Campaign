@@ -11,10 +11,14 @@
             "id": "1ac036532533959c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Blood Addiction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blood Addiction"
             }
           },
           {
@@ -220,8 +224,11 @@
   },
   "active": "2cc4fee30ccd1053",
   "lastOpenFiles": [
-    "NPC's/Zina.md",
+    "Lore/Blood Addiction.md",
+    "Lore/Vampire.md",
+    "NPC's/Sombra (Calaca Sinclair).md",
     "NPC's/Nameless King.md",
+    "NPC's/Zina.md",
     "Lore/Train Heist.md",
     "NPC's/Alleged Cattle Thieves (Jerboa).md",
     "Lore/Antikal (Jerboa).md",
@@ -238,14 +245,11 @@
     "Recap/(Session 8) What?!.md",
     "Locations/Star Tomb.md",
     "Lore/Sinclair Family.md",
-    "NPC's/Sombra (Calaca Sinclair).md",
     "Recap/(Session 7) Ar-gone Silliax.md",
     "Recap/(Session 6) Destructive Activism.md",
     "Lore/Operation Beyond Borders.md",
     "NPC's/Sheila.md",
     "Locations/Star Tomb (Crows Point).md",
-    "Lore/Bonnie's Gun.md",
-    "Lore/The Knights of New Kali.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
