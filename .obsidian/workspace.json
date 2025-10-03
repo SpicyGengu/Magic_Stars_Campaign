@@ -18,6 +18,34 @@
             }
           },
           {
+            "id": "f6e657f0a9b60dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Boon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boon"
+            }
+          },
+          {
+            "id": "8bbbed430ad41795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Jane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jane"
+            }
+          },
+          {
             "id": "7e44f3996a123f31",
             "type": "leaf",
             "state": {
@@ -219,6 +247,8 @@
   },
   "active": "1ac036532533959c",
   "lastOpenFiles": [
+    "NPC's/Boon.md",
+    "NPC's/Jane.md",
     "Lore/Blood Addiction.md",
     "NPC's/Nameless King.md",
     "NPC's/Zina.md",
@@ -243,8 +273,6 @@
     "Recap/(Session 7) Ar-gone Silliax.md",
     "Recap/(Session 6) Destructive Activism.md",
     "Lore/Operation Beyond Borders.md",
-    "NPC's/Sheila.md",
-    "Locations/Star Tomb (Crows Point).md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
