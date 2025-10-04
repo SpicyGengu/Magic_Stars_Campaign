@@ -14,7 +14,7 @@ Aboard this train a very particular NPC will be introduced. [[Zina]] will appear
 [[Antikal (Jerboa)]] wants whatever is in that [[#Vault Wagon]]. They believe that whatever [[Living City of Kali|Kali]] is protecting in there can be used as a very powerful bargaining chip. They have a pretty elaborate plan on how to get into the [[#Vault Wagon]]. One of their men will take control of the turret that is located on the [[#Last Wagon]]. 
 # Train Layout
 ## Last Wagon
-The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damage (critical fails are doubled). 
+The wagon furthest away from the locomotive is equipped with a person controlled turret. The turret has a clear line of sight at the "Entrance to the Vault Wagon" and can be operated by anyone. If not disabled the turret will shoot in bursts of 3 rounds with a cool down of 2 rounds. At the start of each round while the turret is shooting everyone will need to roll a dex-save of 26 or over, or take 2d6 damconquest actorage (critical fails are doubled). 
 ## Farm Animal Wagons
 The train is comprised of multiple wagons carrying barn animals. All of these animals are stamped with a [[Kali Entrance Certification]].
 ## Marble Statues Wagon

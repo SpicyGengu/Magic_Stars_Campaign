@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,11 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "234ddebaa4c21ce5",
+  "active": "7e44f3996a123f31",
   "lastOpenFiles": [
+    "NPC's/Joe Batchelour.md",
     "Locations/Grimshot's House (The Grimshed).md",
     "Lore/Kali-Cola.md",
-    "NPC's/Joe Batchelour.md",
     "Locations/Crows Point.md",
     "Lore/Train Heist.md",
     "Recap/(Session 8) What?!.md",
