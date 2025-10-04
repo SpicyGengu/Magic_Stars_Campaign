@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,10 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "234ddebaa4c21ce5",
   "lastOpenFiles": [
-    "Lore/Kali-Cola.md",
     "Locations/Grimshot's House (The Grimshed).md",
+    "Lore/Kali-Cola.md",
     "NPC's/Joe Batchelour.md",
     "Locations/Crows Point.md",
     "Lore/Train Heist.md",
