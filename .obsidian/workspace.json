@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joe Batchelour.md",
+                "file": "NPC's/Joe Batchelour.md",
                 "mode": "source",
                 "source": false
               },
@@ -60,20 +60,6 @@
             }
           },
           {
-            "id": "9c2be2149f7d5321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Kali-Cola.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kali-Cola"
-            }
-          },
-          {
             "id": "7e44f3996a123f31",
             "type": "leaf",
             "state": {
@@ -88,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,11 +234,11 @@
   },
   "active": "8968c6e38a778df9",
   "lastOpenFiles": [
-    "Locations/Crows Point.md",
-    "Joe Batchelour.md",
-    "Lore/Train Heist.md",
-    "Locations/Grimshot's House (The Grimshed).md",
     "Lore/Kali-Cola.md",
+    "Locations/Grimshot's House (The Grimshed).md",
+    "NPC's/Joe Batchelour.md",
+    "Locations/Crows Point.md",
+    "Lore/Train Heist.md",
     "Recap/(Session 8) What?!.md",
     "NPC's/Boon.md",
     "NPC's/Jane.md",

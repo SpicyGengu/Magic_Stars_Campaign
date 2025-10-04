@@ -1,2 +1,2 @@
-#Magnolian_Sea #NPC 
+#Magnolian_Sea #NPC #Dead-Gone 
 An old [[Magnolia]]n philosopher. Always got his works and ideas stolen by the [[Magnolia]]n elites. He went mad and left to find the [[Nameless City]]. Now endlessly wandering in the [[Yarrow Dessert]]. He is a prime example of [[Yarrow Madness]].
