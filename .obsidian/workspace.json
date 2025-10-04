@@ -18,31 +18,45 @@
             }
           },
           {
-            "id": "f6e657f0a9b60dc0",
+            "id": "2b20d4817f7d77ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Boon.md",
+                "file": "Locations/Crows Point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boon"
+              "title": "Crows Point"
             }
           },
           {
-            "id": "8bbbed430ad41795",
+            "id": "2a317eb3c83b740d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Jane.md",
+                "file": "Locations/Grimshot's House (The Grimshed).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jane"
+              "title": "Grimshot's House (The Grimshed)"
+            }
+          },
+          {
+            "id": "9c2be2149f7d5321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kali-Cola.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kali-Cola"
             }
           },
           {
@@ -58,36 +72,9 @@
               "icon": "lucide-file",
               "title": "Train Heist"
             }
-          },
-          {
-            "id": "efa9430e10f5ace9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Zina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zina"
-            }
-          },
-          {
-            "id": "2cc4fee30ccd1053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Nameless King.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nameless King"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,8 +232,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ac036532533959c",
+  "active": "9c2be2149f7d5321",
   "lastOpenFiles": [
+    "Locations/Grimshot's House (The Grimshed).md",
+    "Kali-Cola.md",
+    "Locations/Crows Point.md",
+    "Lore/Train Heist.md",
+    "Recap/(Session 8) What?!.md",
     "NPC's/Boon.md",
     "NPC's/Jane.md",
     "Lore/Blood Addiction.md",
@@ -254,7 +246,6 @@
     "NPC's/Zina.md",
     "Lore/Vampire.md",
     "NPC's/Sombra (Calaca Sinclair).md",
-    "Lore/Train Heist.md",
     "NPC's/Alleged Cattle Thieves (Jerboa).md",
     "Lore/Antikal (Jerboa).md",
     "Lore/Star Tomb Bandits.md",
@@ -267,12 +258,8 @@
     "NPC's/Conquest.md",
     "Lore/Reinhart Family.md",
     "Locations/New Kali.md",
-    "Recap/(Session 8) What?!.md",
     "Locations/Star Tomb.md",
     "Lore/Sinclair Family.md",
-    "Recap/(Session 7) Ar-gone Silliax.md",
-    "Recap/(Session 6) Destructive Activism.md",
-    "Lore/Operation Beyond Borders.md",
     "Assets/cai-wealth-chinese-taoist-symbol.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/Townscaper 2024-06-15 17-21-59.png",
