@@ -11,7 +11,7 @@ Deep within the [[Silbian Mountain Ranges]] lies a city of the stars going by th
 Kali is getting "overpopulated" by pesky homelessness. The authorities refuse to acknowledge the fact that homelessness even exists in the Living City of Kali, choosing therefore to provide every citizen without a home a residence in [[New Kali]].
 # Locations
 - [[Kali Uiversity]]
-- [[The Kali Harbour]]
+- [[The Kali Harbor]]
 - [[Kali Casino]]
 - [[Entrance to Kali]]
 - [[Rainbow District]]

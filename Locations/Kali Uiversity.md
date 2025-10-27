@@ -1,2 +1,3 @@
 #Silbian_Mountain_Ranges/Kali #Location 
-The university of [[Living City of Kali]]. It is where [[Star fragment]] get studied and most spells get created.
+![[Townscaper 2025-10-27 13-39-16.png]]
+The university of [[Living City of Kali|Kali]]. It is where [[Star fragment]] get studied and most spells get created.
