@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden Kastel Harbour.md",
+                "file": "Locations/Hidden Kastel Harbour.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brute Force Asylum.md",
+                "file": "Locations/Brute Force Asylum.md",
                 "mode": "source",
                 "source": false
               },
@@ -129,8 +129,7 @@
               "title": "Train Heist"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,25 +287,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cadb4eca5e7e3212",
+  "active": "46c6307344f04f0f",
   "lastOpenFiles": [
+    "Locations/Hidden Kastel Harbour.md",
     "Locations/Living City of Kali.md",
     "Locations/The Kali Harbor.md",
     "Locations/Rainbow District.md",
-    "Brute Force Asylum.md",
+    "Locations/Brute Force Asylum.md",
     "Locations/Kali University.md",
     "Recap/(Session 9) Conquered.md",
     "Locations/Magnolia.md",
     "Lore/Train Heist.md",
     "Locations/Kastel.md",
-    "Kali Observatory.md",
-    "Hidden Kastel Harbour.md",
-    "Kastel Observatory.md",
+    "Locations/Kali Observatory.md",
+    "Locations/Kastel Observatory.md",
     "Locations/Entrance to Kali.md",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
-    "Star Cathedral.md",
-    "Kali Casino.md",
+    "Locations/Star Cathedral.md",
+    "Locations/Kali Casino.md",
     "Locations/Fallen Star Memorial.md",
     "Assets/Townscaper 2025-10-27 13-49-43.png",
     "Assets/Townscaper 2025-10-27 13-48-27.png",
