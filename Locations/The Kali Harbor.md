@@ -3,3 +3,4 @@
 An underground harbor extending the [[Living City of Kali]].
 # Locations
 - [[Star Cathedral]]
+- [[Secret Harbor Channel]]
