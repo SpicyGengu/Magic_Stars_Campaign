@@ -18,7 +18,7 @@ Kali is getting "overpopulated" by pesky homelessness. The authorities refuse to
 	- [[Brute Force Asylum]]
 - [[The Kali Harbor]]
 	- [[Star Cathedral]]
-- [[Kali Uiversity]]
+- [[Kali University]]
 - [[Kali Casino]]
 - [[Fallen Star Memorial]]
 - [[Entrance to Kali]]
