@@ -5,9 +5,9 @@ People of New Kali have been told their whole lives to fear [[The Mountain Tribe
 # New Kali Catastrophe
 Due to the events of [[(Session 4) The Undying]], New Kali is as of [[(Session 5) Nuke-ali]] going to explode in 2 days. If not prepared and in the vicinity the party will get 12d6 damage and be drained 2. The whole village will be levelled and there will survive a 1d100/4 amount of people in the city.
 # Locations
-- [[Entrance to New Kali]]
-- [[New Kali Store]]
-- [[Golden Barrel]]
-- [[New Kali Armoury]]
-- [[New Kali Chapel]]
-- [[Billy's Box]]
+- ~~[[Entrance to New Kali]]~~
+- ~~[[New Kali Store]]~~
+- ~~[[Golden Barrel]]~~
+- ~~[[New Kali Armoury]]~~
+- ~~[[New Kali Chapel]]~~
+- ~~[[Billy's Box]]~~
