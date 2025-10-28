@@ -1,2 +1,2 @@
-#Yarrow_Dessert #NPC 
+#Yarrow_Dessert #NPC #Dead-Gone 
 A [[Dracona]] that fled the mountains and found a home with [[Antikal (Jerboa)]]. Born [[Igni]], he fled once [[The Tribal War]] started. Now he has no intention of ever going back.
