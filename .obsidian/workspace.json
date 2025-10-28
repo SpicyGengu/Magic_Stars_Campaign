@@ -32,17 +32,17 @@
             }
           },
           {
-            "id": "9092fff7bb04053f",
+            "id": "458879fac1e6fb72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tree House Hideout (Antikal Jerboa).md",
+                "file": "Lore/Train Heist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree House Hideout (Antikal Jerboa)"
+              "title": "Train Heist"
             }
           },
           {
@@ -73,7 +73,8 @@
               "title": "(Session 9) Conquered"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,17 +232,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c6307344f04f0f",
+  "active": "458879fac1e6fb72",
   "lastOpenFiles": [
-    "Locations/Tree House Hideout (Antikal Jerboa).md",
     "Lore/Antikal (Jerboa).md",
+    "Locations/Tree House Hideout (Antikal Jerboa).md",
+    "Locations/Magnolia.md",
+    "Recap/(Session 9) Conquered.md",
     "NPC's/Jimmy.md",
     "NPC's/Emma.md",
     "NPC's/Kazu.md",
     "NPC's/Mary.md",
     "NPC's/Simon.md",
-    "Locations/Magnolia.md",
-    "Recap/(Session 9) Conquered.md",
     "NPC's/Rosa.md",
     "Lore/Vampire.md",
     "Lore/The Knights of New Kali.md",
