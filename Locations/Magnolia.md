@@ -9,4 +9,5 @@ Magnolian people are not at all concerned with power, they would much rather dri
 - [[Magnolian Bay]]
 - [[Mato Inovatto's Workshop]]
 - [[Jane & Boons House]]
+- [[Wine & Dine]]
 - 
