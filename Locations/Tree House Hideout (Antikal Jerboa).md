@@ -4,3 +4,5 @@ Hidden in the woods outside [[Magnolia]] there is a very new tree house that can
 - [[Rosa]]
 - [[Gregor]]
 - [[Jonny]]
+# Notes
+- If the party manages to find this place [[Living City of Kali|Kali]] soldiers will have been following them.
