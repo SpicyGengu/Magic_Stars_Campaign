@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brass Barbershop.md",
+                "file": "Locations/Brass Barbershop.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,31 +78,17 @@
             }
           },
           {
-            "id": "ce10b9cbc97f9671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tayanna Sinclair.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tayanna Sinclair"
-            }
-          },
-          {
             "id": "a9994987eafba307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Sinclair Family.md",
+                "file": "NPC's/Tayanna Sinclair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sinclair Family"
+              "title": "Tayanna Sinclair"
             }
           }
         ],
@@ -264,15 +250,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce10b9cbc97f9671",
+  "active": "a9994987eafba307",
   "lastOpenFiles": [
     "Lore/Sinclair Family.md",
-    "Tayanna Sinclair.md",
-    "Locations/Magnolia.md",
+    "Locations/Living City of Kali.md",
+    "Locations/Brass Barbershop.md",
+    "Lore/Kali Elites.md",
+    "NPC's/Tayanna Sinclair.md",
     "NPC's/Filip Sinclair.md",
+    "Locations/Magnolia.md",
     "Lore/Blood Addiction.md",
     "Lore/Vampire.md",
-    "Brass Barbershop.md",
     "NPC's/Chainsaw Man.md",
     "Untitled.base",
     "Untitled 1.base",
@@ -284,7 +272,6 @@
     "Locations/Wine & Dine.md",
     "Locations/Tortuga.md",
     "Locations/Magnolian Colosseum.md",
-    "Locations/Living City of Kali.md",
     "Lore/Train Heist.md",
     "Locations/Rainbow District.md",
     "Locations/Brute Force Asylum.md",
@@ -294,7 +281,6 @@
     "Locations/Hidden Kastel Harbour.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Recap/(Session 9) Conquered.md",
-    "Locations/Kastel.md",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
     "Assets/Townscaper 2025-10-27 13-49-43.png",
