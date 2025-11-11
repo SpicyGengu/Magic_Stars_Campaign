@@ -49,8 +49,7 @@
               "title": "Magnolia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9b3af24919eb9d2",
+  "active": "a8462ecf97cdd5b8",
   "lastOpenFiles": [
-    "NPC's/Chainsaw Man.md",
     "Locations/Magnolia.md",
     "Brass Barbershop.md",
+    "NPC's/Chainsaw Man.md",
     "Untitled.base",
     "Untitled 1.base",
     "Locations/Tree House Hideout (Antikal Jerboa).md",
