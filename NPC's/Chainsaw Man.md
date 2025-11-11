@@ -4,3 +4,4 @@ A champion and a frequent guest at [[Magnolian Colosseum]]. Chainsaw Man gets hi
 - When one of his attacks connects, he can use sustain actions to deal damage equivalent to (1d6 * actions used * chainsaws connected), if the enemy moves out of reach, the attack has to connect again.
 - He desperately wants to be loved
 - He is a very young [[Vampire]]
+# Stats
