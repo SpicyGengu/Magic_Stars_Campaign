@@ -1,1 +1,2 @@
 #Silbian_Mountain_Ranges/Kali #NPC 
+Easy to talk to. Even meeting her for the first time, she always feels like you've known her for ages. Allows people to get very close to her. This is very much by design. She is the best spy [[Living City of Kali]] has ever seen. Her impressive talent for extracting information has gotten her the nickname "Human-Can-Opener". Just like the rest of [[Sinclair Family]] she is very charismatic, often getting her way by words alone.
