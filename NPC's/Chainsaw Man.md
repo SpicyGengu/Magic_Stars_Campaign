@@ -5,3 +5,4 @@ A champion and a frequent guest at [[Magnolian Colosseum]]. Chainsaw Man gets hi
 - He desperately wants to be loved
 - He is a very young [[Vampire]]
 # Stats
+https://2e.aonprd.com/Monsters.aspx?ID=1236&Weak=true&NoRedirect=1

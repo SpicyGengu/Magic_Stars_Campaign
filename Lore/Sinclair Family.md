@@ -7,3 +7,5 @@ Sinclair is a family of [[Kali Elites]]. In fact The Sinclair family was the fou
 # Members
 - [[Sombra (Calaca Sinclair)]]
 - [[Filip Sinclair]]
+- [[Tayanna Sinclair]]
+- 
