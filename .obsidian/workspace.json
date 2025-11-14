@@ -59,8 +59,7 @@
               "title": "Mining Town of Jerboa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f4ac3b2c36913ac",
+  "active": "214dc200fcccaa7e",
   "lastOpenFiles": [
     "NPC's/Palamuda Slim.md",
     "NPC's/Paul Mason.md",
