@@ -6,5 +6,4 @@ Hidden in the woods outside [[Magnolia]] there is a very new tree house that can
 - [[Jonny]]
 # Notes
 - If the party manages to find this place [[Living City of Kali|Kali]] soldiers will have been following them.
-# Ambusher Stats
-![[]]
+# Ambush Stats
