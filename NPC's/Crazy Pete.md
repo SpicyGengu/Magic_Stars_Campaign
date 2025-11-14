@@ -1,4 +1,4 @@
-#Yarrow_Dessert #NPC 
+#Yarrow_Dessert #NPC #Dead-Gone 
 Lives in [[Mining Town of Jerboa]]. A local loony. He lives next door to the [[Jerboa Saloon]]. It's as if he grew out of that rocking chair of his. Always going on about some new conspiracy theory he heard. Honestly no one ever takes him seriously anymore.
 # Conspiracy theories
 - [[New Kali]] and [[Operation Beyond Borders]] real.
@@ -9,3 +9,5 @@ Lives in [[Mining Town of Jerboa]]. A local loony. He lives next door to the [[J
 - The [[Woodstock Family]] are the perpetrators behind [[Missing Cattle of Jerboa Situation]], so they can collect the insurance and make their products more expensive.
 - [[Jerboa Mine]] has been empty for years, it's now being used to launder [[Star fragment]].
 - [[Yarrow Madness]] 
+# Post [[(Session 9) Conquered]]
+He was hanged in the name of [[Living City of Kali|Kali]] for "refusing to give away [[Antikal (Jerboa)]] outpost". The real reason was that he knew too much.
