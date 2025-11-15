@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71145774538e67c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Train Heist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Train Heist"
-            }
-          },
-          {
             "id": "4cade5b8d4e81bc7",
             "type": "leaf",
             "state": {
@@ -36,20 +22,63 @@
             }
           },
           {
-            "id": "122e1a6d231535bd",
+            "id": "5fda0ecc09193710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Mathew Heybell.md",
+                "file": "Knights of New Jerboa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathew Heybell"
+              "title": "Knights of New Jerboa"
+            }
+          },
+          {
+            "id": "3118cb72c5b67718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recap/(Session 9) Conquered.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Session 9) Conquered"
+            }
+          },
+          {
+            "id": "ed3328ae8805d104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Timothy Woodstock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timothy Woodstock"
+            }
+          },
+          {
+            "id": "0cd43c3cd4f6c747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Mary Jane Woodstock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mary Jane Woodstock"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71145774538e67c1",
+  "active": "5fda0ecc09193710",
   "lastOpenFiles": [
     "Locations/Mining Town of Jerboa.md",
-    "NPC's/Mathew Heybell.md",
+    "Recap/(Session 9) Conquered.md",
+    "Knights of New Jerboa.md",
+    "NPC's/Timothy Woodstock.md",
+    "NPC's/Mary Jane Woodstock.md",
+    "Lore/Woodstock Family.md",
     "Lore/Train Heist.md",
+    "NPC's/Mathew Heybell.md",
     "Locations/Sheriff's Office (Jerboa).md",
     "NPC's/Jeremy Beans.md",
     "NPC's/Filip Sinclair.md",
@@ -222,10 +256,8 @@
     "NPC's/Paul Mason.md",
     "NPC's/Bones.md",
     "NPC's/Crazy Pete.md",
-    "NPC's/Mary Jane Woodstock.md",
     "NPC's/Zina.md",
     "Locations/Living City of Kali.md",
-    "Recap/(Session 9) Conquered.md",
     "NPC's/Mato Inovatto.md",
     "NPC's/Ado Fabriccado.md",
     "Recap/(Session 8) What.md",
@@ -233,9 +265,6 @@
     "Locations/Tree House Hideout (Antikal Jerboa).md",
     "NPC's/Butch.md",
     "Lore/Star Tomb Bandits.md",
-    "Locations/Star Tomb (Crows Point).md",
-    "NPC's/Tayanna Sinclair.md",
-    "Locations/Brass Barbershop.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
