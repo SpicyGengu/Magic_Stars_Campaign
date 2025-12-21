@@ -1,2 +1,2 @@
 #Recap #Lore 
-With [[Zina]] now on their side, the crew had set their sights for [[Magnolia]]. 
+With [[Zina]] now on their side, the crew had set their sights for [[Magnolia]]. In desperate needs of a break, and more importantly new body parts, they were hoping ti kill 2 birds with one stone. They collectively agreed that the best course of action would be to first set their sails for [[Mining Town of Jerboa|Jerboa]]. 

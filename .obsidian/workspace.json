@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aacf587b855448b0",
+  "active": "fc8c831f8255afe8",
   "lastOpenFiles": [
-    "Recap/(Session 8) What.md",
     "Timeline.md",
+    "Recap/(Session 8) What.md",
     "Recap/(Session 5) Nuke-ali.md",
     "Recap/(Session 6) Destructive Activism.md",
     "Recap/(Session 2) New Kali.md",
