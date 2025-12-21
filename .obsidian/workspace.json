@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "Recap/Timeline.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,7 +59,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,16 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8c831f8255afe8",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
-    "Timeline.md",
+    "Recap/(Session 10) Knights of New Jerboa.md",
+    "Recap/Timeline.md",
     "Recap/(Session 8) What.md",
     "Recap/(Session 5) Nuke-ali.md",
     "Recap/(Session 6) Destructive Activism.md",
     "Recap/(Session 2) New Kali.md",
     "Locations/Armadillo.md",
     "Locations/Bank Of Jerboa.md",
-    "Recap/(Session 10) Knights of New Jerboa.md",
     "Recap/(Session 9) Conquered.md",
     "Recap/(Session 10) Voice of Jerboa.md",
     "NPC's/Mary Jane Woodstock.md",
