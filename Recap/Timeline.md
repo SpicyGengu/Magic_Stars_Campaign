@@ -24,6 +24,5 @@
 # [[(Session 10) Knights of New Jerboa]]
 - 2nd travel to [[Mining Town of Jerboa|Jerboa]]: 5 days
 - 2nd time in [[Mining Town of Jerboa|Jerboa]]: 14 days
-...
 # Total time spent
 98 days = 14 weeks = 3.5 months
