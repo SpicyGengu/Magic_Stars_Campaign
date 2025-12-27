@@ -1,2 +1,2 @@
 #Lore #Magnolian_Sea 
-The Antić family is one of pirates. While not the biggest pirate fleet they most certainly are the most skilled/lucky ones. Their biggest flaw is their innate sense of greed. They are 
+The Antić family is one of pirates. While not the biggest pirate fleet they most certainly are the most skilled/lucky ones. Their biggest flaw is their innate sense of greed. They are well known pirate family terrorising [[Magnolian Sea]]. They most often reside on [[Tortuga]]. 
