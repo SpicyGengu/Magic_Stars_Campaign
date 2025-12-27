@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc8c831f8255afe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/(Session 10) Knights of New Jerboa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Session 10) Knights of New Jerboa"
-            }
-          },
-          {
-            "id": "aacf587b855448b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "9718e24dfc8bdbe0",
             "type": "leaf",
             "state": {
@@ -44,8 +16,65 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0bfc5f340ccb1e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Magnolia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnolia"
+            }
+          },
+          {
+            "id": "05517bf54c00e41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Brass Barbershop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brass Barbershop"
+            }
+          },
+          {
+            "id": "9126ab08bdcfc4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Magnolian Colosseum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnolian Colosseum"
+            }
+          },
+          {
+            "id": "851c8a7effca1bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Joshua Watson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joshua Watson"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,14 +233,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8c831f8255afe8",
+  "active": "851c8a7effca1bde",
   "lastOpenFiles": [
+    "Locations/Magnolian Colosseum.md",
+    "Locations/Magnolia.md",
+    "Locations/Brass Barbershop.md",
+    "Locations/Armadillo.md",
+    "Recap/Timeline.md",
+    "NPC's/Zina.md",
+    "Recap/(Session 10) Knights of New Jerboa.md",
     "NPC's/Jeremy Beans.md",
     "Locations/Jerboa Clinic.md",
     "Lore/Antikal (Jerboa).md",
-    "Recap/(Session 10) Knights of New Jerboa.md",
-    "Recap/Timeline.md",
-    "Locations/Armadillo.md",
     "Recap/(Session 8) What.md",
     "Recap/(Session 5) Nuke-ali.md",
     "Recap/(Session 6) Destructive Activism.md",
@@ -228,10 +261,6 @@
     "Locations/Sheriff's Office (Jerboa).md",
     "NPC's/Filip Sinclair.md",
     "Lore/Starscourge 0.13.7.md",
-    "Lore/Missing Cattle of Jerboa Situation.md",
-    "NPC's/Palamuda Slim.md",
-    "NPC's/Paul Mason.md",
-    "NPC's/Bones.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
