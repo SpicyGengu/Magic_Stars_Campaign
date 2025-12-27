@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Dead-Gone",
@@ -146,11 +146,11 @@
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.00709342560554,
-  "collapse-forces": true,
-  "centerStrength": 0.125,
-  "repelStrength": 4.79166666666667,
-  "linkStrength": 0.5,
-  "linkDistance": 101,
+  "collapse-forces": false,
+  "centerStrength": 0.102130190311419,
+  "repelStrength": 5.04108996539792,
+  "linkStrength": 0.498053633217993,
+  "linkDistance": 100,
   "scale": 0.334349941395673,
   "close": true
 }
