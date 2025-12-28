@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b49970eba59a254",
+  "active": "3c9e1b26edcd592c",
   "lastOpenFiles": [
-    "Locations/Armadillo.md",
     "Recap/Timeline.md",
+    "Locations/Armadillo.md",
     "Recap/(Session 10) Knights of New Jerboa.md",
     "Lore/Ruzinavi Brod.md",
     "Locations/Magnolian Colosseum.md",
