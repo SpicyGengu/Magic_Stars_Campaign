@@ -101,8 +101,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,12 +261,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47bec247ba7886ff",
+  "active": "9718e24dfc8bdbe0",
   "lastOpenFiles": [
-    "NPC's/Jane.md",
-    "NPC's/Boon.md",
-    "Recap/Timeline.md",
     "NPC's/Mato Inovatto.md",
+    "NPC's/Boon.md",
+    "NPC's/Jane.md",
+    "Locations/Brass Barbershop.md",
+    "Recap/Timeline.md",
     "Recap/(Session 10) Knights of New Jerboa.md",
     "Locations/Mato Inovatto's Workshop.md",
     "Locations/Armadillo.md",
@@ -288,7 +288,6 @@
     "Locations/Jerboa Morg.md",
     "NPC's/Bones.md",
     "Locations/Jerboa Clinic.md",
-    "Locations/Brass Barbershop.md",
     "NPC's/Chainsaw Man.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
