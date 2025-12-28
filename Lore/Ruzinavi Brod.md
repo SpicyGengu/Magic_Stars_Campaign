@@ -11,6 +11,7 @@ I ko je sve za menon plaka
 kad bi odrisiva kraj  
 mozda me tamo di sad iden  
 ceka raj  
+
 ### Ref.  
 Debelin moren  
 sad me vozi stari ruzinavi brod  
@@ -43,7 +44,23 @@ when I would cast off to the end
 maybe it is there where I am now headed
 that heaven awaits
 
-# Chorus
+### Chorus
 Thick sea
 now I sail this rusty boat
-on the 
+on it's bow the sea-salt ripples
+and the tiller is always fleeing
+somewhere, where it wants to 
+and there where it's not supposed to 
+the sea has chosen it's course
+
+In the end I have to tell you 
+that I already clearly see the end
+that the waves are only getting bigger
+that it doesn't look like paradise
+
+Only ancient wreckage's
+that have sunken to the depths
+so not even that, which I wanted
+which I dreamt of for years, isn't it
+
+Chours 3x
