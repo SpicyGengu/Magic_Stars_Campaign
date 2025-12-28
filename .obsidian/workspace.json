@@ -31,8 +31,7 @@
               "title": "(Session 10) Knights of New Jerboa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2d499d2e386c72",
+  "active": "9718e24dfc8bdbe0",
   "lastOpenFiles": [
+    "Recap/(Session 10) Knights of New Jerboa.md",
     "Recap/Timeline.md",
     "Lore/Ruzinavi Brod.md",
     "Locations/Magnolian Colosseum.md",
@@ -216,7 +216,6 @@
     "NPC's/The Lightning Dragon.md",
     "NPC's/Joshua Watson.md",
     "NPC's/Zina.md",
-    "Recap/(Session 10) Knights of New Jerboa.md",
     "NPC's/Jeremy Beans.md",
     "Lore/Antikal (Jerboa).md",
     "Recap/(Session 8) What.md",
