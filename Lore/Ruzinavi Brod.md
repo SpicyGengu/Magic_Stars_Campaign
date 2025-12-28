@@ -64,3 +64,35 @@ so not even that, which I wanted
 which I dreamt of for years, isn't it
 
 Chours 3x
+# Partial/Poor Translation
+---
+**Ja** xxx longer remember **gigi** **ja** wanted
+when **ja** xxx crazy **poq** child
+xxx xxx **ja** **koristio** xxx nights
+xxx xxx **ja** **igra** cards, xxx xxx **ja** drank
+
+**Poq** who were the ones that xxx **za** me
+when **ja** **bi** cast xxx of xxx end
+maybe **to je** there **kamo** **ja** am now headed
+that heaven **ceka**
+
+### Chorus
+Thick **[[Magnolia]]**
+now **ja** sail xxx rusty xxx
+**na** xxx bow xxx **[[Magnolia]]**-**sol** ripples
+**poq** the tiller xxx always fleeing
+**negdje**, **kamo** xxx wants to 
+**poq** there **kamo** xxx **~** supposed to 
+the **[[Magnolia]]** xxx chosen xxx course
+
+xxx xxx end **ja** **moram** xxx tell you 
+that **ja** already clearly see the end
+that xxx xxx are only getting bigger
+that xxx doesn't xxx xxx paradise
+
+Only ancient wreckage's
+xxx xxx sunken to the **dno**
+**~** that, which **ja** **htio**
+which **ja** dreamt xxx xxx years, isn't it
+
+Chours 3x
