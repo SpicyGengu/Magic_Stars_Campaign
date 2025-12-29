@@ -19,7 +19,7 @@
 - Travel to [[Crows Point]]: 8 days
 - At [[Crows Point]]: 7 days
 # [[(Session 9) Conquered]]
-- At [[Crows Point]]: 2\*7 days
+- At [[Crows Point]]: 14 days
 - [[Train Heist]]: 1 day
 # [[(Session 10) Knights of New Jerboa]]
 - 2nd travel to [[Mining Town of Jerboa|Jerboa]]: 5 days
@@ -28,6 +28,6 @@
 - Travel to [[Armadillo]] 31 days
 - In [[Armadillo]] 12 days
 - Trip to [[Magnolia]] 6 days
-- In [[Magnolia]] 4 day + 12 days + 
+- In [[Magnolia]] 35 days 
 # Total time spent
-151 days = 21.6 weeks = 5.4 months
+182 days = 26 weeks = 6.5 months

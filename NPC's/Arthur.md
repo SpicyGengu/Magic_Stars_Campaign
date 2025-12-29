@@ -1,0 +1,2 @@
+#NPC #Magnolian_Sea 
+Arthur is [[Magnolia]]n head of state. He has been democratically elected. He has [[Magnolia]]s best interests at heart but he is very subtly being controlled by [[Living City of Kali|Kali]]. He is very new to this responsibility and is therefore kind of sloppy on the details. He comes to every event happening at [[Magnolian Colosseum]] and even juries the fights.
