@@ -73,8 +73,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "002947875231db5b",
   "lastOpenFiles": [
-    "Locations/Living City of Kali.md",
     "Locations/Magnolia Slums.md",
+    "Locations/Living City of Kali.md",
     "Recap/Timeline.md",
     "NPC's/Phoenix (Louise).md",
     "Locations/Magnolian Colosseum.md",
