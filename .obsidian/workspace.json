@@ -143,7 +143,8 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -303,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "5947c4db4c1cd302",
   "lastOpenFiles": [
     "NPC's/Fayendel Greenleaf.md",
     "NPC's/Linetre.md",
