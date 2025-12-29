@@ -22,17 +22,73 @@
             }
           },
           {
-            "id": "c51ab8c7bc5766ef",
+            "id": "f3e6e9a99f847d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Arthur.md",
+                "file": "Locations/Fabriccado's Workshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arthur"
+              "title": "Fabriccado's Workshop"
+            }
+          },
+          {
+            "id": "17d57ed86a5a1753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Magnolia Slums.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnolia Slums"
+            }
+          },
+          {
+            "id": "d06ae43093913100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dropotito Shopolito's Shop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dropotito Shopolito's Shop"
+            }
+          },
+          {
+            "id": "1d8b3d63867be1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Kali Conspiracies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kali Conspiracies"
+            }
+          },
+          {
+            "id": "e95b779ac6754afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Operation Useful Idiot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operation Useful Idiot"
             }
           },
           {
@@ -101,7 +157,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,34 +317,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "002947875231db5b",
+  "active": "f3e6e9a99f847d1e",
   "lastOpenFiles": [
-    "NPC's/Arthur.md",
+    "Locations/Magnolia Slums.md",
     "Locations/Magnolia.md",
+    "Dropotito Shopolito's Shop.md",
+    "Lore/Operation Useful Idiot.md",
+    "Lore/Kali Conspiracies.md",
+    "Recap/Timeline.md",
+    "NPC's/Joshua Watson.md",
+    "Locations/Mining Town of Jerboa.md",
+    "Lore/Woodstock Family.md",
+    "Lore/Missing Cattle of Jerboa Situation.md",
+    "NPC's/Palamuda Slim.md",
+    "NPC's/Paul Mason.md",
+    "Lore/Kali-Cola.md",
+    "Lore/Grand Beluga.md",
+    "NPC's/Arthur.md",
+    "Lore/Disspelling Magic.md",
+    "Lore/Dragon Water.md",
+    "Lore/Train Heist.md",
+    "Lore/Badija-Ophilia civil war.md",
     "Locations/Living City of Kali.md",
     "Lore/Operation Beyond Borders.md",
-    "NPC's/Joshua Watson.md",
-    "Recap/Timeline.md",
     "Locations/Magnolian Colosseum.md",
     "Lore/Sinclair Family.md",
     "NPC's/Chainsaw Man.md",
     "NPC's/Phoenix (Louise).md",
-    "Locations/Magnolia Slums.md",
     "Locations/Brass Barbershop.md",
-    "NPC's/The Lightning Dragon.md",
-    "NPC's/Fayendel Greenleaf.md",
-    "NPC's/Linetre.md",
-    "Locations/Tree House Hideout (Antikal Jerboa).md",
-    "NPC's/Tayanna Sinclair.md",
-    "NPC's/Ado Fabriccado.md",
-    "NPC's/Grimshot.md",
-    "NPC's/Jane.md",
-    "Locations/Wine & Dine.md",
-    "NPC's/Rosa.md",
-    "NPC's/Gregor.md",
-    "Recap/(Session 10) Knights of New Jerboa.md",
-    "NPC's/Mato Inovatto.md",
-    "NPC's/Boon.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
