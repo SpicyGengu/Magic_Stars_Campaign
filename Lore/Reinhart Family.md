@@ -2,4 +2,5 @@
 One of the [[Kali Elites]], the Reinhart family is one of the oldest families in [[Living City of Kali]]. 
 # Members
 - [[Conquest]]
-- 
+- [[Lilith Reinhart]]
+- [[Terence Reinhart]]

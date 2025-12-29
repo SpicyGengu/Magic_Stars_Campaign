@@ -50,34 +50,6 @@
             }
           },
           {
-            "id": "e80a0ff1cd51bc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Friendly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Friendly"
-            }
-          },
-          {
-            "id": "6d267d27eb6a7c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Sinclair Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sinclair Family"
-            }
-          },
-          {
             "id": "73d5903f81b02449",
             "type": "leaf",
             "state": {
@@ -92,20 +64,6 @@
             }
           },
           {
-            "id": "5947c4db4c1cd302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "b73185ff64671412",
             "type": "leaf",
             "state": {
@@ -115,8 +73,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,19 +232,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e80a0ff1cd51bc89",
+  "active": "002947875231db5b",
   "lastOpenFiles": [
-    "Star Up.md",
+    "Locations/Magnolia Slums.md",
+    "Lore/Kali Conspiracies.md",
+    "Recap/Timeline.md",
+    "Lilith Reinhart.md",
+    "Lore/Reinhart Family.md",
+    "Lore/Kali Elites.md",
+    "Lore/Sinclair Family.md",
+    "NPC's/Phoenix (Louise).md",
+    "Locations/Dropotito Shopolito's Shop.md",
     "NPC's/Friendly.md",
+    "Lore/Star Up.md",
     "NPC's/Joshua Watson.md",
     "Lore/Operation Useful Idiot.md",
-    "Lore/Kali Conspiracies.md",
-    "Locations/Magnolia Slums.md",
     "Locations/Magnolia.md",
-    "Dropotito Shopolito's Shop.md",
-    "Dropotito Shopolito.md",
+    "NPC's/Dropotito Shopolito.md",
     "Locations/Fabriccado's Workshop.md",
-    "Recap/Timeline.md",
     "Locations/Mining Town of Jerboa.md",
     "Lore/Woodstock Family.md",
     "Lore/Missing Cattle of Jerboa Situation.md",
@@ -298,11 +260,6 @@
     "NPC's/Arthur.md",
     "Lore/Disspelling Magic.md",
     "Lore/Dragon Water.md",
-    "Lore/Train Heist.md",
-    "Lore/Badija-Ophilia civil war.md",
-    "Locations/Living City of Kali.md",
-    "Lore/Operation Beyond Borders.md",
-    "Locations/Magnolian Colosseum.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
