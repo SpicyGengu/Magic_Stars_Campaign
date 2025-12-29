@@ -30,4 +30,4 @@
 - Trip to [[Magnolia]] 6 days
 - In [[Magnolia]] 4 day
 # Total time spent
-98 days = 14 weeks = 3.5 months
+151 days = 21.6 weeks = 5.4 months
