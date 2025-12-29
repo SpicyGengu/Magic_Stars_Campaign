@@ -9,6 +9,8 @@ The [[Living City of Kali]] has always wanted influence over Magnolia. They are 
 # Locations
 - [[Magnolian Colosseum]]
 - [[Magnolia Slums]]
+	- [[Fabriccado's Workshop]]
+	- [[Dropotito Shopolito's Shop]]
 - [[Magnolian Bay]]
 - [[Mato Inovatto's Workshop]]
 - [[Jane & Boons House]]
