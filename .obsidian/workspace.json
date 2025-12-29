@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnolia Slums.md",
+                "file": "Locations/Magnolia Slums.md",
                 "mode": "source",
                 "source": false
               },
@@ -234,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "274d5c36d49ae255",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
     "Locations/Living City of Kali.md",
-    "Magnolia Slums.md",
+    "Locations/Magnolia Slums.md",
     "Recap/Timeline.md",
     "NPC's/Phoenix (Louise).md",
     "Locations/Magnolian Colosseum.md",
