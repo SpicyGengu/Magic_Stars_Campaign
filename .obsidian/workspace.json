@@ -60,6 +60,34 @@
             }
           },
           {
+            "id": "5f1bfa3b54b3efb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Linetre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linetre"
+            }
+          },
+          {
+            "id": "0b479ddf5ad5ac19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Fayendel Greenleaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fayendel Greenleaf"
+            }
+          },
+          {
             "id": "3ec386d7496efcd8",
             "type": "leaf",
             "state": {
@@ -102,177 +130,6 @@
             }
           },
           {
-            "id": "2046475fba5b80d9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Locations/Brass Barbershop.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Dead-Gone",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:Recap  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711842
-                      }
-                    },
-                    {
-                      "query": "tag:#Player  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8716288
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16758328
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13341477
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7265750
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3735548
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1359282
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6184150
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4144568
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3420643
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest  path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3471671
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1682971
-                      }
-                    },
-                    {
-                      "query": "path:Locations",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9717448
-                      }
-                    },
-                    {
-                      "query": "path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9122228
-                      }
-                    },
-                    {
-                      "query": "path:NPC's",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4861032
-                      }
-                    },
-                    {
-                      "query": "tag:#louise",
-                      "color": {
-                        "a": 1,
-                        "rgb": 167680
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.993229166666667,
-                  "lineSizeMultiplier": 1.00709342560554,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Brass Barbershop"
-            }
-          },
-          {
             "id": "5947c4db4c1cd302",
             "type": "leaf",
             "state": {
@@ -286,8 +143,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -447,15 +303,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2046475fba5b80d9",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
-    "NPC's/The Lightning Dragon.md",
-    "Recap/Timeline.md",
-    "Locations/Brass Barbershop.md",
+    "NPC's/Fayendel Greenleaf.md",
+    "NPC's/Linetre.md",
+    "NPC's/Ado Fabriccado.md",
     "Locations/Magnolian Colosseum.md",
+    "NPC's/Grimshot.md",
     "Locations/Tree House Hideout (Antikal Jerboa).md",
     "NPC's/Tayanna Sinclair.md",
-    "NPC's/Ado Fabriccado.md",
+    "NPC's/The Lightning Dragon.md",
+    "Locations/Brass Barbershop.md",
+    "Recap/Timeline.md",
     "NPC's/Jane.md",
     "Lore/Sinclair Family.md",
     "Locations/Wine & Dine.md",
@@ -472,9 +331,6 @@
     "NPC's/Phoenix (Louise).md",
     "Locations/Magnolia.md",
     "Lore/Antić.md",
-    "Locations/Mining Town of Jerboa.md",
-    "Locations/Sheriff's Office (Jerboa).md",
-    "Locations/Bank Of Jerboa.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
