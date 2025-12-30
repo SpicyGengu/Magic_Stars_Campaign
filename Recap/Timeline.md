@@ -24,7 +24,7 @@
 # [[(Session 10) Knights of New Jerboa]]
 - 2nd travel to [[Mining Town of Jerboa|Jerboa]]: 5 days
 - 2nd time in [[Mining Town of Jerboa|Jerboa]]: 14 days
-# [[(Session 11)]]
+# [[(Session 11) Greenleaf falls]]
 - Travel to [[Armadillo]] 31 days
 - In [[Armadillo]] 12 days
 - Trip to [[Magnolia]] 6 days
