@@ -3,7 +3,7 @@
 - [[Giant Ant Hive]]: 3 days
 # [[(Session 2) New Kali]]
 - [[New Kali]]: 7 days
-# [[(Session 3) Coloseum of the Dead]]
+# [[(Session 3) Colosseum of the Dead]]
 - [[New Kali]]: 7 days
 # [[(Session 4) The Undying]]
 - [[New Kali]]: 5 days
