@@ -1,2 +1,2 @@
 #Silbian_Mountain_Ranges/Kali #Silbian_Mountain_Ranges/Dracona  #Lore 
-Water filled with [[Star fragment]]s leaking from the [[Living City of Kali]]. Is acquired form [[The Dragon Water Source]]. It is used to practice water magic, but it's uses are limited since the [[Star fragment]]s in it get consumed after a while.
+Water filled with [[Star Fragment]]s leaking from the [[Living City of Kali]]. Is acquired form [[The Dragon Water Source]]. It is used to practice water magic, but it's uses are limited since the [[Star Fragment]]s in it get consumed after a while.

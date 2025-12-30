@@ -1,7 +1,7 @@
 #Yarrow_Dessert #Location 
 Cards? Booze? Rooms? What more could you possibly want?
 # Rooms for rent
-One of the saloons many services is providing rooms for rent. A night will cost you around 0.5 [[Star fragment]]s per person.
+One of the saloons many services is providing rooms for rent. A night will cost you around 0.5 [[Star Fragment]]s per person.
 # Bar
 A bar in [[Mining Town of Jerboa]] tended by the [[Locksmith Brothers]].
 # Piano

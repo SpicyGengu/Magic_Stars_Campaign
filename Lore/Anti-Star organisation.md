@@ -1,2 +1,2 @@
 #Lore 
-An organization fighting against [[Star fragment]]s and it's influence on civilisation.
+An organization fighting against [[Star Fragment]]s and it's influence on civilisation.

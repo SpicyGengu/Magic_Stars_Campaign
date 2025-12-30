@@ -5,4 +5,4 @@ Star Tombs are ancient tombs that were created to stop the movement of [[The Sta
 - [[Star Tomb (Crows Point)]]
 - 
 # Notes
-- These tombs all emanate an aura of [[Disspelling Magic]] making it difficult for magic users to properly use the [[Star fragment]]s.
+- These tombs all emanate an aura of [[Disspelling Magic]] making it difficult for magic users to properly use the [[Star Fragment]]s.

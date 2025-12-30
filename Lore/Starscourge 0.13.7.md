@@ -3,4 +3,4 @@ Produced by [[Living City of Kali]]'s best wizards, the Starscourge is a proof o
 # Lore
 As the name would imply this is merely one of many prototypes made and improved. Designed by [[Petra Oklopska]], it wasn't manufactured by her. In fact she doesn't even know of it's existence. The design was stolen by Kali spies appointed the task of keeping the [[Badija-Ophilia civil war]] going. This is why the Starscourge is being shipped all the way from [[Badija and Ophilia]].
 # Notes
-- To charge, it needs 3 gold pieces worth of [[Star fragment]]s and a full day before it's ready.
+- To charge, it needs 3 gold pieces worth of [[Star Fragment]]s and a full day before it's ready.

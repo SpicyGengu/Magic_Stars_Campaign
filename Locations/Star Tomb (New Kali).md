@@ -1,7 +1,7 @@
 #Silbian_Mountain_Ranges #Location #Dead-Gone 
 Inside a forest, not too far from [[New Kali]] there is a hidden [[Star Tomb]]. First time entering this tomb, the party will be met by [[Sombra de los Muertos]]. Of course Sombra will advise them very calmly to go away, but he won't stop them. Entering the tomb the party will be met with 3 rooms.
 # Room 1
-The room on the right contains an altar. Atop the altar there's a giant [[Star fragment]] (worth 100 [[Star fragment]]s), sitting on a fancy red pillow.
+The room on the right contains an altar. Atop the altar there's a giant [[Star Fragment]] (worth 100 [[Star Fragment]]s), sitting on a fancy red pillow.
 # Room 2
 Room 2 is the one on the left, and is filled with corpses of dead [[Star Monks]]. The corpses are holding a meditative position. On the walls can be seen depictions of the [[Nameless City]] with pyramids. Also depicted on the walls are drawings of falling stars, something no one has ever seen.
 # Room 3

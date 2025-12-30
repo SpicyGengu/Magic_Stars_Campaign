@@ -1,7 +1,7 @@
 #Silbian_Mountain_Ranges/New_Kali #Location #Dead-Gone 
 A brothel, casino, bar and a hotel all in one only in [[New Kali]]. This is where most citizens of [[New Kali]] go to forget that they are citizens of [[New Kali]].
 # Poker table
-At the poker table one can often find [[Mauna Loa]] playing. She is a very aggressive player since she essentially only plays with [[New Kali]]s tax [[Star fragment]]s.
+At the poker table one can often find [[Mauna Loa]] playing. She is a very aggressive player since she essentially only plays with [[New Kali]]s tax [[Star Fragment]]s.
 # Prostitutes
 The prostitutes are very flirty and pushy, a bunch of them are changelings and open to essentially anything.
 # Bar

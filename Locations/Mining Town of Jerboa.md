@@ -3,7 +3,7 @@ aliases:
   - Jerboa
 ---
 #Yarrow_Dessert #Location 
-Located in the [[Yarrow Dessert]], Jerboa is one of the biggest mining sites in Yarrow. Being one of the biggest exports of [[Star fragment]]s, the town of Jerboa is in a tight alliance with the [[Living City of Kali]]. In fact most of the [[Star fragment]] produce gets sent straight to Kali. The Jerboan population only gets a fraction of what they actually create. Despite this Jerboans aren't complaining (too much). The town has never been more financially successful, then when they started collaborating with the [[Living City of Kali]].
+Located in the [[Yarrow Dessert]], Jerboa is one of the biggest mining sites in Yarrow. Being one of the biggest exports of [[Star Fragment]]s, the town of Jerboa is in a tight alliance with the [[Living City of Kali]]. In fact most of the [[Star Fragment]] produce gets sent straight to Kali. The Jerboan population only gets a fraction of what they actually create. Despite this Jerboans aren't complaining (too much). The town has never been more financially successful, then when they started collaborating with the [[Living City of Kali]].
 # Jerboa Rule
 Jerboa is ruled by a preacher going by the name [[Paul Mason]]. Planted by the [[Living City of Kali]], [[Paul Mason]] is draining the towns economy with religion.
 # Intro sequence
