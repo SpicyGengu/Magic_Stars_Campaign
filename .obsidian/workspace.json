@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 386.5
   },
   "right": {
     "id": "150c49f990afefdf",
@@ -247,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b18ad2cd849a8696",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
-    "Recap/Timeline.md",
     "Recap/(Session 11) Greenleaf falls.md",
+    "Recap/Timeline.md",
     "Lore/Star Fragment.md",
     "Locations/Armadillo.md",
     "NPC's/Fayendel Greenleaf.md",
