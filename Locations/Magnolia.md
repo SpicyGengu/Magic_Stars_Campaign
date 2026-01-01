@@ -8,7 +8,7 @@ Magnolian people are not at all concerned with power, they would much rather dri
 The [[Living City of Kali]] has always wanted influence over Magnolia. They are huge business partners when it comes to trading goods. They have always had mutual respect for each other much to [[Living City of Kali|Kali]]s dismay. [[Living City of Kali|Kali]] has recently started sneaking into Magnolian government little by little. It started by establishing a spy HQ going under the name [[Brass Barbershop]]. They have used all kinds of excuses to control the public a good example being handling the [[Train Heist]] case. Recently they have managed to sway the elections in favour of a head ruler of Magnolia. [[Arthur]] has been elected as a head of state for Magnolia, and the people are still having a hard time getting used to it. The main point of this is to make Magnolia as a whole more prone to manipulation so that the real power can ultimately lay in [[Living City of Kali|Kali]]s hands. [[Living City of Kali|Kali]] has chosen to name this [[Operation Useful Idiot]].
 # Locations
 - [[Magnolian Colosseum]]
-- [[Magnolia Slums]]
+- [[Magnolian Slums]]
 	- [[Fabriccado's Workshop]]
 	- [[Dropotito Shopolito's Shop]]
 - [[Magnolian Bay]]
