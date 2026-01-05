@@ -44,16 +44,6 @@
               "icon": "lucide-file",
               "title": "(Session 11) Greenleaf falls"
             }
-          },
-          {
-            "id": "002947875231db5b",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
-            }
           }
         ]
       }
