@@ -16,3 +16,4 @@ The [[Living City of Kali]] has always wanted influence over Magnolia. They are 
 - [[Jane & Boons House]]
 - [[Wine & Dine]]
 - [[Brass Barbershop]]
+- [[Magnolian Library]]

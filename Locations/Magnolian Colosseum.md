@@ -1,6 +1,13 @@
 #Magnolian_Sea #Location 
 ![[Townscaper 2025-01-21 10-04-15.png]]
 The biggest colosseum in [[Magnolia]], used to host the most legendary events in all of the lands. 
+# Show Structure
+- Ads
+- Announcements and summation of performers
+- Musical/Theatrical performance
+- Martial combat performance
+- Debate/Philosophical performance
+- Outro
 # Colosseum Champions
 - [[Chainsaw Man]]
 - [[Joshua Watson]]

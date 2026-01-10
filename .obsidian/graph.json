@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Stribor_Forest  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -151,6 +151,6 @@
   "repelStrength": 5.04108996539792,
   "linkStrength": 0.498053633217993,
   "linkDistance": 100,
-  "scale": 0.6808370389892071,
+  "scale": 0.2919446011333472,
   "close": true
 }

@@ -8,95 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e96f83fe64814ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Train Heist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Train Heist"
-            }
-          },
-          {
             "id": "dd061ee05b5d284e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Lightning Bolt.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Lightning Bolt"
+              "title": "(Session 11) Greenleaf falls"
             }
           },
           {
-            "id": "08fc18db5c897549",
+            "id": "9168bdd4a751b4df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lady Iron.md",
+                "file": "Locations/Magnolian Colosseum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lady Iron"
+              "title": "Magnolian Colosseum"
             }
           },
           {
-            "id": "1149a562b4830cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Jakov Miličić.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jakov Miličić"
-            }
-          },
-          {
-            "id": "563e871446504a49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5360fb97f8847ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ophilian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ophilian"
-            }
-          },
-          {
-            "id": "02bf8600f9bd353c",
+            "id": "c28662d944b07bd1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lore/Ophilian.md",
+                "file": "Locations/Magnolian Colosseum.md",
                 "options": {
                   "collapse-filter": true,
-                  "search": "tag:#Stribor_Forest  ",
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -255,25 +203,35 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ophilian"
+              "title": "Graph of Magnolian Colosseum"
             }
           },
           {
-            "id": "85837ed12aefc4ff",
+            "id": "b98c2732879775b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Badijan.md",
+                "file": "Locations/Magnolia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Badijan"
+              "title": "Magnolia"
+            }
+          },
+          {
+            "id": "2bb486f7a2c56f9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -326,8 +284,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -433,34 +390,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02bf8600f9bd353c",
+  "active": "c28662d944b07bd1",
   "lastOpenFiles": [
+    "Recap/(Session 11) Greenleaf falls.md",
+    "Locations/Magnolian Colosseum.md",
+    "Locations/Magnolia.md",
+    "NPC's/Chainsaw Man.md",
+    "Lore/The Lightning Bolt.md",
+    "Lore/Train Heist.md",
+    "NPC's/Dimitar Oklopov.md",
+    "Locations/Zmajev Plamen.md",
+    "NPC's/Jakov Miličić.md",
+    "NPC's/Mike Mihaelov.md",
+    "Locations/Living City of Kali.md",
     "Lore/Badijan.md",
     "Lore/Ophilian.md",
     "NPC's/Petra Oklopova.md",
     "NPC's/Đorđe Balašević.md",
     "NPC's/Andrej Belić.md",
     "Locations/Sokolov Wedding.md",
-    "NPC's/Jakov Miličić.md",
     "Lore/Lady Iron.md",
-    "Lore/The Lightning Bolt.md",
-    "Lore/Train Heist.md",
     "Lore/Kali Conspiracies.md",
     "Locations/Mining Town of Jerboa.md",
     "NPC's/Jakov Jurkić.md",
-    "Locations/Living City of Kali.md",
     "NPC's/Conquest.md",
-    "NPC's/Chainsaw Man.md",
     "NPC's/Sheila.md",
     "NPC's/Fayendel Greenleaf.md",
     "NPC's/The Lightning Dragon.md",
     "NPC's/Selma.md",
-    "NPC's/Violet.md",
-    "NPC's/Silvia.md",
-    "butt.md",
-    "Recap/(Session 11) Greenleaf falls.md",
-    "NPC's/Jane.md",
-    "Locations/Magnolia.md",
     "recaps_1_11.zip",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",

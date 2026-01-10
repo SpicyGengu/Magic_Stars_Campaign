@@ -4,3 +4,4 @@ Driver of the [[Traveling Carriage (New Kali - Yarrow)]].
 With his business gone Mike sat on a train back to [[Living City of Kali]]. He now focuses on running [[The Moss Pouch]] his vegetables and plants shop.
 # Notes
 - Has a very thick "Slavic" accent
+- He is [[Badijan]]

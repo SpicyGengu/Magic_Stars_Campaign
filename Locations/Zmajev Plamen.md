@@ -1,0 +1,2 @@
+#Location #Stribor_Forest 
+A blacksmith shop that is currently closed. It used to be one of the most legendary shops in [[Badija and Ophilia]]. It was run by [[Jakov Jurkić]] and [[Dimitar Oklopov]] equally. When [[Badija-Ophilia civil war]] started the shop was closed down due to public concern.
