@@ -34,4 +34,5 @@ During and following [[(Session 9) Conquered]], the train was ambushed by the pl
 - [[Magic Ammo Mag]]
 - [[The Lightning Bolt]]
 - [[Schematic Goggles]]
+- [[Lady Iron]]
 - 1000 [[Star Fragment]]
