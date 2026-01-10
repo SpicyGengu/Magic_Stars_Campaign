@@ -22,26 +22,12 @@
             }
           },
           {
-            "id": "9168bdd4a751b4df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Magnolian Colosseum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnolian Colosseum"
-            }
-          },
-          {
-            "id": "c28662d944b07bd1",
+            "id": "c35b2ac853bcab3c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Magnolian Colosseum.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +189,49 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Magnolian Colosseum"
+              "title": "Graph of (Session 11) Greenleaf falls"
+            }
+          },
+          {
+            "id": "48ba38bd7fec60fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recap/Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "f85d661b8a669c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/The Lightning Dragon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Lightning Dragon"
+            }
+          },
+          {
+            "id": "9168bdd4a751b4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Magnolian Colosseum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnolian Colosseum"
             }
           },
           {
@@ -231,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Living City of Kali.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +342,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Living City of Kali"
+              "title": "Backlinks for (Session 11) Greenleaf falls"
             }
           },
           {
@@ -323,11 +351,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from (Session 11) Greenleaf falls"
             }
           },
           {
@@ -351,13 +380,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruzinavi Brod.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ruzinavi Brod"
+              "title": "Outline of (Session 11) Greenleaf falls"
             }
           },
           {
@@ -390,11 +419,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c28662d944b07bd1",
+  "active": "c35b2ac853bcab3c",
   "lastOpenFiles": [
+    "Recap/Timeline.md",
+    "NPC's/The Lightning Dragon.md",
     "Recap/(Session 11) Greenleaf falls.md",
-    "Locations/Magnolian Colosseum.md",
     "Locations/Magnolia.md",
+    "Locations/Magnolian Colosseum.md",
     "NPC's/Chainsaw Man.md",
     "Lore/The Lightning Bolt.md",
     "Lore/Train Heist.md",
@@ -416,8 +447,6 @@
     "NPC's/Conquest.md",
     "NPC's/Sheila.md",
     "NPC's/Fayendel Greenleaf.md",
-    "NPC's/The Lightning Dragon.md",
-    "NPC's/Selma.md",
     "recaps_1_11.zip",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
