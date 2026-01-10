@@ -1,5 +1,5 @@
 #Stribor_Forest #NPC 
-Đorđe is a bard born in [[Stribor Forest]]. 
+Đorđe is a bard born in [[Stribor Forest]]. He is [[Ophilian]].
 # Post [[(Session 1) The Bininging]]
 He can now be found in the [[Mining Town of Jerboa]] at the [[Jerboa Saloon]] drinking cactus sweat.
 # Post [[(Session 9) Conquered]]

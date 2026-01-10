@@ -1,2 +1,2 @@
 #Stribor_Forest #Lore 
-People in [[Badija and Ophilia]], who in the [[Badija-Ophilia civil war]] hold the side of Badija.
+People in [[Badija and Ophilia]], who in the [[Badija-Ophilia civil war]] hold the side of Badija. Badijan families are easily distinguished by their last name ending in -ovi, -ov or -ova depending on the gender.

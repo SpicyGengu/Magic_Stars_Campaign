@@ -10,7 +10,7 @@ Lady Iron functions much like holding 2 fortress shields at once. You can choose
 ## Iron Will `pf2:1`
 **Frequency** Once per day.
 **Requirement** Both sides of Lady Iron must be raised and [[#Castlefall (Siege Hold) `pf2 1`]] hasn't yet been used today.
-**Effect** Enclosing yourself within the warm embrace of Lady Iron you activate it. Magic spikes instantaneously pierce your body dealing 6d6 + 10 magic damage. For the next minute you gain an additional +1 to grapple and shove actions. In addition you ignore all and any speed penalty.
+**Effect** Enclosing yourself within the warm embrace of Lady Iron you activate it. Magic spikes instantaneously pierce your body dealing 6d6 + 10 magic damage. For the next minute you gain a +2 to grapple and shove actions. In addition you ignore all and any speed penalty.
 ## Castlefall (Siege Hold) `pf2:1`
 **Frequency** Once per day.
 **Requirement** You have successfully grappled an enemy and [[#Iron Will `pf2 1`]] hasn't yet been used today.
