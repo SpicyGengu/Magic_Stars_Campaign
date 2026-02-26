@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1335a82f94836b8",
+        "id": "4c6376606bfe15db",
         "type": "tabs",
         "children": [
           {
-            "id": "09e4034ca1be6451",
+            "id": "dbb3f7ed176de7ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Living City of Kali.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Living City of Kali"
+              "title": "Backlinks for (Session 11) Greenleaf falls"
             }
           },
           {
@@ -109,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from (Session 11) Greenleaf falls"
             }
           },
           {
@@ -137,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruzinavi Brod.md",
+                "file": "Recap/(Session 11) Greenleaf falls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ruzinavi Brod"
+              "title": "Outline of (Session 11) Greenleaf falls"
             }
           },
           {
@@ -161,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,35 +177,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09e4034ca1be6451",
+  "active": "dbb3f7ed176de7ca",
   "lastOpenFiles": [
+    "Locations/Magnolian Library.md",
     "Recap/(Session 11) Greenleaf falls.md",
     "Recap/(Session 10) Knights of New Jerboa.md",
-    "Recap/(Session 9) Conquered.md",
-    "Recap/(Session 8) What.md",
-    "Recap/(Session 7) Ar-gone Silliax.md",
-    "Recap/(Session 6) Destructive Activism.md",
-    "Recap/(Session 5) Nuke-ali.md",
-    "Recap/(Session 4) The Undying.md",
-    "Recap/(Session 3) Colosseum of the Dead.md",
-    "Recap/(Session 2) New Kali.md",
-    "Recap/(Session 1) The Bininging.md",
-    "Recap/Timeline.md",
-    "Locations/Armadillo.md",
-    "NPC's/Petra Oklopova.md",
-    "NPC's/Jakov Miličić.md",
-    "NPC's/Dimitar Oklopov.md",
-    "NPC's/Andrej Belić.md",
-    "Lore/Lady Iron.md",
-    "Locations/Zmajev Plamen.md",
-    "Locations/Magnolian Library.md",
-    "butt.md",
     "Locations/Magnolia.md",
-    "Locations/Magnolian Slums.md",
-    "NPC's/Dropotito Shopolito.md",
-    "Lore/Star Fragment.md",
+    "NPC's/Arthur.md",
+    "Recap/Timeline.md",
+    "Lore/The Mark of The Stars.md",
+    "NPC's/Yalier Verdrak.md",
+    "Lore/Operation Useful Idiot.md",
+    "Locations/Magnolian Colosseum.md",
+    "NPC's/The Lightning Dragon.md",
+    "NPC's/Chainsaw Man.md",
+    "Lore/The Lightning Bolt.md",
+    "Lore/Train Heist.md",
+    "NPC's/Dimitar Oklopov.md",
+    "Locations/Zmajev Plamen.md",
+    "NPC's/Jakov Miličić.md",
+    "NPC's/Mike Mihaelov.md",
+    "Locations/Living City of Kali.md",
+    "Lore/Badijan.md",
+    "Lore/Ophilian.md",
+    "NPC's/Petra Oklopova.md",
+    "NPC's/Đorđe Balašević.md",
+    "NPC's/Andrej Belić.md",
+    "Locations/Sokolov Wedding.md",
+    "Lore/Lady Iron.md",
     "recaps_1_11.zip",
-    "NPC's/Fayendel Greenleaf.md",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
     "Assets/Townscaper 2025-10-27 14-08-42.png",
