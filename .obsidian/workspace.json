@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Friendly's Captors.md",
+                "file": "NPC's/Friendly's Captors.md",
                 "mode": "source",
                 "source": false
               },
@@ -248,11 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "14f10bafd6c3047c",
   "lastOpenFiles": [
-    "Locations/Fabriccado's Workshop.md",
-    "Friendly's Captors.md",
     "Locations/Brass Barbershop.md",
+    "NPC's/Friendly's Captors.md",
+    "Locations/Fabriccado's Workshop.md",
     "Lore/Badijan.md",
     "Locations/Magnolian Slums.md",
     "Recap/(Session 11) Greenleaf falls.md",
