@@ -11,4 +11,4 @@ Going back to the bridge the team will notice another diverging path leading int
 # Maze
 Trying to leave once again another path will appear. This one is a maze made of the samme rock as the bridge. In the middle of the maze a large bell. Hitting the bell with anything other than the intended tool, has a chance to shatter the bell. Ringing the bell using the bell tool will shatter the maze and turn it into very soft ash. Out of the bell an old scribe will fall out ([[Ruzinavi Brod]]). Now it will be possible to jump of the bridge cliff without any problems.
 # Elders Chambers
-Jumping off the cliff and into the abyss, once can now softly land on the stone ashes. 
+Jumping off the cliff and into the abyss, once can now softly land on the stone ashes. This is the last room inside this tomb. It is where [[The Elder]] can be found hanging from the ceiling.
