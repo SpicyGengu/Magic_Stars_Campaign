@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Wine & Dine"
             }
+          },
+          {
+            "id": "c4be0c83f42ecc2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Abandoned Graveyard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abandoned Graveyard"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8cc45e84693a1be",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
+    "Locations/Abandoned Graveyard.md",
+    "Locations/Wine & Dine.md",
     "NPC's/The Elder.md",
     "Locations/Magnolian Library.md",
     "Recap/(Session 11) Greenleaf falls.md",
@@ -232,8 +248,6 @@
     "Lore/Ophilian.md",
     "NPC's/Petra Oklopova.md",
     "NPC's/Đorđe Balašević.md",
-    "NPC's/Andrej Belić.md",
-    "Locations/Sokolov Wedding.md",
     "recaps_1_11.zip",
     "Assets/Townscaper 2025-10-27 14-41-34.png",
     "Assets/Townscaper 2025-10-27 14-06-10.png",
