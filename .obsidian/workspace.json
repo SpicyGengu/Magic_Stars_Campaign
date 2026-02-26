@@ -73,8 +73,7 @@
               "title": "Melany"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4be0c83f42ecc2d",
+  "active": "dbb3f7ed176de7ca",
   "lastOpenFiles": [
     "NPC's/Melany.md",
     "Locations/Abandoned Graveyard.md",
