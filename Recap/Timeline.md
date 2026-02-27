@@ -29,5 +29,7 @@
 - In [[Armadillo]] 12 days
 - Trip to [[Magnolia]] 6 days
 - In [[Magnolia]] 35 days 
+# [[(Session 12) ...]]
+- In [[Magnolia]] 1 +  days
 # Total time spent
 182 days = 26 weeks = 6.5 months
