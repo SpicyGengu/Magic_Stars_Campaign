@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "4d8939564af68ef5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "276bdbdfa06bdc1d",
+  "active": "4d8939564af68ef5",
   "lastOpenFiles": [
     "Lore/Kali Conspiracies.md",
     "Lore/Kali Elites.md",

@@ -1,2 +1,4 @@
 #Yarrow_Dessert #NPC #Dead-Gone 
 [[Grimshot]]'s now deceased wife. She died of sickness, gave her soul to [[Sombra de los Muertos]] and in doing so gave [[Grimshot]] a few more years to live. Bonnie is now buried in [[Crows Point]]. [[Jenny]] is there almost every day to mourn her and bring flowers to [[Bonnie's Grave]].
+# Bonnies Rebirth
+[[Sombra de los Muertos|Sombra]] was deeply struck by Bonnies love for [[Grimshot]]. He couldn't get himself to sever her from this life, so he made an exception. He begged the [[Nameless King]] for a favour. Bonnie was to be given another chance at life, so that she could have a chance to fall in love with [[Grimshot]] once more. The [[Nameless King]] made her a new body and [[Sombra de los Muertos]] rid her of disease. This came at a great cost. [[Sombra de los Muertos]] sacrificed his immortality to save Bonnie.
