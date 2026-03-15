@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/voda_outpost_near_dragon_cave.avif"
+                "file": "Assets/star_tomb_magnolia.jpg"
               },
               "icon": "lucide-image",
-              "title": "voda_outpost_near_dragon_cave"
+              "title": "star_tomb_magnolia"
             }
           },
           {
@@ -209,17 +209,17 @@
   },
   "active": "3f3eb23f23f1339a",
   "lastOpenFiles": [
+    "Assets/star_tomb_magnolia_lava.jpg",
+    "Assets/star_tomb_crows_point.svg",
     "Assets/star_tomb_magnolia.jpg",
-    "Assets/voda_hq.avif",
     "Assets/voda_outpost_near_dragon_cave.avif",
+    "Assets/voda_hq.avif",
     "Assets/Townscaper 2025-10-27 13-46-45.png",
     "Assets/Townscaper 2025-10-27 13-44-36.png",
     "Assets/Townscaper 2025-10-27 13-42-33.png",
     "Assets/Townscaper 2025-10-27 13-41-05.png",
     "Assets/Townscaper 2025-10-27 13-36-15.png",
     "Assets/Townscaper 2025-01-21 10-04-15.png",
-    "Assets/Townscaper 2024-06-15 17-24-20.png",
-    "Assets/Townscaper 2024-06-15 17-21-59.png",
     "Recap/(Session 12) A Time of Reflection.md",
     "Lore/Kali Conspiracies.md",
     "Lore/Kali Elites.md",
