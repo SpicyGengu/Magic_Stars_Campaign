@@ -139,6 +139,13 @@
         "a": 1,
         "rgb": 16712965
       }
+    },
+    {
+      "query": "tag:#Writers_Notes ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
