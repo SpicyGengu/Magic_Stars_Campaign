@@ -11,10 +11,12 @@
             "id": "3f3eb23f23f1339a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Assets/voda_outpost_near_dragon_cave.avif"
+              },
+              "icon": "lucide-image",
+              "title": "voda_outpost_near_dragon_cave"
             }
           },
           {
@@ -35,16 +37,17 @@
             "id": "4d8939564af68ef5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Recap/(Session 12) A Time of Reflection.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "(Session 12) A Time of Reflection"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +207,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d8939564af68ef5",
+  "active": "3f3eb23f23f1339a",
   "lastOpenFiles": [
+    "Assets/star_tomb_magnolia.jpg",
+    "Assets/voda_hq.avif",
+    "Assets/voda_outpost_near_dragon_cave.avif",
+    "Assets/Townscaper 2025-10-27 13-46-45.png",
+    "Assets/Townscaper 2025-10-27 13-44-36.png",
+    "Assets/Townscaper 2025-10-27 13-42-33.png",
+    "Assets/Townscaper 2025-10-27 13-41-05.png",
+    "Assets/Townscaper 2025-10-27 13-36-15.png",
+    "Assets/Townscaper 2025-01-21 10-04-15.png",
+    "Assets/Townscaper 2024-06-15 17-24-20.png",
+    "Assets/Townscaper 2024-06-15 17-21-59.png",
+    "Recap/(Session 12) A Time of Reflection.md",
     "Lore/Kali Conspiracies.md",
     "Lore/Kali Elites.md",
     "Locations/Jerboa Stable.md",
@@ -230,19 +245,7 @@
     "Lore/Badijan.md",
     "NPC's/Friendly's Captors.md",
     "Locations/Fabriccado's Workshop.md",
-    "Locations/Brass Barbershop.md",
-    "NPC's/Tayanna Sinclair.md",
     "recaps_1_11.zip",
-    "Assets/Townscaper 2025-10-27 14-41-34.png",
-    "Assets/Townscaper 2025-10-27 14-06-10.png",
-    "Assets/Townscaper 2025-10-27 14-08-42.png",
-    "Assets/Townscaper 2025-10-27 13-49-43.png",
-    "Assets/Townscaper 2025-10-27 13-48-27.png",
-    "Assets/Townscaper 2025-10-27 13-43-35.png",
-    "Assets/Townscaper 2025-10-27 13-44-36.png",
-    "Assets/Townscaper 2025-10-27 13-46-09.png",
-    "Assets/Townscaper 2025-10-27 13-42-33.png",
-    "Assets/Townscaper 2025-10-27 13-46-45.png",
     "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
     "Assets/voda_hq.avif.crdownload",
     "Assets",
