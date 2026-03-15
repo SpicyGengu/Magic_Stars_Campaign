@@ -201,7 +201,7 @@
         "color": "#850000"
       },
       {
-        "query": "tag:#Recap  ",
+        "query": "path:Recap  ",
         "color": "#ff00a2"
       },
       {

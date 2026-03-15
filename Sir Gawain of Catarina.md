@@ -1,0 +1,2 @@
+#Lore  #Magnolian_Sea 
+Gawain was a legendary knight. The best swordsman in all of [[Magnolia]]. He's tales of slaying beasts and armies alike have since all become legends told through generations. Beside his swordsmanship, Gawain's many proficiencies included the pen. He wrote a book called [[]]
