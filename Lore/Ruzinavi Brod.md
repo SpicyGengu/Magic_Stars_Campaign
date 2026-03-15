@@ -1,5 +1,5 @@
 #Lore #Magnolian_Sea 
-Ruzinavi Brod is a pre-historic sea shanty originating from old [[Magnolia]]n sailors. It is a meme among [[Magnolia]]n people. 
+Ruzinavi Brod is a pre-historic sea shanty originating from old [[Magnolia]]n sailors. It is a meme among [[Magnolia]]n people. Singing the song while understanding it's lyrics will lay fourth the way to the [[Star Tomb (Magnolia)]].
 # Original lyrics
 ---
 Vise ne pantin ca san tija  

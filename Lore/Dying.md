@@ -1,7 +1,7 @@
 #Lore 
 There are multiple steps to dying in this world. 
 # The Living
-First there are the living, this is the base case. People get born and live in this world experiencing and creating stories. [[Nameless King]] is in a sense a god of this domain. They make sure to live a legendary life creating stories and characters, to make sure the living have something to talk about and someone to aspire to. Although the [[Nameless King]] doesn't realise that's what they're doing.
+First there are the living, this is the base case. People get born and live in this world experiencing and creating stories. [[Nameless King]] is in a sense a god of this domain. They make sure to live a legendary life creating stories and characters, to make sure the living have something to talk about and someone to aspire to. Although the [[Nameless King]] doesn't realize that's what they're doing.
 # The Dead
 Once a person has rid themselves of all worldly possessions and desires, they are allowed to die. Dying means that you no longer exist. It feels like sleeping, just nothing. In the grand scheme of things this is a very new concept. Created and upheld by [[Sombra de los Muertos]]. He helps people rid themselves of all their worldly possessions and desires, in order to truly die. He knows how pointless life is without death, which is why he does what he does. He is a crucial part of building legends. When a legend dies [[Sombra de los Muertos]], gives them another chance at life if they can prove themselves in the [[Colosseum of The Damned]]. In this way he rewards people who don't take their life for granted and instead live it to its fullest.
 # The Damned

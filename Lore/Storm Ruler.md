@@ -1,2 +1,2 @@
 #Lore #Magnolian_Sea 
-[[Yhorm, King of the Damned]] once held two of these, but gave one to the humans that doubted him, and left the other to a dear friend before facing his fate as the King of the [[Dying#The Damned|the Damned]].
+[[Yhorm, King of the Damned]] once held two of these, but gave one to the humans that doubted him, and left the other to a dear friend before facing his fate as the King of the [[Dying#The Damned|the Damned]]. This sword can be used to deliver devastating blows to [[Yhorm, King of the Damned]].
