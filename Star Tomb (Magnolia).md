@@ -9,3 +9,7 @@ This place is crawling with an endless, but relatively slow spawning, supply of 
 ## Center
 None of the Abyss watchers dear step foot onto the center. This will not be abundently clear, but the center is a trap. Steping in the center doesn't do anything noteworthy at first. Try leaving and you will soon be filled with regret. Beside not being able to leave, one will begin to hear voices contributing with suicidal suggestions, refeting to you as "little lamb". Only way to leave is by entering the effect of dying, meaning one can only leave while dead.
 ## Abyss Watcher Stats
+https://2e.aonprd.com/NPCs.aspx?ID=1986
+# 3rd Floor
+![[star_tomb_magnolia_lava.jpg]]
+The 3rd floor is filled with the souls of [[Dying#The Damned|the damned]]. It is like a pool of hands grabbing anything and anyone they can. In the middle of the room
