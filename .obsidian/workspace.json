@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f28e4752978d4e28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "8988f19ed6aa75ed",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d65026eb772d1b6b",
+  "active": "f28e4752978d4e28",
   "lastOpenFiles": [
     "Recap/(Session 12) A Time of Reflection.md",
     "Locations/Abandoned Graveyard.md",
