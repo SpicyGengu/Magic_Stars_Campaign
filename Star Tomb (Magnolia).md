@@ -12,4 +12,8 @@ None of the Abyss watchers dear step foot onto the center. This will not be abun
 https://2e.aonprd.com/NPCs.aspx?ID=1986
 # 3rd Floor
 ![[star_tomb_magnolia_lava.jpg]]
-The 3rd floor is filled with the souls of [[Dying#The Damned|the damned]]. It is like a pool of hands grabbing anything and anyone they can. In the middle of the room
+The 3rd floor is filled with the souls of [[Dying#The Damned|the damned]]. It is like a pool of hands grabbing anything and anyone they can. In the middle of the room an archangel hovers over the sea of death. It has no face, but a halo.
+## Archangel Stats
+https://2e.aonprd.com/NPCs.aspx?ID=1689
+- It has wings so it can fly.
+- Can use 3 actions to rase the sea floor.
