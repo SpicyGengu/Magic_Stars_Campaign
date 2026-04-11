@@ -19,4 +19,4 @@ https://2e.aonprd.com/NPCs.aspx?ID=1689
 - Can use 3 actions to rase the sea floor.
 # 4th Floor
 ![[star_tomb_magnolia_throne.jpg]]
-The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central sorce of magic negation, specificaly the throne. 
+The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central sorce of magic negation, specificaly the throne. [[Storm Ruler]] doesn't work here unless the throne is destroied.
