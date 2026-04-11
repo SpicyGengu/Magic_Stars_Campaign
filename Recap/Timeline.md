@@ -32,6 +32,8 @@
 # [[(Session 12) A Time of Reflection]]
 - In [[Magnolia]] 4 days
 # [[(Session 13) ...]]
-- In [[Magnolia]] 2 days
+- In [[Magnolia]] 7 days
+- At [[Magnolian Sea]] 14 days
+- 
 # Total time spent
 182 days = 26 weeks = 6.5 months
