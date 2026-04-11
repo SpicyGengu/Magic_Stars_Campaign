@@ -37,72 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Friendly's Captors.md",
+                "file": "Locations/Star Tomb (Magnolia).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friendly's Captors"
-            }
-          },
-          {
-            "id": "dc3ee595d2357bfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Theseus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theseus"
-            }
-          },
-          {
-            "id": "5fac808306011222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/A Toast to A Knigh's Promise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Toast to A Knigh's Promise"
-            }
-          },
-          {
-            "id": "718ceb4e9ea8cf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Sir Gawain of Catarina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sir Gawain of Catarina"
-            }
-          },
-          {
-            "id": "a0639da2b9e943d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ruzinavi Brod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruzinavi Brod"
+              "title": "Star Tomb (Magnolia)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toa",
+                "query": "star tomb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,21 +206,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0639da2b9e943d6",
+  "active": "b5309ad8d50c4a20",
   "lastOpenFiles": [
-    "NPC's/Yhorm, King of the Damned.md",
-    "Lore/Storm Ruler.md",
-    "Lore/Sir Gawain of Catarina.md",
-    "Lore/A Toast to A Knigh's Promise.md",
     "NPC's/Friendly's Captors.md",
     "NPC's/Theseus.md",
+    "Lore/A Toast to A Knigh's Promise.md",
+    "Lore/Sir Gawain of Catarina.md",
+    "Lore/Ruzinavi Brod.md",
+    "NPC's/Yhorm, King of the Damned.md",
+    "Lore/Storm Ruler.md",
     "Lore/Badijan.md",
     "Recap/Timeline.md",
     "Lore/Grand Beluga.md",
     "Recap/(Session 12) A Time of Reflection.md",
     "Locations/Star Tomb (New Kali).md",
     "Locations/Star Tomb (Crows Point).md",
-    "Star Tomb (Magnolia).md",
+    "Locations/Star Tomb (Magnolia).md",
     "Locations/Abandoned Graveyard.md",
     "Lore/Train Heist.md",
     "Assets/star_tomb_magnolia_throne.jpg",
@@ -289,7 +234,6 @@
     "NPC's/Bonnie.md",
     "How does this even end?.md",
     "butt.md",
-    "Lore/Ruzinavi Brod.md",
     "NPC's/The Lightning Dragon.md",
     "NPC's/Jakov Miličić.md",
     "Lore/Dying.md",
