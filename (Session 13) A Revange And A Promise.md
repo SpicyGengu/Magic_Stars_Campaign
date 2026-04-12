@@ -1,0 +1,2 @@
+#Lore #Recap 
+Starting at their head quarters, [[Star Up]] made a list of all the things they still needed done. [[Yalier Verdrak|Yalier]] needed a better prosthetic for his arm; [[Friendly]] had a score to settle with his [[Friendly's Captors|Captors]]; [[Grimshot]] needed to make a plan for a voyage; and [[Sombra (Calaca Sinclair)|Calaca]] made a big image for herself, this image needed upkeeping ofcourse. 

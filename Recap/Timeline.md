@@ -31,9 +31,9 @@
 - In [[Magnolia]] 35 days 
 # [[(Session 12) A Time of Reflection]]
 - In [[Magnolia]] 4 days
-# [[(Session 13) ...]]
+# [[(Session 13) A Revange And A Promise]]
 - In [[Magnolia]] 7 days
 - At [[Magnolian Sea]] 14 days
-- 
+- On [[Gawain's Island]] 1 day
 # Total time spent
 182 days = 26 weeks = 6.5 months
