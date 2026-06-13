@@ -13,3 +13,4 @@
 - [[Sombra de los Muertos|Sombra]] and the [[Nameless King]] retire by severing themselves after one final dance?
 - [[Living City of Kali|Kali]] learns of [[Adam's Apple|The Apple]] and tires to acquire it for them selves?
 - [[Line]] picks up an interest in inventing and seeks out [[Yalier Verdrak]] for mentorship?
+- [[Yalier Verdrak|Yalier]] decides to nuke [[Living City of Kali]]?
