@@ -3,6 +3,8 @@ On a remote island in the [[Magnolian Sea]], reachable only by true understandin
 # 1st Floor
 ![[star_tomb_magnolia.jpg]]
 This first area is ruled by a vengful goblin spirit. This goblin trickster has layed traps all over this area. His most common one, a tumbling bulder. Killing him is the only way to get rid of all the traps. He is a goast so he can't be killed by any normal means.
+## Secret room
+Searching for traps the players have a chance to come uppon a secret room that hides a chest. In this chest one can find the [[Ring of Oroboros]] lying on top of a pile of platnum coin.
 # 2nd Floor
 ![[star_tomb_magnolia_center.png]]
 This place is crawling with an endless, but relatively slow spawning, supply of Abyss watcher enemies. It is in essence a free for all to them. After defeating the last abyss watcher, he will throw himself down into the abyss becoming the Archangle in the [[#3rd Floor]]. 
