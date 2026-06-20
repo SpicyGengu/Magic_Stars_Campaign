@@ -32,17 +32,17 @@
             }
           },
           {
-            "id": "e1ce4691faa608e0",
+            "id": "2864c446563c10d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/(Session 13) A Revange And A Promise.md",
+                "file": "Locations/Nameless City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Session 13) A Revange And A Promise"
+              "title": "Nameless City"
             }
           },
           {
@@ -60,209 +60,17 @@
             }
           },
           {
-            "id": "9881d01838340ad0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Locations/Star Tomb (Magnolia).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Dead-Gone",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:Recap  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711842
-                      }
-                    },
-                    {
-                      "query": "tag:#Player  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8716288
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16758328
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13341477
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7265750
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3735548
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1359282
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6184150
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4144568
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3420643
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest  path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3471671
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1682971
-                      }
-                    },
-                    {
-                      "query": "path:Locations",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9717448
-                      }
-                    },
-                    {
-                      "query": "path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9122228
-                      }
-                    },
-                    {
-                      "query": "path:NPC's",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4861032
-                      }
-                    },
-                    {
-                      "query": "tag:#louise",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16712965
-                      }
-                    },
-                    {
-                      "query": "tag:#Writers_Notes ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.993229166666667,
-                  "lineSizeMultiplier": 1.00709342560554,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Star Tomb (Magnolia)"
-            }
-          },
-          {
-            "id": "30de862864e6f46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ring of Oroboros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ring of Oroboros"
-            }
-          },
-          {
             "id": "00500b4aa5f2b8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Yhorm, King of the Damned.md",
+                "file": "Lore/Grand Beluga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yhorm, King of the Damned"
+              "title": "Grand Beluga"
             }
           }
         ],
@@ -298,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "star tomb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -426,24 +234,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9881d01838340ad0",
+  "active": "00500b4aa5f2b8b1",
   "lastOpenFiles": [
-    "Recap/Timeline.md",
-    "Recap/(Session 13) A Revange And A Promise.md",
-    "Ring of Oroboros.md",
     "Locations/Star Tomb (Magnolia).md",
-    "Assets/oroboros_ring.jpg",
+    "Recap/(Session 13) A Revange And A Promise.md",
+    "Recap/Timeline.md",
+    "Locations/Nameless City.md",
+    "Lore/Grand Beluga.md",
     "NPC's/Yhorm, King of the Damned.md",
+    "Locations/Gawain's Island.md",
+    "Lore/Sir Gawain of Catarina.md",
+    "Lore/Storm Ruler.md",
+    "Lore/Ring of Oroboros.md",
+    "Assets/oroboros_ring.jpg",
     "How does this even end?.md",
     "Recap/(Session 12) A Time of Reflection.md",
     "NPC's/Friendly's Captors.md",
     "NPC's/Theseus.md",
     "Lore/A Toast to A Knigh's Promise.md",
-    "Lore/Sir Gawain of Catarina.md",
     "Lore/Ruzinavi Brod.md",
-    "Lore/Storm Ruler.md",
     "Lore/Badijan.md",
-    "Lore/Grand Beluga.md",
     "Locations/Star Tomb (New Kali).md",
     "Locations/Star Tomb (Crows Point).md",
     "Locations/Abandoned Graveyard.md",
@@ -454,7 +264,6 @@
     "Assets/Unconfirmed 671615.crdownload",
     "Lore/Star Tomb Bandits.md",
     "Lore/Adam's Apple.md",
-    "Locations/Nameless City.md",
     "NPC's/Bonnie.md",
     "butt.md",
     "NPC's/The Lightning Dragon.md",

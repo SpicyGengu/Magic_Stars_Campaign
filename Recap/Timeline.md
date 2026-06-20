@@ -36,4 +36,4 @@
 - At [[Magnolian Sea]] 14 days
 - On [[Gawain's Island]] 1 day
 # Total time spent
-182 days = 26 weeks = 6.5 months
+28 days = 30 weeks = 7.5 months
