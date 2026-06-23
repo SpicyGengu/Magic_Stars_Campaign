@@ -1,2 +1,4 @@
 #Magnolian_Sea #NPC 
-A man considered to be the God of the sea. Single handidly maning a ship considered to be a phisical anomaly. No [[Magnolian Pirates|Magnolian Pirate]] fears a man as much as they fear Black Beard sailing the [[Flying Dutchman]]. He uses souls of the [[Dying#The Damned|Damned]] to power the [[Flying Dutchman]] and the rest of his fleet. 
+A man considered to be the God of the sea. Others belive him to be the devil. A man capable of single handidly maning a ship considered to be a phisical anomaly. No [[Magnolian Pirates|Magnolian Pirate]] fears a man as much as they fear Black Beard sailing the [[Flying Dutchman]]. He uses souls of the [[Dying#The Damned|Damned]] to power the [[Flying Dutchman]] and the rest of his fleet, as he sinks countless vessels in persiut of tresure. His thirst for souls and booty is unquenchable.
+# [[Vampire|Vampiric]] Hieritige
+Black Beard is a [[Vampire]] who has learned to controll his power of soul collecting. He can breath under water. He manages the [[Flying Dutchman]] by transfering souls of the [[Dying#The Damned|Damned]] into magic powering his ship.  

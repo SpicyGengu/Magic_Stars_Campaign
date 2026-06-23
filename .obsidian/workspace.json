@@ -129,8 +129,7 @@
               "title": "Black Sparrow"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,10 +289,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e27218f8202fc79",
+  "active": "d75f1970eefeb26b",
   "lastOpenFiles": [
-    "Lore/Flying Dutchman.md",
     "NPC's/Black Beard.md",
+    "Lore/Flying Dutchman.md",
     "Recap/Timeline.md",
     "NPC's/Sombra de los Muertos.md",
     "Lore/Magnolian Pirates.md",
