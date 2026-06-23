@@ -1,0 +1,2 @@
+#Magnolian_Sea #NPC 
+A man considered to be the God of the sea. Single handidly maning a ship considered to be a phisical anomaly. No [[Magnolian Pirates|Magnolian Pirate]] fears a man as much as they fear Black Beard sailing the [[Flying Dutchman]]. 
