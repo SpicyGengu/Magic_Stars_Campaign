@@ -32,17 +32,17 @@
             }
           },
           {
-            "id": "2864c446563c10d7",
+            "id": "8e27218f8202fc79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Nameless City.md",
+                "file": "Lore/Magnolian Pirates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nameless City"
+              "title": "Magnolian Pirates"
             }
           },
           {
@@ -60,21 +60,49 @@
             }
           },
           {
-            "id": "00500b4aa5f2b8b1",
+            "id": "6e6b0417336200f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Grand Beluga.md",
+                "file": "Lore/Shared History of Theseus and Paloma Blanca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Beluga"
+              "title": "Shared History of Theseus and Paloma Blanca"
             }
           },
           {
-            "id": "d763277d4dbb487f",
+            "id": "6e9a855897f9781b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Night of the Black Sparrow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Night of the Black Sparrow"
+            }
+          },
+          {
+            "id": "e66e397e77a4796e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Paloma Blanca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paloma Blanca"
+            }
+          },
+          {
+            "id": "ac3791ca5b99edf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,23 +114,9 @@
               "icon": "lucide-file",
               "title": "Black Sparrow"
             }
-          },
-          {
-            "id": "60b7049ba591b045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Brass Barbershop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brass Barbershop"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,15 +276,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8968c6e38a778df9",
+  "active": "6e6b0417336200f0",
   "lastOpenFiles": [
-    "Lore/Black Sparrow.md",
-    "Lore/Grand Beluga.md",
-    "Locations/Brass Barbershop.md",
     "Locations/Star Tomb (Magnolia).md",
-    "Recap/(Session 13) A Revange And A Promise.md",
+    "Lore/Magnolian Pirates.md",
     "Recap/Timeline.md",
+    "Lore/William Hawkins.md",
+    "NPC's/Nameless King.md",
+    "Lore/Night of the Black Sparrow.md",
+    "NPC's/Paloma Blanca.md",
+    "Lore/Shared History of Theseus and Paloma Blanca.md",
+    "NPC's/Zina.md",
+    "Lore/Grand Beluga.md",
     "Locations/Nameless City.md",
+    "Lore/Black Sparrow.md",
+    "Locations/Brass Barbershop.md",
+    "Locations/Tortuga.md",
+    "Recap/(Session 13) A Revange And A Promise.md",
     "NPC's/Yhorm, King of the Damned.md",
     "Locations/Gawain's Island.md",
     "Lore/Sir Gawain of Catarina.md",
@@ -283,18 +305,10 @@
     "NPC's/Theseus.md",
     "Lore/A Toast to A Knigh's Promise.md",
     "Lore/Ruzinavi Brod.md",
-    "Lore/Badijan.md",
-    "Locations/Star Tomb (New Kali).md",
-    "Locations/Star Tomb (Crows Point).md",
-    "Locations/Abandoned Graveyard.md",
-    "Lore/Train Heist.md",
     "Assets/star_tomb_magnolia_throne.jpg",
     "Assets/Unconfirmed 743788.crdownload",
     "Assets/BustlingBazaarPublic.jpg",
     "Assets/Unconfirmed 671615.crdownload",
-    "Lore/Star Tomb Bandits.md",
-    "Lore/Adam's Apple.md",
-    "NPC's/Bonnie.md",
     "Assets/star_tomb_magnolia_center.png",
     "Assets/star_tomb_magnolia_center.webp",
     "Assets/star_tomb_magnolia.jpg",

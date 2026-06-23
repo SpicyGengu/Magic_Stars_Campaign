@@ -1,0 +1,2 @@
+#Magnolian_Sea #Lore  
+William was a persona the [[Nameless King]] took once not so long ago to serve as a [[Magnolia]]n sailor under [[Paloma Blanca]]s leadership. He was responsible for the revival of the [[Black Sparrow]] using the help of [[Sombra de los Muertos]].
