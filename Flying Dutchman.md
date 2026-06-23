@@ -1,1 +1,2 @@
-#Magnolian_Sea 
+#Magnolian_Sea #Lore 
+A goast ship with the crew of but one man. A ship that for all intensve pourpuses shouldn't be allowed to float. [[Magnolian Pirates]] may argue that it is a ship wreck more than a vessel, and whilst many of them might dispute and argue one thought is unified. It's is an uneasy and unplesent sight to see while sailing the [[Magnolian Sea]]. The captain of this ship is the one they call [[Black Beard]]. He, and he alone is responsible for maning this and sometimes accompanying fleet of goast ships that can choose to emerge out of the water 
