@@ -129,7 +129,8 @@
               "title": "Black Sparrow"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "God",
+                "query": "#pl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,11 +290,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75f1970eefeb26b",
+  "active": "9ba27bfb49b7e1f6",
   "lastOpenFiles": [
+    "Recap/Timeline.md",
     "NPC's/Black Beard.md",
     "Lore/Flying Dutchman.md",
-    "Recap/Timeline.md",
     "NPC's/Sombra de los Muertos.md",
     "Lore/Magnolian Pirates.md",
     "Locations/Star Tomb (Magnolia).md",
