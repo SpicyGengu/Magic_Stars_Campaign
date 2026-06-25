@@ -1,4 +1,6 @@
 #Writers_Notes 
+# Ship Stats
+
 # Initiative
 The initiative is calculated by a perception contest between the two people who most likely spotted the other ship first.
 # Roles
