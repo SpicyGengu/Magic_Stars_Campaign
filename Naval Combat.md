@@ -14,6 +14,6 @@ Optimally there is only one pilot at any time. This is because the pilot has ful
 - **Load**; Loading the cannons requires the round to be spent. While loading the cannons the Cannoneers also need to decide on the type of ammo to load.
 - **Switch Post**; A cannoneer can only focus on one post at a time. Running over to the other side of the ship for example, requires the cannoneer to spend their turn on that.
 ## Deck Runners
-- **Hoist/Unfirl The Sails**; This action changes the speed at witch the ship sails. 
+- **Hoist/Unfurl The Sails**; This action changes the speed at witch the ship sails. 
 - **Repair**; The deck runner has to make a crafting check in order to repair the ship. Usually this gives the ship 1d8 of heals with it being double for critical success and negative for critical failure.
 - **Load**; Deck Runners, exactly like [[Naval Combat#Cannoneers|Cannoneers]], can load cannons. Loading the cannons requires the round to be spent. While loading the cannons the deck runners also need to decide on the type of ammo to load.
