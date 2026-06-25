@@ -6,12 +6,12 @@ The black sparrow didn't always go by this name. Back when she was first built s
 ### Figure
 - **Size: 1**
 - **AC: 28**
-- **HP: ?**
+- **HP: 200**
 ### Movement
 - **Speed: 5**
 - **Steering (turns per round): 5**
 ### Range
-- **Close Range: 0 - 2**
+- **Close Range: 1 - 2**
 - **Medium Range: 3 - 6**
 - **Long Range: 7 - 12**
 ### Fire-power
