@@ -60,6 +60,184 @@
             }
           },
           {
+            "id": "901c509ca2794b46",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Naval Combat.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Dead-Gone",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "path:Recap  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711842
+                      }
+                    },
+                    {
+                      "query": "tag:#Player  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8716288
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14075484
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:Lore  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16758328
+                      }
+                    },
+                    {
+                      "query": "tag:#Yarrow_Dessert path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13341477
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7265750
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3735548
+                      }
+                    },
+                    {
+                      "query": "tag:#Magnolian_Sea path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1359282
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6184150
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4144568
+                      }
+                    },
+                    {
+                      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3420643
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest  path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest path:Lore  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3471671
+                      }
+                    },
+                    {
+                      "query": "tag:#Stribor_Forest path:NPC's  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1682971
+                      }
+                    },
+                    {
+                      "query": "path:Locations",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9717448
+                      }
+                    },
+                    {
+                      "query": "path:Lore",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9122228
+                      }
+                    },
+                    {
+                      "query": "path:NPC's",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4861032
+                      }
+                    },
+                    {
+                      "query": "tag:#louise",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16712965
+                      }
+                    },
+                    {
+                      "query": "tag:#Writers_Notes ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.993229166666667,
+                  "lineSizeMultiplier": 1.00709342560554,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Naval Combat"
+            }
+          },
+          {
             "id": "b5309ad8d50c4a20",
             "type": "leaf",
             "state": {
@@ -74,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,13 +412,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ba73491f45ace1",
+  "active": "901c509ca2794b46",
   "lastOpenFiles": [
+    "Lore/Black Sparrow.md",
+    "Naval Combat.md",
     "Assets/naval_visualize.jpeg",
     "Assets/Unconfirmed 235393.crdownload",
     "Locations/Star Tomb (Magnolia).md",
-    "Lore/Black Sparrow.md",
-    "Naval Combat.md",
     "Lore/Grand Beluga.md",
     "NPC's/Paloma Blanca.md",
     "Lore/Shared History of Theseus and Paloma Blanca.md",
@@ -274,7 +452,6 @@
     "Assets/star_tomb_magnolia_lava.jpg",
     "Assets/star_tomb_crows_point.svg",
     "Assets/voda_outpost_near_dragon_cave.avif",
-    "Assets/voda_hq.avif",
     "recaps_1_11.zip",
     "Assets/voda_outpost_near_dragon_cave.avif.crdownload",
     "Assets/voda_hq.avif.crdownload",

@@ -1,6 +1,22 @@
 #Writers_Notes 
 # Ship Stats
-
+### Figure
+- **Size:** How many squares the ship occupies.
+- **AC:** Ships armor class. Used for calculating hits.
+- **HP:** Ships maximum hitpoints
+### Movement
+- **Top Speed: 5**
+- **Steering (turns per round): 5**
+### Range
+- **Close Range: 1 - 2**
+- **Medium Range: 3 - 6**
+- **Long Range: 7 - 12**
+### Fire-power
+- **Side Cannons: 3d8**
+- **Front Cannons: 1d12 + 5**
+### Ammo
+- **Cannon Ball: 1x dmg**
+- **Chain Shot: 0.5x dmg**
 # Initiative
 The initiative is calculated by a perception contest between the two people who most likely spotted the other ship first.
 # Roles
