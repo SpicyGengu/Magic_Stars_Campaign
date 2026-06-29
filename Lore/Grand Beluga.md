@@ -17,8 +17,8 @@ Kali has sent out some of their own spies to keep an eye on the cargo. If any on
 - **Medium Range: 5 - 12**
 - **Long Range: 13 - 18**
 ### Fire-power
-- **Side Cannons: 3d8**
-- **Front Cannons: 1d12 + 5**
+- **Side Cannons: 3d12**
+- **Explosive **
 ### Ammo
 - **Cannon Ball: 1x dmg**
-- **Chain Shot: 0.5x dmg**
+- 
