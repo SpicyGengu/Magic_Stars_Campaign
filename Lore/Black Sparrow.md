@@ -8,7 +8,7 @@ The black sparrow didn't always go by this name. Back when she was first built s
 - **AC: 28**
 - **HP: 200**
 ### Movement
-- **Speed: 5**
+- **Top Speed: 5**
 - **Steering (turns per round): 5**
 ### Range
 - **Close Range: 1 - 2**

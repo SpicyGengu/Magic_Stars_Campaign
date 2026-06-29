@@ -19,3 +19,8 @@ Optimally there is only one pilot at any time. This is because the pilot has ful
 - **Hoist/Unfurl The Sails**; This action changes the speed at witch the ship sails. 
 - **Repair**; The deck runner has to make a crafting check in order to repair the ship. Usually this gives the ship 1d8 of heals with it being double for critical success and negative for critical failure.
 - **Load**; Deck Runners, exactly like [[Naval Combat#Cannoneers|Cannoneers]], can load cannons. Loading the cannons requires the round to be spent. While loading the cannons the deck runners also need to decide on the type of ammo to load.
+# Ship Speed Calculation
+The way a ship moves in on a certain turn is in no way linear. The specific amount of tiles a ship moves forward in a direction is decided by the following equation:  
+$$
+Top Speed \
+$$ 
