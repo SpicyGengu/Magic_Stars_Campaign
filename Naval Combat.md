@@ -16,14 +16,23 @@ Optimally there is only one pilot at any time. This is because the pilot has ful
 - **Load**; Loading the cannons requires the round to be spent. While loading the cannons the Cannoneers also need to decide on the type of ammo to load.
 - **Switch Post**; A cannoneer can only focus on one post at a time. Running over to the other side of the ship for example, requires the cannoneer to spend their turn on that.
 ## Deck Runners
-- **Hoist/Unfurl The Sails**; This action changes the speed at witch the ship sails. 
+- **Hoist/Unfurl The Sails**; This action changes the speed at witch the ship sails. More specifically the $S_\%$ variable can be changed.
 - **Repair**; The deck runner has to make a crafting check in order to repair the ship. Usually this gives the ship 1d8 of heals with it being double for critical success and negative for critical failure.
 - **Load**; Deck Runners, exactly like [[Naval Combat#Cannoneers|Cannoneers]], can load cannons. Loading the cannons requires the round to be spent. While loading the cannons the deck runners also need to decide on the type of ammo to load.
 # Ship Speed Calculation
 The way a ship moves in on a certain turn is in no way linear. The specific amount of tiles a ship moves forward in a direction is decided by the following equation:  
 $$
-Top Speed \
+Speed = \frac{T_s \cdot S_\% \cdot (5 - dp)}{5}
 $$
+
+| Variable |    Definition     | Domain  |
+| :------: | :---------------: | :-----: |
+|  $T_s$   |     Top Speed     | \[1, 5] |
+|  $S_\%$  | Sails Percentile  | \[0, 1] |
+|   $dp$   | Direction Penalty | \[0, 4] |
+
+## Calculation Visualization
+![[naval_visualize.jpeg]]
 
 | Speed | Ts = 5 | Ts = 3 | Ts = 2 |
 | :---: | :----: | :----: | :----: |
