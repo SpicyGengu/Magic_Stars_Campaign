@@ -23,4 +23,15 @@ Optimally there is only one pilot at any time. This is because the pilot has ful
 The way a ship moves in on a certain turn is in no way linear. The specific amount of tiles a ship moves forward in a direction is decided by the following equation:  
 $$
 Top Speed \
-$$ 
+$$
+
+| Speed | Ts = 5 | Ts = 3 | Ts = 2 |
+| :---: | :----: | :----: | :----: |
+|   N   |   5    |   3    |   2    |
+|  NE   |   4    |   2    |   1    |
+|  NW   |   4    |   2    |   1    |
+|   E   |   3    |   2    |   1    |
+|   W   |   3    |   2    |   1    |
+|  SE   |   2    |   1    |   1    |
+|  SW   |   1    |   1    |   1    |
+|   S   |   1    |   1    |   0    |
