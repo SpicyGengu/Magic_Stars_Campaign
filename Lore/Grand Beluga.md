@@ -4,3 +4,21 @@ A ship of great stature. The Grand Beluga, also known as "Ship of [[Theseus]]", 
 On the way back, before picking [[Star Up]] from [[Gawain's Island]], [[Theseus]] and his crew will have picked up a shipment of "cargo" sent from [[Living City of Kali]] and set for [[Magnolian Bay]]. The "cargo" in question are [[Badijan]] and [[Ophilian]] children that were trained for war. Some of these kids are the same ones that were discovered on the [[Train Heist]] all those months ago. This morally questionable cargo is naturally to attract some unwanted attention. [[Black Sparrow]] will eventually find it's way and attack the Grand Beluga.
 ## [[Brass Barbershop#Stats of the Living City of Kali Kali spies|Kali Spies]]
 Kali has sent out some of their own spies to keep an eye on the cargo. If any one man intentionally or accidentally uncovers the truth of what the "cargo" is, the spies will be there to cut there to shave them bold and cut their tongue out, throwing them in with the rest of the slaves. 
+# Stats
+### Figure
+- **Size: 2**
+- **AC: 25**
+- **HP: 400**
+### Movement
+- **Top Speed: 2**
+- **Steering (turns per round): 0.5**
+### Range
+- **Close Range: 1 - 4**
+- **Medium Range: 5 - 12**
+- **Long Range: 13 - 18**
+### Fire-power
+- **Side Cannons: 3d8**
+- **Front Cannons: 1d12 + 5**
+### Ammo
+- **Cannon Ball: 1x dmg**
+- **Chain Shot: 0.5x dmg**

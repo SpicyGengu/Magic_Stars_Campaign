@@ -73,7 +73,8 @@
               "title": "Star Tomb (Magnolia)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,14 +234,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75f1970eefeb26b",
+  "active": "3ececf5793a76fba",
   "lastOpenFiles": [
+    "Lore/Black Sparrow.md",
+    "Lore/Grand Beluga.md",
     "Naval Combat.md",
     "Locations/Star Tomb (Magnolia).md",
-    "Lore/Black Sparrow.md",
     "Assets/naval_visualize.jpeg",
     "Assets/Unconfirmed 235393.crdownload",
-    "Lore/Grand Beluga.md",
     "NPC's/Paloma Blanca.md",
     "Lore/Shared History of Theseus and Paloma Blanca.md",
     "NPC's/Theseus.md",

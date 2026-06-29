@@ -12,8 +12,8 @@ The black sparrow didn't always go by this name. Back when she was first built s
 - **Steering (turns per round): 5**
 ### Range
 - **Close Range: 1 - 2**
-- **Medium Range: 3 - 6**
-- **Long Range: 7 - 12**
+- **Medium Range: 3 - 7**
+- **Long Range: 8 - 12**
 ### Fire-power
 - **Side Cannons: 3d8**
 - **Front Cannons: 1d12 + 5**
