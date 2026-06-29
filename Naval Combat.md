@@ -3,20 +3,18 @@
 ### Figure
 - **Size:** How many squares the ship occupies.
 - **AC:** Ships armor class. Used for calculating hits.
-- **HP:** Ships maximum hitpoints
+- **HP:** Ships maximum hit-points.
 ### Movement
-- **Top Speed: 5**
-- **Steering (turns per round): 5**
+- **Top Speed:** The speed at witch the ship can sail under perfect conditions (per round).
+- **Steering (turns per round):** The amount of turns the sip is allowed to make per round.
 ### Range
-- **Close Range: 1 - 2**
-- **Medium Range: 3 - 6**
-- **Long Range: 7 - 12**
+- **Close Range:** The range at witch the cannons cannot miss. A d20 is still rolled in case of a critical failure or critical success, resulting in a 0.5x or 2x damage modifier respectively.
+- **Medium Range:** The range at witch the shooting works much like a ranged attack.
+- **Long Range:** Long range works like medium range but with disadvantage.
 ### Fire-power
-- **Side Cannons: 3d8**
-- **Front Cannons: 1d12 + 5**
+Fire-power refers to the type of artillery the ship has.
 ### Ammo
-- **Cannon Ball: 1x dmg**
-- **Chain Shot: 0.5x dmg**
+The type of ammo a ship carries can vary from ship to ship.
 # Initiative
 The initiative is calculated by a perception contest between the two people who most likely spotted the other ship first.
 # Roles
@@ -28,7 +26,7 @@ Optimally there is only one pilot at any time. This is because the pilot has ful
 - **Pivot**; Pivoting is a technique where the anchor is thrown overboard while the ship is still in motion. The ship moves up to it's size and it is allowed to use 4 turns while choosing direction. This Locks the ships movement to a radius of it's size. Un-anchoring requires 3 rounds to be spent by the [[Naval Combat#Deck Runners|Deck Runners]] retrieving the anchor. This number can vary depending on weather the [[Naval Combat#Cannoneers|Cannoneers]] also decide to help. Preforming this maneuver requires an intelligence check from the pilot, resulting in ship damage if failed.
 - **Attach**; When the vessel is next to another vessel or land, the pilot can use a free action to connect to the object. This requires the [[Naval Combat#Cannoneers|Cannoneers]] and the [[Naval Combat#Deck Runners|Deck Runners]] to roll a dexterity check. If successful the two objects now share a speed, determined by the average with account to size. 
 ## Cannoneers
-- **Fire!!!**; Firing the cannon requires the round to be spent solely on that. The cannons can only fire in a straight. That means they can only hit where they point. This action can only be taken if the cannons are loaded.
+- **Fire!!!**; Firing the cannon requires the round to be spent solely on that. The cannons can only fire in a straight line. That means they can only hit where they point. This action can only be taken if the cannons are loaded.
 - **Load**; Loading the cannons requires the round to be spent. While loading the cannons the Cannoneers also need to decide on the type of ammo to load.
 - **Switch Post**; A cannoneer can only focus on one post at a time. Running over to the other side of the ship for example, requires the cannoneer to spend their turn on that.
 ## Deck Runners
@@ -46,7 +44,7 @@ $$
 |  $T_s$   |     Top Speed     | \[1, 5] |
 |  $S_\%$  | Sails Percentile  | \[0, 1] |
 |   $dp$   | Direction Penalty | \[0, 4] |
-
+___The equation is rounded up to the nearest integer with a 0.5 being converted to 1.___
 ## Calculation Visualization
 ![[naval_visualize.jpeg]]
 
