@@ -2,3 +2,25 @@
 A ghost ship with the crew of but one man. A ship that for all intensive purposes shouldn't be allowed to float, yet its sails are always full. [[Magnolian Pirates]] may argue that it is a ship wreck more than a vessel, and whilst many of them might dispute and argue one thought is unified. It's is an uneasy and unpleasant sight to see while sailing the [[Magnolian Sea]]. The captain of this ship is the one they call [[Black Beard]]. He, and he alone is responsible for manning this and sometimes accompanying fleet of ghost ships that can choose to emerge out of the water at any point. If one may find themselves in the displeasure of witnessing this ship, their best option is to flee. Seeing as the ship is self-sustainable, trading equally damaging blows with the Flying Dutchman, the other ship simply can't afford loosing it's number of crew mates.
 # Hellish Nature
 [[Black Beard]] has a scheme in which he enslaves [[Dying]] souls making them serve him before they can even get a chance with [[Sombra de los Muertos]]. This in many aspects makes the Flying Dutchman Hell and [[Black Beard]] Satan ruling it.
+# Stats
+### Figure
+- **Size: 1**
+- **AC: 26**
+- **HP: 250**
+### Movement
+- **Top Speed: 3**
+- **Steering (turns per round): 1**
+### Range
+- **Close Range: 1 - 4**
+- **Medium Range: 5 - 9**
+- **Long Range: 10 - 15**
+### Fire-power
+- **Side Cannons: 5d8**
+- **Mortar: 4d6, radius 2
+- **Front Cannons: 2d10**
+### Ammo
+- **Cannon Ball: 1x dmg**
+- **Chain Shot: 0.5x dmg**
+### Abilities
+- **Change of Tides:** Uses an action to instantaneously change the wind direction.
+- **Start Believing In Ghost Stories:** The ship recovers 3d4 worth of health each turn.
