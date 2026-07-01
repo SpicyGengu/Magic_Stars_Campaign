@@ -1,4 +1,4 @@
-#Magnolian_Sea #Location 
+#Magnolian_Sea #Location #Dead-Gone 
 Hidden in the woods outside [[Magnolia]] there is a very new tree house that can be found. The hideout belongs to [[Antikal (Jerboa)]]. It has been built right after the events of the [[Train Heist]].
 # Residence
 - [[Rosa]]
@@ -11,6 +11,8 @@ If the party manages to find this place [[Living City of Kali|Kali]] soldiers wi
 - Killing [[Antikal (Jerboa)]], [[Tayanna Sinclair]] awards 1000 [[Star Fragment]]s
 - Leading [[Living City of Kali|Kali]] to [[Antikal (Jerboa)]], [[Tayanna Sinclair]] awards 1000 [[Star Fragment]]s
 The party will be paid according to these 3 factors. The awards are accumulative meaning the max payout for this quest is 6000 [[Star Fragment]]s. If none of these are met no award will be rewarded. 
+# Post [[(Session 12) A Time of Reflection]]
+The camp was abandoned by the remaining members of [[Antikal (Jerboa)]] when they fled.
 # Ambush Stats
 https://2e.aonprd.com/NPCs.aspx?ID=3530
 https://2e.aonprd.com/NPCs.aspx?ID=3633
