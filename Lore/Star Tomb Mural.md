@@ -1,4 +1,5 @@
 #Lore #Magnolian_Sea 
+![[star_tomb_mural.jpg]]
 This is an ancient mural located in the last room of [[Star Tomb (Magnolia)]]. The mural depicts what appears to be a humanoid figure enclosed in a circular aura. The aura is being created from 5 points of origin placed in the shape of a star. These points are like nodes that are connected with an edge, and these edges are what connects and creates this aura circle around the humanoid figure. The points all have different symbols. The symbols are: the symbol of forest, the symbol of the moon, the symbol of the ocean, the ankh symbol and a symbol of the mountains. The humanoid figure has what looks to be a helmet or a crown of sorts, and is generally wearing a lot of jewelry, indicating that this might be a person of higher status. The general tone is sinister, as if an ancient evil is being trapped in the circle of aura. The humanoid figure seems to be relaxed despite this.
 # Explanation
 The humanoid figure is the [[Nameless King]] and the 5 points are the 5 different [[Star Tomb]]s, all represented by their individual unique qualities. 
