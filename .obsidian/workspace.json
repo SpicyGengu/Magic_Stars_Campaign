@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8babcf3ff6445f5d",
+  "active": "b5309ad8d50c4a20",
   "lastOpenFiles": [
     "Lore/Star Tomb Mural.md",
     "Locations/Star Tomb (Magnolia).md",
