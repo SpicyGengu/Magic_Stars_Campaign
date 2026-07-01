@@ -46,17 +46,17 @@
             }
           },
           {
-            "id": "2146f96d70e340a0",
+            "id": "6ada22588682f7fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Star Tomb (Moon).md",
+                "file": "Locations/Star Tomb (New Kali).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star Tomb (Moon)"
+              "title": "Star Tomb (New Kali)"
             }
           },
           {
@@ -292,15 +292,16 @@
   },
   "active": "8babcf3ff6445f5d",
   "lastOpenFiles": [
+    "Locations/Star Tomb (New Kali).md",
     "Locations/Star Tomb.md",
-    "Locations/Living City of Kali.md",
-    "Locations/Star Tomb (Moon).md",
-    "Lore/Star Tomb Mural.md",
-    "Locations/Star Tomb (Magnolia).md",
     "Locations/Kastel Observatory.md",
+    "Locations/Star Tomb (Moon).md",
+    "Lore/Magnolian Pirates.md",
+    "Lore/Star Tomb Mural.md",
+    "Locations/Living City of Kali.md",
+    "Locations/Star Tomb (Magnolia).md",
     "Locations/Kastel.md",
     "Locations/Armadillo.md",
-    "Lore/Magnolian Pirates.md",
     "Lore/Antikal (Jerboa).md",
     "NPC's/Jonny.md",
     "Locations/Tree House Hideout (Antikal Jerboa).md",
@@ -319,7 +320,6 @@
     "Lore/Shared History of Theseus and Paloma Blanca.md",
     "NPC's/Theseus.md",
     "Lore/Night of the Black Sparrow.md",
-    "Lore/William Hawkins.md",
     "Assets/oroboros_ring.jpg",
     "Assets/star_tomb_magnolia_throne.jpg",
     "Assets/Unconfirmed 743788.crdownload",
