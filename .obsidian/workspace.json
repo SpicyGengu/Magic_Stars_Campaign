@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Star Tomb (Moon).md",
+                "file": "Locations/Star Tomb (Moon).md",
                 "mode": "source",
                 "source": false
               },
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Star Tomb Mural.md",
+                "file": "Lore/Star Tomb Mural.md",
                 "mode": "source",
                 "source": false
               },
@@ -292,11 +292,12 @@
   },
   "active": "8babcf3ff6445f5d",
   "lastOpenFiles": [
-    "Star Tomb Mural.md",
-    "Locations/Star Tomb (Magnolia).md",
-    "Star Tomb (Moon).md",
-    "Locations/Kastel Observatory.md",
+    "Locations/Star Tomb.md",
     "Locations/Living City of Kali.md",
+    "Locations/Star Tomb (Moon).md",
+    "Lore/Star Tomb Mural.md",
+    "Locations/Star Tomb (Magnolia).md",
+    "Locations/Kastel Observatory.md",
     "Locations/Kastel.md",
     "Locations/Armadillo.md",
     "Lore/Magnolian Pirates.md",
@@ -319,7 +320,6 @@
     "NPC's/Theseus.md",
     "Lore/Night of the Black Sparrow.md",
     "Lore/William Hawkins.md",
-    "NPC's/Black Beard.md",
     "Assets/oroboros_ring.jpg",
     "Assets/star_tomb_magnolia_throne.jpg",
     "Assets/Unconfirmed 743788.crdownload",

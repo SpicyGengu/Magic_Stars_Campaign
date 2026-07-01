@@ -1,0 +1,4 @@
+#Lore #Magnolian_Sea 
+This is a mural located in the last room of [[Star Tomb (Magnolia)]]. The mural depicts what appears to be a humanoid figure enclosed in a circular aura. The aura is being created from 5 points of origin placed in the shape of a star. These points are like nodes that are connected with an edge, and these edges are what connects and creates this aura circle around the humanoid figure. The points all have different symbols. The symbols are: the symbol of forest, the symbol of the moon, the symbol of the ocean, the symbol of 
+# Explanation
+The humanoid figure is the [[Nameless King]] and the 5 points are the 5 different [[Star Tomb]]s, all represented by their individual unique qualities. 

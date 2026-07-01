@@ -3,6 +3,7 @@ Star Tombs are ancient tombs that were created to stop the movement of [[The Sta
 # List of Locations
 - [[Star Tomb (New Kali)]] (destroyed)
 - [[Star Tomb (Crows Point)]]
-- 
+- [[Star Tomb (Magnolia)]]
+- [[Star Tomb (Moon)]]
 # Notes
 - These tombs all emanate an aura of [[Disspelling Magic]] making it difficult for magic users to properly use the [[Star Fragment]]s.
