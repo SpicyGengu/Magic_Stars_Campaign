@@ -18,7 +18,7 @@ The 3rd floor is filled with the souls of [[Dying#The Damned|the damned]]. It is
 ## Archangel Stats
 https://2e.aonprd.com/NPCs.aspx?ID=1689
 - It has wings so it can fly.
-- Can use 3 actions to rase the sea floor.
+- Can use 3 actions to raise the sea floor.
 # 4th Floor
 ![[star_tomb_magnolia_throne.jpg]]
-The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central sorce of magic negation, specificaly the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed.
+The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central source of magic negation, specifically the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed.

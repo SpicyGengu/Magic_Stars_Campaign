@@ -23,3 +23,5 @@ The [[Woodstock Family]]s cows have recently started disappearing in the night. 
 - [[Bank Of Jerboa]]
 # Post [[(Session 9) Conquered]]
 [[Living City of Kali|Kali]] has caught wind of the [[Jerboa Mine]] explosion that happened in [[(Session 7) Ar-gone Silliax]]. They have decided to set an example for other [[Yarrow Dessert]] settlements playing around with the idea of rebelling. They are gonna cleanse every last soul left in [[Mining Town of Jerboa|Jerboa]] slowly and painfully, head by head.
+# Post [[(Session 11) Greenleaf falls]]
+The town is now a mere shell of what it used to be. It is now ran by outlaws and bandits. Not a place you'd want your kids growing up.
