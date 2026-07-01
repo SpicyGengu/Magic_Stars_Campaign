@@ -21,4 +21,6 @@ https://2e.aonprd.com/NPCs.aspx?ID=1689
 - Can use 3 actions to raise the sea floor.
 # 4th Floor
 ![[star_tomb_magnolia_throne.jpg]]
-The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central source of magic negation, specifically the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed.
+The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central source of magic negation, specifically the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed. 
+# 5th Floor
+The 5th floor is by far the smallest. 
