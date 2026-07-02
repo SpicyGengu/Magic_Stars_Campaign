@@ -3,3 +3,4 @@
 # List of Locations
 - [[Magnolia]]
 - [[Tortuga]]
+- [[Gawain's Island]]
