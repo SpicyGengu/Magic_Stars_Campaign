@@ -12,6 +12,6 @@ When [[Bonnie]] fell sick she made a deal with Sombra. [[Grimshot]] and [[Bonnie
 - Sombra has a very weak spot for the [[Nameless King]]
 - Considered to be the God of death
 - He cannot kill anyone who is considered to be living
-- Needs to give the [[Nameless King]] a flower so that they remember him for a short period of time.
+- Needs to give the [[Nameless King]] a [[Lily of The Valley]], so that they remember him for a short period of time.
 # Stats
 https://2e.aonprd.com/Monsters.aspx?ID=1088&NoRedirect=1

@@ -18,3 +18,4 @@ The [[Star Tomb]]s were created by [[Sombra de los Muertos]], who wanted to imor
 - Seemingly invincible and immortal
 - Queer
 - Considered to be the God of the living
+- Can only trully remember [[Sombra de los Muertos]] after smelling a [[Lily of The Valley]]
