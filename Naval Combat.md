@@ -2,7 +2,7 @@
 # Ship Stats
 ### Figure
 - **Size:** How many squares the ship occupies.
-- **AC:** Ships armor class. Used for calculating hits.
+- **AC:** Ships armour class. Used for calculating hits.
 - **HP:** Ships maximum hit-points.
 ### Movement
 - **Top Speed:** The speed at witch the ship can sail under perfect conditions (per round).
