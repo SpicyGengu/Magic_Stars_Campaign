@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Star Tomb (Magnolia).md",
+                "file": "How does this even end questionmark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star Tomb (Magnolia)"
+              "title": "How does this even end questionmark"
             }
           },
           {
@@ -264,8 +264,8 @@
   },
   "active": "b5309ad8d50c4a20",
   "lastOpenFiles": [
-    "Naval Combat.md",
     "Locations/Star Tomb (Magnolia).md",
+    "Naval Combat.md",
     "Lore/Star Tomb Mural.md",
     "NPC's/Sombra de los Muertos.md",
     "Lore/Lily of The Valley.md",
