@@ -12,6 +12,8 @@ Nameless King is able to completely change their character's class, subclass, ra
 - Whilst the procedure is highly magical, none of it's effects can be detected by detect magic or anything similar.
 - The effects are permanent and have the same properties as if the players started with them.
 - The Nameless King does not allow changes beyond ones level.
+# [[Star Tomb]]s
+The [[Star Tomb]]s were created by [[Sombra de los Muertos]], who wanted to imortalise his true love, the [[Nameless King]]. The 5 toms are responsible for [[Nameless King]]s imortallity. As long as they stand the [[Nameless King]] cannot die. With them gone [[Nameless King]] becomes a mortal once again. This is something [[Sombra de los Muertos]] simply can't ever let happen.
 # Notes
 - Seemingly invincible and immortal
 - Queer
