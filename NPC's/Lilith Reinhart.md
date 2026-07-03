@@ -1,2 +1,2 @@
 #NPC #Silbian_Mountain_Ranges/Kali 
-Lilith is one of the [[Kali Elites]], responsible for running the [[Kali Casino]]
+Lilith is one of the [[Kali Elites]], responsible for running the [[Kali Casino]]. She is a [[Vampire]] but has grinded her teeth off to go unnoteced. She is [[Sombra (Calaca Sinclair)|Calaca]] Sinclairs grand daughter on her mother side. She has been living for a while but has been pretending to be her own made up daughteres for a while now. I think her full name as of now is thechnically Lilith Reinhart the 3rd. She doesn't need to drain people the traditional way because she drains their energy by ruining their lives and getting it that way.
