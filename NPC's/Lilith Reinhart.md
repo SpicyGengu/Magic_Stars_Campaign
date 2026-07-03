@@ -1,2 +1,2 @@
 #NPC #Silbian_Mountain_Ranges/Kali 
-Runs the [[Kali Casino]].
+Lilith is one of the [[Kali Elites]], responsible for running the [[Kali Casino]]
