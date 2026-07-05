@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sombra Speach (Yalier).md",
+                "file": "How does this even end questionmark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sombra Speach (Yalier)"
+              "title": "How does this even end questionmark"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,11 +276,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d48fa82204cfbd4",
+  "active": "2119554311a0c598",
   "lastOpenFiles": [
-    "Recap/Timeline.md",
+    "How does this even end questionmark.md",
+    "How it already ended.md",
     "Sombra Speach (Yalier).md",
     "Locations/Star Tomb (Magnolia).md",
+    "Recap/Timeline.md",
     "Lore/Star Tomb Mural.md",
     "Lore/Storm Ruler.md",
     "NPC's/Yhorm, King of the Damned.md",
@@ -297,13 +299,11 @@
     "NPC's/Nameless King.md",
     "NPC's/Line.md",
     "Recap/(Session 2) New Kali.md",
-    "How does this even end questionmark.md",
     "Recap/(Session 1) The Bininging.md",
     "NPC's/Phoenix (Louise).md",
     "NPC's/Boon.md",
     "NPC's/Grimshot.md",
     "Naval Combat.md",
-    "README.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",
