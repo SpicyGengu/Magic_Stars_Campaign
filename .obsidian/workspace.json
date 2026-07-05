@@ -32,184 +32,6 @@
             }
           },
           {
-            "id": "cc5b641acb986aa8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Recap/Timeline.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Dead-Gone",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:Recap  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711842
-                      }
-                    },
-                    {
-                      "query": "tag:#Player  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8716288
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16758328
-                      }
-                    },
-                    {
-                      "query": "tag:#Yarrow_Dessert path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13341477
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7265750
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3735548
-                      }
-                    },
-                    {
-                      "query": "tag:#Magnolian_Sea path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1359282
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6184150
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4144568
-                      }
-                    },
-                    {
-                      "query": "tag:#Silbian_Mountain_Ranges path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3420643
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest  path:Locations  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:Lore  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3471671
-                      }
-                    },
-                    {
-                      "query": "tag:#Stribor_Forest path:NPC's  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1682971
-                      }
-                    },
-                    {
-                      "query": "path:Locations",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9717448
-                      }
-                    },
-                    {
-                      "query": "path:Lore",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9122228
-                      }
-                    },
-                    {
-                      "query": "path:NPC's",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4861032
-                      }
-                    },
-                    {
-                      "query": "tag:#louise",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16712965
-                      }
-                    },
-                    {
-                      "query": "tag:#Writers_Notes ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.993229166666667,
-                  "lineSizeMultiplier": 1.00709342560554,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Timeline"
-            }
-          },
-          {
             "id": "7d48fa82204cfbd4",
             "type": "leaf",
             "state": {
@@ -264,37 +86,9 @@
               "icon": "lucide-file",
               "title": "Ring of Oroboros"
             }
-          },
-          {
-            "id": "80882f384e65f81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Starscourge 0.13.7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Starscourge 0.13.7"
-            }
-          },
-          {
-            "id": "0e11a6c4c3a710ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/(Session 13) A Revange And A Promise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Session 13) A Revange And A Promise"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -454,17 +248,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc5b641acb986aa8",
+  "active": "06348b8ffe29203c",
   "lastOpenFiles": [
     "Locations/Star Tomb (Magnolia).md",
     "Recap/Timeline.md",
-    "Recap/(Session 13) A Revange And A Promise.md",
-    "Lore/Starscourge 0.13.7.md",
-    "Lore/Ring of Oroboros.md",
-    "Lore/Storm Ruler.md",
     "NPC's/Yhorm, King of the Damned.md",
-    "Lore/Schematic Goggles.md",
+    "Lore/Storm Ruler.md",
+    "Lore/Ring of Oroboros.md",
+    "Lore/Starscourge 0.13.7.md",
+    "Lore/Lady Iron.md",
     "Lore/Train Heist.md",
+    "NPC's/Friendly.md",
+    "Recap/(Session 13) A Revange And A Promise.md",
+    "Lore/Schematic Goggles.md",
     "Locations/Kali Casino.md",
     "NPC's/Lilith Reinhart.md",
     "Locations/Crows Point.md",
@@ -480,8 +276,6 @@
     "Naval Combat.md",
     "README.md",
     "Shield and Spear duo.md",
-    "NPC's/Sombra de los Muertos.md",
-    "Locations/Star Tomb.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",

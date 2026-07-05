@@ -5,3 +5,4 @@ Yhorm is the giant responsible for withstanding the collective pain and sufferin
 - Killing him will result in the [[Dying#The Damned|damned]] getting more aggressive.
 # Stats
 https://2e.aonprd.com/Monsters.aspx?ID=4411
+Has 300
