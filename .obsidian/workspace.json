@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,13 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06348b8ffe29203c",
+  "active": "7d48fa82204cfbd4",
   "lastOpenFiles": [
-    "Locations/Star Tomb (Magnolia).md",
-    "Recap/Timeline.md",
     "NPC's/Yhorm, King of the Damned.md",
-    "Lore/Storm Ruler.md",
+    "Recap/Timeline.md",
+    "Locations/Star Tomb (Magnolia).md",
     "Lore/Ring of Oroboros.md",
+    "Lore/Storm Ruler.md",
     "Lore/Starscourge 0.13.7.md",
     "Lore/Lady Iron.md",
     "Lore/Train Heist.md",
