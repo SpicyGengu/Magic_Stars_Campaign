@@ -74,20 +74,6 @@
             }
           },
           {
-            "id": "bd82084924fb31ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Black Sparrow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Black Sparrow"
-            }
-          },
-          {
             "id": "95ad9b71dfb19321",
             "type": "leaf",
             "state": {
@@ -103,6 +89,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "0f0c977abf3a3668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd82084924fb31ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Black Sparrow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Sparrow"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,14 +269,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdc6f0601c63f8fb",
+  "active": "bd82084924fb31ee",
   "lastOpenFiles": [
+    "Naval Combat.md",
     "Recap/Timeline.md",
+    "Lore/William Hawkins.md",
+    "Lore/Grand Beluga.md",
     "Locations/Star Cathedral.md",
     "Locations/Stribor Forest.md",
-    "Lore/Grand Beluga.md",
     "Lore/Black Sparrow.md",
-    "Lore/William Hawkins.md",
     "Locations/Magnolia.md",
     "Lore/Sombra Speach (Yalier).md",
     "NPC's/Paloma Blanca.md",
@@ -289,7 +297,6 @@
     "Locations/Kali Casino.md",
     "NPC's/Lilith Reinhart.md",
     "Locations/Crows Point.md",
-    "NPC's/Nameless King.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",
