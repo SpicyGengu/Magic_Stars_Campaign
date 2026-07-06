@@ -6,7 +6,7 @@ The black sparrow didn't always go by this name. Back when she was first built s
 ### Figure
 - **Size: 1**
 - **AC: 30**
-- **HP: 200** 128/200
+- **HP: 200** 136/200
 ### Movement
 - **Top Speed: 5**
 - **Steering (turns per round): 5**
