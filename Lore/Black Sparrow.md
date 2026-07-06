@@ -5,7 +5,7 @@ The black sparrow didn't always go by this name. Back when she was first built s
 # Stats
 ### Figure
 - **Size: 1**
-- **AC: 28**
+- **AC: 30**
 - **HP: 200** 184/200
 ### Movement
 - **Top Speed: 5**
