@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,12 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6bf5914ab1846c",
+  "active": "2119554311a0c598",
   "lastOpenFiles": [
+    "Lore/Grand Beluga.md",
     "Recap/Timeline.md",
     "Lore/Black Sparrow.md",
     "Lore/William Hawkins.md",
-    "Lore/Grand Beluga.md",
     "Locations/Magnolia.md",
     "Lore/Sombra Speach (Yalier).md",
     "NPC's/Paloma Blanca.md",
