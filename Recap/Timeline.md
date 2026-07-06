@@ -37,6 +37,6 @@
 - On [[Gawain's Island]] 1 day
 # [[(Session 14) ...]]
 - In [[Star Tomb (Magnolia)]] 6 days
-- At [[Magnolian Sea]] 7/14 days
+- At [[Magnolian Sea]] 10/14 days
 # Total time spent
 28 days = 30 weeks = 7.5 months
