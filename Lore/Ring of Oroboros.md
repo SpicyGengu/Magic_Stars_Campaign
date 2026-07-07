@@ -1,6 +1,8 @@
-#Lore #Magnolian_Sea 
+#Lore #Magnolian_Sea #Dead-Gone 
 This ring is a magical item forged by an extinct jungle tribe that used to live on [[Gawain's Island]]. The tribe has since dissapeared off of the island leaving this ring behind. The ring is cursed. When a person puts on this ring they are protected from all AOE magical damage that would othewise hit them. The same instant the wearer chooses to take the ring off, all of the spells that the ring has negated go off at once, doing maximal possible damage. The ring also has a cap of 5 spells stored at any time, meaning the ring has the same effect of being taken off if a 6th spell gets negated.
-# Spell count
-- 5x [[Yalier Verdrak|Yalier]] the bomb
-- 
+# Post [[(Session 14) ...]]
+Used to severly criple [[Yhorm, King of the Damned]], the blasted off inside [[Star Tomb (Magnolia)]] never to be seen again.
+# ~~Spell count~~
+- ~~5x [[Yalier Verdrak|Yalier]] explosions~~
+
 ![[oroboros_ring.jpg]]

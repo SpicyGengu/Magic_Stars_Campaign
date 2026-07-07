@@ -1,4 +1,4 @@
-#Magnolian_Sea #Location 
+#Magnolian_Sea #Location #Dead-Gone 
 On a remote island in the [[Magnolian Sea]], reachable only by true understanding of [[Ruzinavi Brod]], lies a [[Star Tomb]] like no other. Home to [[Yhorm, King of the Damned]], it is a burryal ground of many who deared step foot in this forbidden tomb.
 # 1st Floor
 ![[star_tomb_magnolia.jpg]]
@@ -23,4 +23,6 @@ https://2e.aonprd.com/NPCs.aspx?ID=1689
 ![[star_tomb_magnolia_throne.jpg]]
 The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central source of magic negation, specifically the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed. 
 # 5th Floor
-The 5th floor is by far the smallest. From the ceiling a ray of light breaks through, and in the middle of this room the spotlight gently shines on a bonsai tree. On the tree grow peaches made of [[Star Fragment]]s. The room walls are covered by the [[Star Tomb Mural]]. ![[star_tomb_mural.jpg]] 
+The 5th floor is by far the smallest. From the ceiling a ray of light breaks through, and in the middle of this room the spotlight gently shines on a bonsai tree. On the tree grow peaches made of [[Star Fragment]]s. The room walls are covered by the [[Star Tomb Mural]]. ![[star_tomb_mural.jpg]]
+# Post [[(Session 14) ...]]
+The throne in [[Star Tomb (Magnolia)#4th Floor|Room 4]] was destroyed by [[Star Up]] rendering the whole tomb powerless. 
