@@ -24,5 +24,5 @@ https://2e.aonprd.com/NPCs.aspx?ID=1689
 The 4th and last room is where [[Yhorm, King of the Damned]] resides. It is also the central source of magic negation, specifically the throne. [[Storm Ruler]] doesn't work here unless the throne is destroyed. 
 # 5th Floor
 The 5th floor is by far the smallest. From the ceiling a ray of light breaks through, and in the middle of this room the spotlight gently shines on a bonsai tree. On the tree grow peaches made of [[Star Fragment]]s. The room walls are covered by the [[Star Tomb Mural]]. ![[star_tomb_mural.jpg]]
-# Post [[(Session 14) ...]]
+# Post [[(Session 14) Suffering]]
 The throne in [[Star Tomb (Magnolia)#4th Floor|Room 4]] was destroyed by [[Star Up]] rendering the whole tomb powerless. 

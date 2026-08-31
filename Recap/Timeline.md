@@ -35,7 +35,7 @@
 - In [[Magnolia]] 7 days
 - At [[Magnolian Sea]] 14 days
 - On [[Gawain's Island]] 1 day
-# [[(Session 14) ...]]
+# [[(Session 14) Suffering]]
 - In [[Star Tomb (Magnolia)]] 6 days
 - At [[Magnolian Sea]] 13 days
 # Total time spent
