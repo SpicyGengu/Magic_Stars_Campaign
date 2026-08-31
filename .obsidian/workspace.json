@@ -86,9 +86,21 @@
               "icon": "lucide-file",
               "title": "(Session 14) ..."
             }
+          },
+          {
+            "id": "6619c7c98d1a3f90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d14fdd0cac1a98a",
+  "active": "6619c7c98d1a3f90",
   "lastOpenFiles": [
     "Recap/(Session 13) A Revange And A Promise.md",
     "Recap/(Session 14) ....md",
