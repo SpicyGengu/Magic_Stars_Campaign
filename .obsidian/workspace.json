@@ -18,76 +18,6 @@
             }
           },
           {
-            "id": "1cade8ab77843429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Lothric Goldworth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lothric Goldworth"
-            }
-          },
-          {
-            "id": "223aeb830ff054d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Grimshot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grimshot"
-            }
-          },
-          {
-            "id": "b791748ae0383651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Yalier Verdrak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yalier Verdrak"
-            }
-          },
-          {
-            "id": "43ba5060656e7b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Sombra Speach (Yalier).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sombra Speach (Yalier)"
-            }
-          },
-          {
-            "id": "a9f7cd35d6541d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Friendly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Friendly"
-            }
-          },
-          {
             "id": "2119554311a0c598",
             "type": "leaf",
             "state": {
@@ -130,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#pl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,17 +222,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43ba5060656e7b71",
+  "active": "9d14fdd0cac1a98a",
   "lastOpenFiles": [
+    "How does this even end questionmark.md",
+    "Recap/(Session 14) ....md",
+    "Recap/(Session 13) A Revange And A Promise.md",
+    "Recap/Timeline.md",
+    "NPC's/Lothric Goldworth.md",
+    "NPC's/Grimshot.md",
     "NPC's/Yalier Verdrak.md",
     "NPC's/Friendly.md",
-    "NPC's/Grimshot.md",
-    "NPC's/Lothric Goldworth.md",
-    "Recap/Timeline.md",
+    "Lore/Sombra Speach (Yalier).md",
     "Lore/Goldworth Family.md",
     "NPC's/Nameless King.md",
-    "Recap/(Session 13) A Revange And A Promise.md",
-    "Recap/(Session 14) ....md",
     "Locations/Star Tomb (Magnolia).md",
     "NPC's/Sombra de los Muertos.md",
     "NPC's/Argon Silliax.md",
@@ -318,8 +250,6 @@
     "Lore/Ring of Oroboros.md",
     "Lore/Black Sparrow.md",
     "Locations/Star Cathedral.md",
-    "Locations/Stribor Forest.md",
-    "Locations/Magnolia.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",

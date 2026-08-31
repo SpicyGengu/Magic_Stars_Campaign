@@ -1,1 +1,2 @@
 #Lore #Recap 
+[[Gawain's Island]] had now reviled it's true nature. From the [[Magnolian Sea|Magnolian Depths]] rose a rich and living jungle. This was most certainly where the [[Star Tomb (Magnolia)]] was located. Having teamed up with [[Sir Gawain of Catarina]], [[Star Up]] was now ready to explore what they came here for. Exploring the jungle, the party came across some ainchent ruines that led them down a long forgotten cave. 
