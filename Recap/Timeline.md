@@ -39,4 +39,4 @@
 - In [[Star Tomb (Magnolia)]] 6 days
 - At [[Magnolian Sea]] 13 days
 # Total time spent
-28 days = 30 weeks = 7.5 months
+227 days = 33.5 weeks = 8 months

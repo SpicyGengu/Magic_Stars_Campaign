@@ -6,7 +6,7 @@ Race: Human
 Age: 33 
 
 # Backstory 
-Lucian Goldworth the not well known middle child of the [[Goldworth Family]]. A family of nobles going back centuries. 
+Lucian Goldworth the not well known only child of the [[Goldworth Family]]. A family of nobles going back centuries. 
 
 Here we have Lucian; he was never good at school, neither in the political ways of his family. It was always for the same reason, no passion. Seemed like he had little interest in anything except the gun range. Boy could he shoot accurately. Seemed like with an Arquebus in Lucians hand there wasn’t a shot too risky.
 
