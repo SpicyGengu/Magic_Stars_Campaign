@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "ea2c54ebd7186550",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
             "id": "a9f7cd35d6541d5b",
             "type": "leaf",
             "state": {
@@ -73,7 +85,8 @@
               "title": "Star Tomb (Magnolia)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -233,7 +248,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75f1970eefeb26b",
+  "active": "ea2c54ebd7186550",
   "lastOpenFiles": [
     "NPC's/Friendly.md",
     "NPC's/Nameless King.md",
