@@ -73,8 +73,7 @@
               "title": "(Session 14) Suffering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,11 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6ac5f4d58966e2d",
+  "active": "d75f1970eefeb26b",
   "lastOpenFiles": [
+    "Lore/Goldworth Family.md",
     "Recap/(Session 14) Suffering.md",
-    "Recap/Timeline.md",
     "Recap/(Session 13) A Revange And A Promise.md",
+    "Recap/Timeline.md",
     "Locations/Living City of Kali.md",
     "How does this even end questionmark.md",
     "NPC's/Lothric Goldworth.md",
@@ -248,7 +248,6 @@
     "NPC's/Yalier Verdrak.md",
     "NPC's/Friendly.md",
     "Lore/Sombra Speach (Yalier).md",
-    "Lore/Goldworth Family.md",
     "NPC's/Nameless King.md",
     "Locations/Star Tomb (Magnolia).md",
     "NPC's/Sombra de los Muertos.md",
