@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "eae81e908a9a45c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "c6ac5f4d58966e2d",
             "type": "leaf",
             "state": {
@@ -73,7 +85,8 @@
               "title": "(Session 14) Suffering"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +248,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75f1970eefeb26b",
+  "active": "eae81e908a9a45c0",
   "lastOpenFiles": [
     "Lore/Goldworth Family.md",
     "Recap/(Session 14) Suffering.md",
