@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hopeless",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d14fdd0cac1a98a",
+  "active": "8968c6e38a778df9",
   "lastOpenFiles": [
     "NPC's/Yalier Verdrak, Hope of The Hopeless.md",
     "Locations/Star Tomb (Magnolia).md",
