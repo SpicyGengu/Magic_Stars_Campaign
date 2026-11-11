@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "c6ac5f4d58966e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Goldworth Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goldworth Family"
-            }
-          },
-          {
             "id": "2119554311a0c598",
             "type": "leaf",
             "state": {
@@ -46,20 +32,6 @@
             }
           },
           {
-            "id": "95ad9b71dfb19321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/(Session 13) A Revange And A Promise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Session 13) A Revange And A Promise"
-            }
-          },
-          {
             "id": "9d14fdd0cac1a98a",
             "type": "leaf",
             "state": {
@@ -71,20 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "(Session 14) Suffering"
-            }
-          },
-          {
-            "id": "0305ad61be4a03d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/(Session 1) The Bininging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Session 1) The Bininging"
             }
           },
           {
@@ -115,7 +73,8 @@
               "title": "Yalier Verdrak, Hope of The Hopeless"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,16 +237,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75f1970eefeb26b",
+  "active": "9d14fdd0cac1a98a",
   "lastOpenFiles": [
     "NPC's/Yalier Verdrak, Hope of The Hopeless.md",
+    "Locations/Star Tomb (Magnolia).md",
+    "Recap/(Session 1) The Bininging.md",
+    "Recap/(Session 14) Suffering.md",
+    "Recap/(Session 13) A Revange And A Promise.md",
+    "Recap/Timeline.md",
+    "Lore/Goldworth Family.md",
     "Locations/New Kali Store.md",
     "How does this even end questionmark.md",
     "NPC's/Friendly.md",
     "Locations/Dropotito Shopolito's Shop.md",
     "Locations/Armadillo.md",
-    "Recap/(Session 14) Suffering.md",
-    "Recap/(Session 13) A Revange And A Promise.md",
     "Recap/(Session 12) A Time of Reflection.md",
     "Recap/(Session 11) Greenleaf falls.md",
     "Recap/(Session 10) Knights of New Jerboa.md",
@@ -299,13 +262,9 @@
     "Recap/(Session 4) The Undying.md",
     "Recap/(Session 3) Colosseum of the Dead.md",
     "Recap/(Session 2) New Kali.md",
-    "Locations/Star Tomb (Magnolia).md",
     "NPC's/Argon Silliax.md",
     "Lore/Antikal (Jerboa).md",
-    "Recap/(Session 1) The Bininging.md",
     "Lore/Ring of Oroboros.md",
-    "Lore/Sombra Speach (Yalier).md",
-    "Lore/Star Up.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",
