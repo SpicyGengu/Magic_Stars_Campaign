@@ -1,4 +1,4 @@
 #Location #Magnolian_Sea 
 Home and workplace of [[Dropotito Shipolito]]. Here one can buy stolen and resold prosthetics.
 # Post [[(Session 11) Greenleaf falls]]
-[[Yalier Verdrak, Hope of The Hopeless]] works here semi regularly now.
+[[Yalier Verdrak, Hope of The Hopeless|Yalier]] works here semi regularly now.
