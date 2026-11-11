@@ -74,6 +74,32 @@
             }
           },
           {
+            "id": "0305ad61be4a03d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recap/(Session 1) The Bininging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Session 1) The Bininging"
+            }
+          },
+          {
+            "id": "074f1365ddb935d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "7f061d1b83a089b9",
             "type": "leaf",
             "state": {
@@ -88,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hopeless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +169,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,10 +277,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d14fdd0cac1a98a",
+  "active": "074f1365ddb935d7",
   "lastOpenFiles": [
-    "Locations/Star Tomb (Magnolia).md",
+    "NPC's/Argon Silliax.md",
+    "Lore/Antikal (Jerboa).md",
+    "Recap/(Session 2) New Kali.md",
+    "Recap/(Session 1) The Bininging.md",
+    "Locations/New Kali Store.md",
+    "Lore/Ring of Oroboros.md",
+    "Lore/Sombra Speach (Yalier).md",
+    "Lore/Star Up.md",
+    "Lore/Starscourge 0.13.7.md",
+    "NPC's/Žar.md",
+    "NPC's/Yalier Verdrak, Hope of The Hopeless.md",
     "Recap/(Session 14) Suffering.md",
+    "Locations/Star Tomb (Magnolia).md",
     "Locations/Gawain's Island.md",
     "Lore/Goldworth Family.md",
     "Recap/(Session 13) A Revange And A Promise.md",
@@ -262,22 +300,11 @@
     "How does this even end questionmark.md",
     "NPC's/Lothric Goldworth.md",
     "NPC's/Grimshot.md",
-    "NPC's/Yalier Verdrak.md",
     "NPC's/Friendly.md",
-    "Lore/Sombra Speach (Yalier).md",
     "NPC's/Nameless King.md",
     "NPC's/Sombra de los Muertos.md",
-    "NPC's/Argon Silliax.md",
     "Lore/Sir Gawain of Catarina.md",
     "NPC's/Yhorm, King of the Damned.md",
-    "Locations/Star Tomb (New Kali).md",
-    "Lore/William Hawkins.md",
-    "Locations/Brass Barbershop.md",
-    "Lore/Grand Beluga.md",
-    "Naval Combat.md",
-    "Lore/Night of the Black Sparrow.md",
-    "Lore/Shared History of Theseus and Paloma Blanca.md",
-    "Lore/Ring of Oroboros.md",
     "Assets/oroboros_ring.jpg",
     "Assets/naval_visualize.jpeg",
     "Assets/karma2.png",

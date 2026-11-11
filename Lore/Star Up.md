@@ -3,6 +3,6 @@ A new group of fighters going by the name "Star Up" has started preforming at th
 # Members
 - [[Sombra (Calaca Sinclair)]]
 - ~~[[Fayendel Greenleaf]]~~
-- [[Friendly]]
+- ~~[[Friendly]]~~
 - [[Grimshot]]
-- [[Yalier Verdrak]]
+- ~~[[Yalier Verdrak, Hope of The Hopeless|Yalier Verdrak]]~~

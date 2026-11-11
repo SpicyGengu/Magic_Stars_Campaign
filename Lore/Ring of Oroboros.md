@@ -3,6 +3,6 @@ This ring is a magical item forged by an extinct jungle tribe that used to live 
 # Post [[(Session 14) Suffering]]
 Used to severly criple [[Yhorm, King of the Damned]], the blasted off inside [[Star Tomb (Magnolia)]] never to be seen again.
 # ~~Spell count~~
-- ~~5x [[Yalier Verdrak|Yalier]] explosions~~
+- ~~5x [[Yalier Verdrak, Hope of The Hopeless|Yalier]] explosions~~
 
 ![[oroboros_ring.jpg]]
